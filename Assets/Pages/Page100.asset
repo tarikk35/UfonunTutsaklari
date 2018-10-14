@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page100
+  m_EditorClassIdentifier: 
+  storyText: "Coleman'\u0131n yan\u0131na gidip ona dik dik bakt\u0131n: \n\"B\xF6yle
+    bir \u015Feyi kesinlikle yapmam. D\xFCr\xFCst ve mert\xE7e bir davran\u0131\u015F
+    olmaz bu. Yaln\u0131zca al\xE7akl\u0131k ve aptall\u0131k olur.\"\n Coleman \xF6fkeyle
+    hayk\u0131rd\u0131: \n\"Hadi ordan! Sen akl\u0131n\u0131 ka\xE7\u0131rm\u0131\u015F
+    olmal\u0131s\u0131n. On binlik seni bekliyor.\" \nAma sen \xE7oktan kumsal\u0131
+    ko\u015Farak ge\xE7ip Bru'nun yan\u0131na ula\u015Fm\u0131\u015Ft\u0131n bile.
+    Bru sakland\u0131\u011F\u0131 \xE7al\u0131l\u0131\u011F\u0131n arkas\u0131ndan
+    \xE7\u0131k\u0131p merakla sordu: \n\"Hey, ne oluyor? Ne bu tela\u015F\u0131n?\"
+    \n\"Coleman bir TV istasyonuna haber verdi,\" diye anlatt\u0131n.\n \"TV ekibi
+    senin filmini \xE7ekmek \xFCzere hemen buraya geliyor.\"\n Bru sana do\u011Fru
+    s\u0131\xE7rad\u0131. Eline dokunarak: \"Te\u015Fekk\xFCrler dostum. Seni hi\xE7bir
+    zaman unutmayaca\u011F\u0131m!\" dedi yine top gibi d\xF6nerek havaland\u0131.
+    Havada, arkas\u0131nda b\u0131rakt\u0131\u011F\u0131 izi g\xF6rebiliyordun. Bir
+    hafta sonra evinin \xE7evresinde y\xFCr\xFCrken izleniyormu\u015Fsun gibi garip
+    bir his duydun. D\xF6nd\xFCn ve hemen arkanda Bru'yu g\xF6rd\xFCn. \n\"Merhaba
+    dostum. Seni g\xF6rmeye geldim.\" diyordu. \xC7ok eski iki arkada\u015F gibi kucakla\u015Ft\u0131n\u0131z.\r\n"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

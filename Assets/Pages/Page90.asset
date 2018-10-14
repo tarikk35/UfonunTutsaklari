@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page90
+  m_EditorClassIdentifier: 
+  storyText: "Tehdidini tekrarlad\u0131n. Hi\xE7bir de\u011Fi\u015Fiklik olmad\u0131.
+    Kim Li eliyle kolunu tuttu.\n\"B\xF6yle s\xF6ylemeseydin daha iyi olacakt\u0131\"
+    dedi. Onu yan\u0131tlamak \xFCzereyken birden g\xF6zlerin k\xF6r edici sar\u0131
+    bir \u0131\u015F\u0131kla kama\u015Ft\u0131. Bu sizin ve UFO5440'daki t\xFCm \xF6teki
+    yarat\u0131klar\u0131n ba\u015F\u0131na gelen son \u015Feydi."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

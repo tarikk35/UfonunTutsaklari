@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page10
+  m_EditorClassIdentifier: 
+  storyText: "\tInku, bir heykel uzatt\u0131. \u0130nce,uzun bir insan ba\u015F\u0131yd\u0131
+    bu.\n+\"Bunu yapmak i\xE7in tam y\xFCz y\u0131l u\u011Fra\u015Ft\u0131m.U-TY y\xF6neticileri
+    bu heykelin onlar\u0131 galaksi cenneti Ultima'ya g\xF6t\xFCrece\u011Fine inan\u0131yor.
+    Bu heykel kimdeyse onun emirlerine uyarlar. Ama bir ko\u015Fulla ; bu ki\u015Fi
+    bir insan olmal\u0131. Ben insan olmad\u0131\u011F\u0131ma g\xF6re bunu senin
+    kullanmak gerek.Ama bana s\xF6z ver: E\u011Fer bu geminin denetimini ele ge\xE7irirsen
+    beni kendi gezegenime g\xF6t\xFCreceksin.\"\n\tBir an, karar vermeden \xF6nce
+    \xF6\u011Frenmek istedi\u011Fim bir \u015Fey var : Ultima'ya ula\u015Fabilir miyim
+    diye d\xFC\u015F\xFCnd\xFCn.\n+\"Ne yapman gerekti\u011Fini se\xE7erek oraya varamazs\u0131n\"dedi
+    Inku. Tam ona ne demek istedi\u011Fini soracakt\u0131n ki beyninin i\xE7inde bir
+    ses duydun :\nTURUNCU RENKLI ISIGI TAKIP EDEREK DUNYALILARIN BULUNDUGU ODAYA DONUN.KIMSEYLE
+    KONUSMAYIN.YANINIZA HICBIR SEY ALMAYIN.\n\tInku +\"\u015Eimdi hemen gitmelisin!
+    Beni buradan kurtarmaya s\xF6z erirsen heykeli de al .\" diyerek onu sana uzatt\u0131.\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 9daf177aa398a8040a556d103c892bca, type: 2}
+  - {fileID: 11400000, guid: bfb3a621c920bc1458e10f7710bd3ca7, type: 2}
+  pathText: "Heykeli alacaksan 1'e,\nHeykeli Inku'da b\u0131rak\u0131caksan 2'ye bas."

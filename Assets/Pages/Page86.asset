@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page86
+  m_EditorClassIdentifier: 
+  storyText: "\"\u0130mdat! Kurtar\u0131n beni!\" diye n\xF6bet\xE7ilere ba\u011F
+    \u0131rd\u0131n. Hemen d\xF6nd\xFCler. Bir tanesi seni yakalad\u0131 ve yere yat\u0131rarak
+    \xFCzerini arad\u0131. Sonra ellerin havada titreyerek aya\u011Fa kalkt\u0131n.
+    \xD6teki n\xF6bet\xE7iler de sana do\u011Fru ko\u015Ftular. U-TY robotlar\u0131
+    gitmi\u015Flerdi bile. N\xF6bet\xE7ilerden biri ellerini kelep\xE7eledi ve seni
+    \xF6n kap\u0131ya do\u011Fru s\xFCr\xFCklemeye ba\u015Flad\u0131. \xD6tekiler
+    etrafta birbirlerine seslenerek ko\u015Fu\u015Fuyorlard\u0131. Polis arabalalar\u0131
+    caddeyi kapatm\u0131\u015Ft\u0131 bile. Bir grup polis y\u0131k\u0131lan duvara
+    do\u011Fru ko\u015Fuyor \xF6tekiler de m\xFCzenin \xE7evresini sar\u0131yordu."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 998273976ab2c454da0d755324c53b99, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page57
+  m_EditorClassIdentifier: 
+  storyText: "\tKarar\u0131n \xFCzerine kaptan telsizle K\u0131y\u0131 \rKoruma'y\u0131
+    aray\u0131p durumu anlatt\u0131. Ama \rburadaki g\xF6revliler uzayl\u0131 bir
+    yarat\u0131\u011F\u0131n gemide \rbulundu\u011Fu \xF6yk\xFCs\xFCne inanmay\u0131p
+    bunu bir \r\u015Faka olarak d\xFC\u015F\xFCnd\xFCler ve bol bol g\xFCl\xFCp \rsizinle
+    e\u011Flendiler. \r\n+\"Neyse! Nas\u0131lsa iki g\xFCn \rsonra limanday\u0131z.
+    Kendi g\xF6zleriyle g\xF6r\xFCrlerse \r\ninan\u0131rlar belki.\" \r\n\tErtesi
+    sabah Mopo ve kaptanla birlikte \rg\xFCvertedeydin. Kaptan d\xFCrb\xFCnle \xE7evreyi
+    \rkola\xE7an ediyordu. \n+\"E\u011Fer hava biraz y\xFCkselirse \r\nburadan Rainier
+    Da\u011F\u0131'n\u0131 g\xF6rebiliriz.\" \r\nBirden arka g\xFCverteden bir denizci
+    heyecanla ba\u011F\u0131rd\u0131. \r\n\"Do\u011Fu yon\xFCnde denizden \xE7\u0131kmak
+    \xFCzere \r\nolan bir denizalt\u0131 var... Bayra\u011F\u0131.. \r\norak \r\xE7eki\xE7li
+    ! \" \r\n+\"Ruslar! Rus bunlar!\" \r\n\"K\u0131y\u0131 Korumaya verdi\u011Finiz
+    mesaj\u0131n\u0131z\u0131 dinlediler mutlaka\u201D dedi Mopo. Kaptan ba\u015F\u0131n\u0131\r
+    sallad\u0131.\n\"Evet, galiba hakl\u0131s\u0131n!\"\n \"Bak\u0131n bak\u0131n!
+    \rDo\u011Fruca \xFCst\xFCm\xFCze do\u011Fru geliyorlar. Bordalayacaklar herhalde
+    ! \" \r\n\"Sak\u0131n Mopo'yu almalar\u0131na izin vermeyin\" \ndiye ba\u011F\u0131rd\u0131n. "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 68faee05dedc2e043815760a6964f001, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

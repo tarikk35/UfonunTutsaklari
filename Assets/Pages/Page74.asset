@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page74
+  m_EditorClassIdentifier: 
+  storyText: "Kap\u0131 birden sonuna kadar a\xE7\u0131ld\u0131. Fitch ve Mackin aya\u011Fa
+    f\u0131rlad\u0131lar. Kap\u0131da duran sert y\xFCzl\xFC, keskin bak\u0131\u015Fl\u0131
+    adam\u0131n y\xFCksek r\xFCtbeli bir polis komiseri oldu\u011Fu belliydi. Seni
+    bir s\xFCre s\xFCzd\xFCkten sonra \xF6tekilere d\xF6nd\xFC:\n\"\u015Eimdi haber
+    ald\u0131m.Bu \xE7ocuk, Paris'ten New York'a gelen Concord'da havadayken ortadan
+    kaybolan ve \xF6ld\xFC\u011F\xFC san\u0131lan ki\u015Fi.\" \n\"Bana hi\xE7 de
+    \xF6l\xFC gibi gelmedi!\" dedi Mackin. Fitch g\xFCld\xFC. \n\"Rapor herhalde yanl\u0131\u015F
+    verilmi\u015F efendim.\" Komiser iki memura birer sigara tuttu. \"CIA ve biraz
+    \xF6nce telefonla konu\u015Ftu\u011Fum Ba\u015Fkan Yard\u0131mc\u0131s\u0131na
+    g\xF6re yanl\u0131\u015F de\u011Fil. Rapor do\u011Fru. Ayr\u0131ca bu olay gizli
+    tutulacak. Bize verilen emre g\xF6re, bu \xE7ocu\u011Fu ba\u015Fka soru sormadan
+    serbest b\u0131rakaca\u011F\u0131z.\" \n\"Ama.. ya \xE7al\u0131nan sanat eserleri?\"
+    diye sordu Mackin.\n\"O hi\xE7bir zaman \xE7\xF6z\xFClemeyecek bir olay.\" dedi
+    komiser. \"Size bu kadar yeter. Askeri bir s\u0131r bu ve kimseye a\xE7\u0131klanmayacak.
+    En az\u0131ndan \u015Fimdilik.\" \nIki polis memuru kar\u015F\u0131 \xE7\u0131kmaya
+    yeltendiler ama komiser eliyle bir i\u015Faret yaparak onlar\u0131 susturdu. Sana
+    d\xF6nerek \"Aileniz sizi almak \xFCzere yola \xE7\u0131kt\u0131. Uzayl\u0131
+    yarat\u0131klar taraf\u0131ndan ka\xE7\u0131r\u0131ld\u0131\u011F\u0131n\u0131z
+    \xF6yk\xFCs\xFCne kimsenin inanaca\u011F\u0131n\u0131 sanm\u0131yorum. Siz, ben
+    ve daha birka\xE7 ki\u015Fi bir UFO'da tutsak edildi\u011Finizi biliyoruz, ama
+    ba\u015Fkalar\u0131n\u0131n bunu bilmemesi gerekiyor.\" Ona hak veriyorsun. \r\n"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

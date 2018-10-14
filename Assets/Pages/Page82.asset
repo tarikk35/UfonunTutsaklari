@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page82
+  m_EditorClassIdentifier: 
+  storyText: "U-TY y\xF6neticileri Metropolitan Sanat Eserleri M\xFCzesinde yapacaklar\u0131
+    soygunun planlar\u0131n\u0131 sana anlatt\u0131. Sen de onlara yard\u0131m edece\u011Fini
+    s\xF6yledin ama unutma onlar senin zihninden ge\xE7en d\xFC\u015F\xFCnceleri okuyabiliyorlar!
+    Onlarla birlikteyken ka\xE7ma plan\u0131n\u0131 bir kere bile d\xFC\u015F\xFCnmemeyi
+    ba\u015Farabilecek misin? "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 0f3563f6704eb774fb957837f4fc6124, type: 2}
+  - {fileID: 11400000, guid: c102e2d5c6f0a534498cedc01a769c10, type: 2}
+  pathText: "E\u011Fer ba\u015Faramayaca\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCyorsan
+    1'e,\nNe olursa olsun ka\xE7may\u0131 d\xFC\u015F\xFCnmeyece\u011Fim diyorsan
+    2'ye bas."

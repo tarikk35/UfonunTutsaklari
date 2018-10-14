@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page112
+  m_EditorClassIdentifier: 
+  storyText: "D\xFCnyaya d\xF6nerken yapt\u0131\u011F\u0131n birka\xE7 g\xFCnl\xFCk
+    yolculuk s\u0131ras\u0131nda g\xF6sterge tablosunun nas\u0131l \xE7al\u0131\u015Ft\u0131\u011F\u0131n\u0131
+    iyice \xF6\u011Frendin. Geminin \xE7ok g\xFC\xE7l\xFC al\u0131c\u0131 anteniyle
+    \xF6teki uygarl\u0131klardan baz\u0131 g\xF6r\xFCnt\xFCler yakalad\u0131n. U-TY
+    ara\xE7lar\u0131 evrenin bilinmeyen y\xFCzlerce gezegeniyle ili\u015Fkinizi sa\u011Fl\u0131yordu.
+    Ama b\xFCt\xFCn bunlar\u0131n yan\u0131nda \xFCz\xFCld\xFC\u011F\xFCn bir \u015Fey
+    vard\u0131. Inku g\xFCnden g\xFCne k\xFC\xE7\xFCl\xFCyordu.\n \"Inku sana ne oluyor?\"
+    diye sordun. \n\"Molek\xFCl kaybediyorum,\" diye yan\u0131tlad\u0131 Inku ince
+    ve titrek bir sesle. \"Bu bizim insanlar\u0131m\u0131za ya\u015Fama isteklerini
+    kaybettikleri zaman olur.\" \nInku'nun evine gitmezse \xF6lece\u011Fini farkettin
+    birden. U-TY'ye rotay\u0131 Alara'ya \xE7evirmesini emretmeli miydin; yoksa ona
+    ald\u0131rmay\u0131p yoluna devam m\u0131 edecektin? \r\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 581b996737c6a324892e73ab330e9122, type: 2}
+  - {fileID: 11400000, guid: 4decd5c2d93150645851f687a60dca52, type: 2}
+  pathText: "U-TY'ye uzay gemisinin y\xF6n\xFCn\xFC Alara'ya \xE7evirmesini emredeceksen
+    1'e,\nD\xFCnya rotas\u0131nda devam etmesini isteyeceksen 2'ye bas."

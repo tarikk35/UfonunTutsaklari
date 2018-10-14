@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page30
+  m_EditorClassIdentifier: 
+  storyText: "\tDuvar\u0131n \xF6n\xFCnde durup b\xFCt\xFCn d\xFC\u015F\xFCnceni di\u011Fer
+    b\xF6l\xFCme ge\xE7me konusunda yo\u011Funla\u015Ft\u0131rmaya \xE7al\u0131\u015Ft\u0131n.
+    Sonra birden kendinde bir uyu\u015Fukluk hissettin ve d\xFC\u015F\xFCncelerin
+    da\u011F\u0131ld\u0131. Yar\u0131 uykulu bir durumda oldu\u011Fun halde nas\u0131l
+    oldu\u011Funu anlamadan kendini \xF6teki b\xF6l\xFCmde buldun. \u0130\xE7eride
+    yuvarlak bir pencere vard\u0131. Buradan uzay bo\u015Flu\u011Funa bakt\u0131\u011F\u0131nda
+    mavi bir k\xFCre g\xF6rd\xFCn. D\xFCnya buras\u0131... Hissetti\u011Fin bir k\u0131p\u0131rt\u0131yla
+    arkan\u0131 d\xF6nd\xFC\u011F\xFCnde, boyu senin yar\u0131n kadar olan t\xFCyl\xFC
+    bir yarat\u0131kla kar\u015F\u0131la\u015Ft\u0131n. Yer\xE7ekiminden etkilenmeden
+    serbest\xE7e havada dola\u015Fabiliyordu. \u015Ea\u015F\u0131rd\u0131\u011F\u0131n\u0131
+    g\xF6r\xFCnce \n+\"Benden korkma. Ad\u0131m Bru. Akbar tak\u0131m y\u0131ld\u0131z\u0131ndaki
+    alt\u0131nc\u0131 gezegen Gorgu'dan ka\xE7\u0131r\u0131larak buraya getirildim.\"\n-\"Senin
+    gezegeninden ba\u015Fka kimse var m\u0131?\"\n+\"Hay\u0131r yok. Sadece ben var\u0131m.
+    Ama biraz sonra ben de olmayaca\u011F\u0131m. Buradan, en yak\u0131n gezegen olan
+    \u015Fu g\xF6rd\xFC\u011F\xFCn D\xFCnya'ya ka\xE7aca\u011F\u0131m.\"\n-\"Ben de
+    gelebilir miyim?\"\n+\"\u0130stersen gel. Ama ba\u015Faramazsak U-TY bizi Somo'ya
+    hapseder ve orada bir milyar y\u0131l uyumak zorunda kal\u0131r\u0131z.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 241ec082ec22228409210d774d3bbc73, type: 2}
+  - {fileID: 11400000, guid: 04b64ce586cfb3e41a583a27e945e03a, type: 2}
+  pathText: "Bu tehlikeyi g\xF6ze alabiliyorsan 1'e,\nAma Somo'ya g\xF6nderilme riskini
+    g\xF6ze alamam dersen 2'ye bas."

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page101
+  m_EditorClassIdentifier: 
+  storyText: "Herhangi bir se\xE7im yapmad\u0131\u011F\u0131n veya herhangi bir uyar\u0131y\u0131
+    yerine getirmedi\u011Fin halde, bilinmeyen bir nedenle uzayda kocaman parlak bir
+    gezegene yakla\u015F\u0131yordun. Bu Ultima idi: Uzay Cenneti! Gemin yava\u015F\xE7a
+    al\xE7al\u0131rken, a\u015Fa\u011F\u0131da uzanan \xE7i\xE7eklerle kapl\u0131
+    \xE7ay\u0131rlara bakt\u0131n. D\xFCzl\xFC\u011F\xFCn hemen arkas\u0131nda tepesi
+    karla kapl\u0131, etekleri yemye\u015Fil ve mavi dumanl\u0131 tepeler uzan\u0131yordu.
+    Tamamen kristalden olu\u015Fmu\u015F bu b\xFCy\xFCleyici kente daha girmeden,
+    \xE7evresindeki \u015Fahane manzaral\u0131 g\xF6llere ve harikulade \xE7i\xE7eklerle
+    bezeli a\u011Fa\xE7lar\u0131n s\xFCsiedl\u011Fi parklara hayran kald\u0131n. Gemin
+    yava\u015F\xE7a yere indi ve giri\u015F kap\u0131s\u0131 a\xE7\u0131ld\u0131.
+    Havada \xE7evredeki \xE7am ormanlar\u0131n\u0131n taptaze kokusu vard\u0131. Kulaklar\u0131na
+    hi\xE7 duyulmam\u0131\u015F g\xFCzellikte bir m\xFCzik doldu. \u015Eimdiye kadar
+    tan\u0131d\u0131\u011F\u0131n en i\xE7ten ve en g\xFCzel insanlar seni kar\u015F\u0131lamak
+    \xFCzere bekliyordu. \xC7ocuklar \xE7evrede ko\u015Fu\u015Fup g\xFCl\xFC\u015F\xFCyordu.
+    Ba\u015Flar\u0131nda alt\u0131ndan birer \xE7elenk bulunan bir adam ve bir kad\u0131n
+    sana do\u011Fru y\xFCr\xFCd\xFC. Kollar\u0131n\u0131 \xF6nlerinde kavu\u015Fturmu\u015Flard\u0131.
+    \n\"Ultima'ya ho\u015Fgeldiniz.\" dedi kad\u0131n, \"Benim ad\u0131m Elinke.\"
+    \n\"Sefa geldiniz,\" dedi adam, \"Benim ad\u0131m Arkam. E\u011Flence ve g\xFCzellik
+    gezegenine eri\u015Ftiniz. T\xFCm hazinelerimizi sizinle payla\u015Fmak \xFCzere
+    bekliyoruz. Hepimiz sonsuza dek dostunuz olaca\u011F\u0131z.\" \r"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 27939d5afbf39c6409f1ecb4e7f2fadd, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

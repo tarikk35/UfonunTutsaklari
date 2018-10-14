@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page49
+  m_EditorClassIdentifier: 
+  storyText: "\tBru'ya \u015Fu an ka\xE7mak istemedi\u011Fini, bunun \xE7ok tehlikeli
+    olabilece\u011Fini s\xF6yledin. Buna can\u0131 s\u0131k\u0131ld\u0131 ama, sana
+    bir\u015Fey s\xF6ylemeden yan\u0131ndan u\xE7tu. Birka\xE7 saat sonra geri d\xF6nd\xFC\u011F\xFCnde
+    bak\u0131\u015Flar\u0131 keder doluydu. Ba\u015Faramad\u0131\u011F\u0131n\u0131
+    anlay\u0131p :\n-\"Ba\u015Fka \u015Fans\u0131m\u0131z var m\u0131?\"\n+\"Art\u0131k
+    \xE7ok ge\xE7. D\xFCnya y\xF6r\xFCngesinden ayr\u0131ld\u0131k. Hatta G\xFCne\u015F
+    sisteminden de. Rotam\u0131z Galaksi 32.9 Sistem 6.3 Y\u0131ld\u0131z 149. Omega
+    K\xFCmesi denilen yere gidiyoruz. B\xFCy\xFCk pencereye do\u011Fru ko\u015Ftun.
+    D\xFCnya h\u0131zla k\xFC\xE7\xFCl\xFCyordu. G\xF6zya\u015Flar\u0131n sonsuz karanl\u0131\u011Fa
+    d\xF6k\xFCl\xFCyordu. Art\u0131k evini bir daha hi\xE7 g\xF6remeyece\u011Fini
+    biliyordun."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

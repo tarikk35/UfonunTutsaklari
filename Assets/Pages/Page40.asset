@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page40
+  m_EditorClassIdentifier: 
+  storyText: "\tAyn\u0131 anda iki yerde olmamay\u0131 dileyip h\u0131zl\u0131ca kap\u0131dan
+    ge\xE7tin. \u0130\u015Fte korkulan oldu. Bacaklar\u0131n ko\u015Fup giderken ba\u015F\u0131n
+    ve kollar\u0131n arkada kald\u0131. K\u0131sa bir s\xFCre b\xF6yle kald\u0131n.
+    Sonra zaman\u0131n sonsuzlu\u011Fu i\xE7inde birbirinizden ayr\u0131 y\xF6nlere
+    do\u011Fru uzakla\u015Ft\u0131n\u0131z. Bir daha bir b\xFCt\xFCn olarak biraraya
+    gelmemecesine..."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page50
+  m_EditorClassIdentifier: 
+  storyText: "\tGarip siyah cisim \xE7\xF6p sepetinin i\xE7ine bum diye bir ses \xE7\u0131kararak
+    d\xFC\u015Ft\xFC ve art\u0131k onunla ilgilenmedin. Birka\xE7 g\xFCn sonra arkada\u015Flar\u0131ndan
+    biriyle konu\u015Fuyordun.\n+\"D\xFCn gece televizyonda konu\u015Fan pilotu izledin
+    mi? O ve beraberindekiler birka\xE7 g\xFCn \xF6nce Atlanti\u011Fi ge\xE7erken
+    garip bir uzay gemisi g\xF6rd\xFCklerine yemin ediyor.\"\n-\"Sahi mi?\"\n+\"Evet,
+    enlem 54, boylam 40 civarlar\u0131nda rastlad\u0131klar\u0131 i\xE7in ona UFO5440
+    ad\u0131n\u0131 takm\u0131\u015Flar. Bu arada \xF6nce bir yolcunun kayboldu\u011Funu
+    san\u0131p tela\u015Flanm\u0131\u015Flar ama sonra u\xE7aktaki yolcular\u0131n
+    listesinde bir yanl\u0131\u015Fl\u0131k oldu\u011Fu karar\u0131na varm\u0131\u015Flar.\"\nArkada\u015F\u0131n\u0131n
+    s\xF6zleri seni yapt\u0131\u011F\u0131n yolculu\u011Fa geri g\xF6t\xFCrd\xFC.
+    Fransa'dan gelirken \xF6yle bir \u015Feyler olmu\u015Ftu. Ama bir t\xFCrl\xFC
+    hat\u0131rlayam\u0131yordun. Haf\u0131zan\u0131 zorlad\u0131n. Nedense belle\u011Finden
+    silinip gitmi\u015Fti i\u015Fte."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

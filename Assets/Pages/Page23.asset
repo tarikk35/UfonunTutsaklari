@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page23
+  m_EditorClassIdentifier: 
+  storyText: "\t\xC7evrene bak\u0131nd\u0131n. Kimileri okuyor, kimileri b\xFCy\xFCk
+    ekranlardan d\xFCnya k\xFClt\xFCr\xFC \xFCzerine ilgilendirkleri konular\u0131
+    izliyordu. Senin ya\u015Flar\u0131nda bir k\u0131z ola\u011Fan\xFCst\xFC fl\xFCt
+    \xE7al\u0131yordu. \xD6yle g\xFCzel \xE7al\u0131yordu ki ister istemez y\xFCzy\u0131llard\u0131r
+    \xE7al\u0131\u015Fmasa bu kadar ba\u015Far\u0131l\u0131 olamaz diye d\xFC\u015F\xFCnd\xFCn.
+    \n\tDaha sonra mavi g\xF6zl\xFC uzun beyaz sa\xE7l\u0131 ya\u015Fl\u0131 bir adam
+    dikkatini \xE7ekti. Y\xFCz\xFCnde anlaml\u0131 ve sakin bir ifade vard\u0131.
+    Bu \xE7ok ak\u0131ll\u0131 bir adam olmal\u0131 diye d\xFC\u015F\xFCnd\xFCn. Uzun
+    siyah sa\xE7l\u0131 bir k\u0131zla sar\u0131\u015F\u0131n bir \xE7ocuk ba\u015Fka
+    bir k\xF6\u015Fede ba\u011Fda\u015F kurmu\u015F oturmaktayd\u0131."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 231058eadd45911469bc595b7fb27d08, type: 2}
+  pathText: 1'e basarak devam et.

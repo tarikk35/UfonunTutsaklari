@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page34
+  m_EditorClassIdentifier: 
+  storyText: "\tKali, b\xF6lmenin sonundaki duvar\u0131 i\u015Faret etti.\n+\"\u015Eu
+    duvara dokununca i\xE7inden ge\xE7ebilirsin. \u0130yi \u015Fanslar!\"\nYan\u0131na
+    gidip dokununca, duvar pamuktan yap\u0131lm\u0131\u015F\xE7as\u0131na yumu\u015Fad\u0131.
+    \u0130\xE7inden ge\xE7tikten sonra eski haline d\xF6n\xFCp sapasa\u011Flam oldu.
+    \n\"Otur yoksa d\xFC\u015Fersin.\"dedi bir ses. \xC7evrene bak\u0131nd\u0131n.
+    Odada k\xFC\xE7\xFCk bir bebekten ba\u015Fka kimse yoktu. \xC7ocu\u011Fun yan\u0131na
+    oturup iri ela g\xF6zlerinin i\xE7ine bakarak:\n-\"Ama sen bir bebeksin. Nas\u0131l
+    b\xF6yle konu\u015Fabiliyorsun? Mutlaka g\xF6r\xFCnd\xFC\u011F\xFCnden daha ya\u015Fl\u0131
+    olmal\u0131s\u0131n.\"\n+\"Ben bir zamanlar yeti\u015Fkindim. Buras\u0131 U-TY'nin
+    b\xFCy\xFCk bulu\u015Flar\u0131ndan birisi olan zaman\u0131 geri d\xF6nd\xFCrme
+    b\xF6l\xFCm\xFC. Burada zaman geriye do\u011Fru akar. Onsekiz ay sonra art\u0131k
+    ben var olmayaca\u011F\u0131m. \xD6ylesine k\xFC\xE7\xFClece\u011Fim ki, do\u011Fumumdan
+    \xF6ncesine d\xF6nece\u011Fim.\"\n-\"Yani \u015Fu anda ben de mi k\xFC\xE7\xFCl\xFCyorum?\"\n+\"Evet,
+    i\xE7eriye girdi\u011Fin andan itibaren geriye do\u011Fru ya\u015Flanmaya ba\u015Flad\u0131n.
+    Ben senden daha \xF6nce do\u011Fum an\u0131ma ula\u015Faca\u011F\u0131m. Sen de
+    burada yaln\u0131z kalacaks\u0131n.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 97495f6ea03f6344082ffe76e27d986d, type: 2}
+  pathText: 1'e basarak devam et.

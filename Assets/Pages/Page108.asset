@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page108
+  m_EditorClassIdentifier: 
+  storyText: "Bu s\u0131rada Angus'un yan\u0131na geldi\u011Fini g\xF6rd\xFCn. G\xF6zleri
+    heyecanla parl\u0131yordu. \"Acil durum s\xF6zkonusu. Bilgisayarlar \xE7\xF6zemedikleri
+    bir sorunla kar\u015F\u0131la\u015Ft\u0131lar. Bunu \u015Furadaki yarat\u0131k
+    yaratt\u0131. Herhalde gemiyi kontrolu alt\u0131na almak istiyordu.\"\n Angus
+    yerdeki yarat\u0131\u011F\u0131 g\xF6sterdi \"U-TY'nin savunma mekanizmalar\u0131ndan
+    bir b\xF6l\xFCm\xFC onu \xF6ld\xFCrd\xFC. Di\u011Ferleriyse Somo'ya g\xF6nderildi.\"\n
+    G\xF6steri tablosundaki baz\u0131 i\u015Faretleri g\xF6stererek: \n\"Yeni rotam\u0131z
+    bizi \xE7ok yak\u0131nda D\xFCnya'ya g\xF6t\xFCrecek. Bu geminin arka taraf\u0131nda
+    bir uzay jipi vard\u0131r. Belki bilgisayarlar sorunu \xE7\xF6zmeden ona ula\u015Fabiliriz.
+    Ama U-TY bizi farkederse bir milyar y\u0131l uyumak \xFCzere bizi de Somo'ya g\xF6nderir.\"
+    \n\"Ka\xE7may\u0131 deneyelim mi, ne dersin?\" "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 9f653aef669e90f43a9fc50a82fd1cff, type: 2}
+  - {fileID: 11400000, guid: b6f1d700ca42aa1439ca8ac9c378d198, type: 2}
+  pathText: "Angus ile uzay jipini kullanarak ka\xE7may\u0131 deneyeceksen 1'e,\nBa\u015Fka
+    bir \xE7\xF6z\xFCm bulmaya \xE7al\u0131\u015Facaksan 2'ye bas."

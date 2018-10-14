@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page32
+  m_EditorClassIdentifier: 
+  storyText: "\tK\u0131za dokundun. Gerinerek uyand\u0131 ve g\xF6zlerini ovu\u015Fturdu.
+    \u0130lk anda sana \u015Fa\u015F\u0131rm\u0131\u015F gibi bakt\u0131 sonra \n+\"Burada
+    olmana \xE7ok sevindim. Ad\u0131m Kim-Li.\"dedi.\n-\"Benim dilimi konu\u015Fabiliyorsun
+    ?\"\nKim-Li aya\u011Fa kalkt\u0131. G\xF6zlerinin i\xE7ine bakarak\n+\"Burada
+    dil sorunu yoktur. \xD6\u011Frenmek i\xE7in y\xFCzlerce sene zaman\u0131m\u0131z
+    var \xE7\xFCnk\xFC.\"\n-\"Sen y\xFCz ya\u015F\u0131nda m\u0131s\u0131n yani?\"\n+\"Ben
+    buraya 475 y\u0131l \xF6nce getirildim. O s\u0131rada \xFClkemizi imparator Cheng-Te
+    y\xF6netiyordu. O zamanlar prensestim ama, bunun burada \xF6nemi yok.\"\n-\"Ama
+    sen benden ancak birka\xE7 ya\u015F b\xFCy\xFCk g\xF6r\xFCn\xFCyorsun.\"\nKim-Li
+    g\xFCl\xFCmsedi.+\"U-TY y\xF6neticileri bizim ya\u015F\u0131m\u0131z\u0131 dondurdu.
+    Ama d\xFCnyadaki pek \xE7ok insan\u0131n ya\u015Fam\u0131 boyunca \xF6\u011Frenebilece\u011Finden
+    \xE7ok daha fazla \u015Fey biliyorum.\"\n-\"Ne kadar zamand\u0131r uyuyordun?\"\n+\"Bu
+    k\u0131sa bir \u015Fekerlemeydi. Yirmi be\u015F d\xFCnya g\xFCn\xFC kadar.\"\n-\"Yirmi
+    be\u015F d\xFCnya g\xFCn\xFC m\xFC?\"\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 5a463092a3b91a440a80920c62d8349f, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

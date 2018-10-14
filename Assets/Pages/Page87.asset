@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page87
+  m_EditorClassIdentifier: 
+  storyText: "Ka\xE7ma plan\u0131n\u0131 d\xFC\u015F\xFCnmemenin m\xFCmk\xFCn olmad\u0131\u011F\u0131n\u0131
+    kendi kendine kabul ettin. U-TY y\xF6neticileri d\xFC\u015F\xFCncelerini okuyabilirdi.
+    Robotlar seni al\u0131p karanl\u0131k bir yerde b\u0131rakt\u0131. \u015Eimdi
+    orada yapayaln\u0131zd\u0131n\u0131 ve kaderinin ne olaca\u011F\u0131n\u0131 bekliyordun.
+    SOMO'YA GIDIYORSUNUZ. \nU-TY ger\xE7ekten senin akl\u0131ndan ge\xE7enleri okumu\u015Ftu.
+    Ka\xE7mak istedi\u011Fini anlam\u0131\u015Ft\u0131. I\u015Fte bu y\xFCzden kaderin
+    belli olmu\u015Ftu. Az sonra manyetik bir g\xFC\xE7 taraf\u0131ndan \xE7ekildi\u011Fini
+    hissettin. Ard\u0131ndan turuncu bir \u0131\u015F\u0131\u011F\u0131n alt\u0131nda
+    geni\u015F bir odada buldun kendini. Buras\u0131 her t\xFCrden \xE7e\u015Fitli
+    yarat\u0131kla doluydu. Hepsi bo\u015Flukta y\xFCzer gibiydi ve sanki derin bir
+    uykuya dalm\u0131\u015Flard\u0131. Ses yeniden konu\u015Ftu. Ama bu kez \xE7ok
+    derin ve yava\u015F geliyordu. \nSIMDI UYUYACAKSINIZ. \nVe bir milyar y\u0131ll\u0131k
+    uykuna dald\u0131n. \r"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

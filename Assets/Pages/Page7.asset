@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page7
+  m_EditorClassIdentifier: 
+  storyText: "\tBIZ U-TY YONETICILERIYIZ : SU ANDA DUNYA CEVRESINDE DONUP DURAN UZAY
+    GEMISI RAKMA'DASINIZ . GALAKTIK HAYVANAT BAHCESI ICIN FARKLI BIR TUR OLARAK SECILDINIZ
+    . BIZIMLE ISBIRLIGI YAPMAYI REDDEDERSENIZ SOMO'YA GONDERILECEKSINIZ! TEK KELIMEYLE
+    KARARINIZI BELIRTIN :"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: e715e87fba3732a4796e0010c0e49492, type: 2}
+  - {fileID: 11400000, guid: ac5878b10ed459c4788ab1198db24523, type: 2}
+  pathText: "D\xFCnyaya gitmek istedi\u011Fini s\xF6ylersen 1'e,\nU-TY hakk\u0131nda
+    daha fazla bilgi edinmek istiyorsan 2'ye bas."

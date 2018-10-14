@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page5
+  m_EditorClassIdentifier: 
+  storyText: "\tHemen orac\u0131kta, yere uzan\u0131verdin. Yatar yatmaz da derin
+    bir uykuya dald\u0131n. D\xFC\u015F\xFCnceler beyninden bilin\xE7sizce ak\u0131p
+    gidiyordu. \nMUTLU OLDU\u011EUN ZAMAN...\nIYI OLACAKSIN...\nMUTLU OLACAKSIN...\nIYI
+    OLDUGUN ZAMAN...\n\tUyand\u0131\u011F\u0131nda kendinde bir gariplik,de\u011Fi\u015Fiklik
+    sezdin. Aln\u0131na bir bant tak\u0131lm\u0131\u015Ft\u0131. Elini ona s\xFCrd\xFC\u011F\xFCn
+    an k\xF6t\xFC oluyordun. Dokunmad\u0131\u011F\u0131n zaman kendini daha rahat
+    hissetmeni sa\u011Fl\u0131yordu. Acaba akl\u0131ndan ge\xE7en s\xF6zc\xFCklerin
+    nedeni bu bant m\u0131yd\u0131?\n\tOnu mutlaka \xE7\u0131karmal\u0131yd\u0131n!
+    Ama buna yeltenince ba\u015F\u0131na dayan\u0131lmaz a\u011Fr\u0131lar saplan\u0131yordu.
+    Elini \xE7ekince her\u015Fey normale d\xF6n\xFCyor , son derece mutlu ve rahat
+    hissediyordun."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: c73087b9c9289dc45baf36efabe1f64f, type: 2}
+  - {fileID: 11400000, guid: fe7716acf3139c0468b0ab8101ab06c2, type: 2}
+  pathText: "Ne olursa olsun band\u0131 \xE7\u0131karmaya \xE7al\u0131\u015Facaksan
+    1'e,\nBand\u0131 \xE7\u0131karmadan bir s\xFCre ne olaca\u011F\u0131n\u0131 g\xF6zlemek
+    istiyorsan 2'ye bas."

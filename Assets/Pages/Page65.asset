@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page65
+  m_EditorClassIdentifier: 
+  storyText: "\t\"Ne demek istedi\u011Fini anlad\u0131m\u201D dedin.\r\"Ka\xE7may\u0131
+    d\xFC\u015F\xFCnmem gerekiyor. Ama bu \rimkans\u0131z denecek kadar zor. Bunu
+    yapt\u0131\u011F\u0131m \randa da d\xFC\u015F\xFCncemi okuyacaklar\u0131 i\xE7in
+    Somo'ya g\xF6nderilmem y\xFCzde y\xFCz.\u201D \r\nKali'yi b\u0131rak\u0131p gemiyi
+    ara\u015Ft\u0131rmak \xFCzere \r\ngezini s\xFCrd\xFCrd\xFCn. Y\xFCzlerce b\xF6l\xFCm
+    ve \r\nkoridordan ge\xE7tin. Herg\xFCn geminin farkl\u0131 \r\nbir yerini ke\u015Ffediyordun.
+    Ama daha \xF6nce \r\nnereden o b\xF6l\xFCme geldi\u011Fini bir t\xFCrl\xFC bulam\u0131yordun.
+    Bu bir labirentte girilen her\r\nkoridorda \xE7\u0131k\u0131\u015F yolundan giderek
+    daha \xE7ok \ruzakla\u015Fmaya benziyordu. \r\nU-TY'ye kar\u015F\u0131 direnmemen
+    gerekti\u011Fine \r\nkarar verdin sonunda. E\u011Fer onlarla i\u015Fbirli\u011Fi
+    \ryaparsan seni Somo'ya g\xF6ndermeyebilirlerdi. \r\nB\xF6ylece video seyrederek
+    oyunlar oynayarak birka\xE7 hafta daha ge\xE7irdin. Bu arada \rU-TY'nin d\xFCnyay\u0131
+    1400 y\u0131ldan beri inceledi\u011Fini \r\xF6\u011Frendin. Kay\u0131tlarda insanlar\u0131n
+    hen\xFCz ke\u015Ffedemedi\u011Fi \xE7e\u015Fitli s\u0131rlar hakk\u0131nda bilgiler
+    \rbulunuyordu. \r\nBir g\xFCn d\xFCmd\xFCz, silindirik bir koridordan \r\nge\xE7ti\u011Finde
+    kendini b\xFCy\xFCk bir odada \r\nbuluverdin. Burada, havada u\xE7up duran \xFC\xE7\r
+    tane a\xE7\u0131k eflatun renkli yuvarlak bi\xE7imli \ryarat\u0131kla kar\u015F\u0131la\u015Ft\u0131n.
+    Bunlar d\u0131\u015Far\u0131ya parlak \rk\u0131rm\u0131z\u0131 renkte k\u0131v\u0131lc\u0131mlar
+    sa\xE7\u0131yorlard\u0131. Bir an \rdurup dinledin. Bir \u015Feyler s\xF6yl\xFCyorlard\u0131
+    \rsanki. Bunu beyninin i\xE7inde duyuyordun. \r"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: a30aae29a5eacfc489acf5b9109a913c, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page56
+  m_EditorClassIdentifier: 
+  storyText: "\t\"Alara'ya ne kadar zamanda gidebiliriz?\" \rdiye sordun. \r\n\tON
+    ALTI YILDA. \r\nKendini bir kuyuya g\xF6m\xFCl\xFCvermi\u015F gibi \r\nhissettin.
+    On alt\u0131 y\u0131l gidip on alt\u0131 y\u0131l da \r\nd\xF6n\xFC\u015F, tam
+    otuz iki y\u0131l\u0131n\u0131 bu uzay gemisinde \r\nge\xE7irecektin! Inku'ya
+    olan s\xF6z\xFCn\xFC tutar- \r\nsan bu kendini feda etmek olacakt\u0131 .\r\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: c2ba5efeb86e5b44cb773ed3e15c4ec1, type: 2}
+  - {fileID: 11400000, guid: 4f64ff35836e7e54abe06f9a93f870ff, type: 2}
+  pathText: "Inku'ya olan s\xF6z\xFCn\xFC tutar ve U-TY'ye Alara'ya gitmesini s\xF6yleyeceksen
+    1'e,\nInku'ya verdi\u011Fin s\xF6ze ald\u0131rmay\u0131p U-TY'ye d\xFCnyaya gitme
+    komutu vereceksen 2'ye bas."

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page105
+  m_EditorClassIdentifier: 
+  storyText: "\"Hadi ka\xE7maya \xE7al\u0131\u015Fal\u0131m!\" dedin. Uzay jipine
+    ula\u015Fmak Angus i\xE7in yaln\u0131zca birka\xE7 dakikal\u0131k i\u015Fti. Dokununca
+    bir duvar a\xE7\u0131ld\u0131 ve tavaya benzeyen bir uzay arac\u0131 ortaya \xE7\u0131kt\u0131.
+    \n\"Bu ger\xE7ekten jipten \xE7ok bir tavaya benziyor!\" dedin. \n\"Hakl\u0131s\u0131n
+    ama bir uzay arac\u0131 i\xE7in en uygun \u015Fekildir \" dedi Angus. \"Bu ara\xE7
+    otomatik olarak kontrol edilir. \u015Eimdi seyret.\"\n Tek bir d\xFC\u011Fmeye
+    basmakla uzay jipi havaland\u0131 ve UFO'dan ayr\u0131larak d\xFCnyaya do\u011Fru
+    yol almaya ba\u015Flad\u0131. Birka\xE7 saat sonra alt\u0131n\u0131zda uzanan
+    \xE7ay\u0131rlara ve \xE7iftliklere bak\u0131yordunuz. Ara\xE7 \xF6nce yumu\u015Fak
+    bir fren yapt\u0131 ve sonra yava\u015F\xE7a bir m\u0131s\u0131r tarlas\u0131na
+    indi. Yan tarafa bak\u0131nca, iki \xE7ift\xE7inin bindikleri kamyoneti durdurup
+    heyecanla sizleri g\xF6stererek bir \u015Feyler konu\u015Ftuklar\u0131n\u0131
+    farkettiniz. "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: a20bfaa9819c0494ca45d22964754ad2, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page2
+  m_EditorClassIdentifier: 
+  storyText: "\tHeyecanla yan\u0131nda oturan yolcuya seslenip d\u0131\u015Far\u0131y\u0131
+    i\u015Faret ettin : \n\"Bak\u0131n !\" Yan\u0131ndaki k\u0131r sa\xE7l\u0131 adam
+    daha iyi g\xF6rebilmek i\xE7in pencereye do\u011Fru e\u011Fildi \n\"Nereye bakay\u0131m?\"
+    \n\"G\xF6rm\xFCyor musunuz? Tam \xFCst\xFCm\xFCze do\u011Fru geliyor!\" \nAdam
+    tam yan\u0131tlamak \xFCzere a\u011Fz\u0131n\u0131 a\xE7m\u0131\u015Ft\u0131 ki
+    bir\u015Fey s\xF6yleyemeden adam\u0131n yan\u0131ndan gittin .\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: ec8358d42e1bafe42ae0c62cd13e2cec, type: 2}
+  pathText: "I\u015F\u0131nland\u0131n. Devam etmek i\xE7in 1'e bas."

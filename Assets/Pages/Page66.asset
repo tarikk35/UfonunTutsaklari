@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page66
+  m_EditorClassIdentifier: 
+  storyText: "SIZI IZLEDIK. COK GUCLU BIR KARAKTERINIZ VAR. TEHLIKELI OLABILECEK \rKADAR
+    GUCLUSUNUZ. BU YASADIR: U-TY'NIN EMIRLERINE UYANLAR RA GEZEGENINDEKI HAYVANAT
+    BAHCESINE KAPATILIR. U-TY'YE KARSI DIRENENLER ISE\r\nSOMO'YA BIR MILYAR YIL BOYUNCA
+    \r\nUYUMAK UZERE GONDERILIR. HANGISINI \r\nSECIYORSUNUZ? \r\nSeni hayvanat bah\xE7esine
+    veya Soma'ya \r\ngitmekten kurtaracak bir \u015Feyler s\xF6ylemeyi \r\nd\xFC\u015F\xFCnmeye
+    \xE7al\u0131\u015F\u0131yorsun. \r\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: f28a073ad4dc76547bb6e29268ed6c32, type: 2}
+  - {fileID: 11400000, guid: e1b5f630a5444b044b5a5c7f860b6a18, type: 2}
+  pathText: "\"Beni arkada\u015Flar\u0131mdan ve ailemden ay\u0131r\u0131\u011F buraya
+    getirmeniz b\xFCy\xFCk haks\u0131zl\u0131k. L\xFCtfen beni d\xFCnyaya geri g\xF6nderin.\"
+    diyeceksen 1'e,\n\"Emirlerinize uymayaca\u011F\u0131m; ama size kar\u015F\u0131
+    direnmeyece\u011Fim de. S\xF6z veriyorum. Bu durumda beni ne hayvanat bah\xE7esine
+    ne de Somo'ya g\xF6ndermeniz i\xE7in bir neden kalm\u0131yor.\" diyeceksen 2'ye
+    bas."

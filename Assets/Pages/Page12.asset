@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page12
+  m_EditorClassIdentifier: 
+  storyText: "\tYoksa bu senin i\xE7in bir kurtulu\u015F umudu muydu? Bu f\u0131rsat\u0131
+    ka\xE7\u0131ramazd\u0131n. Hemen onun arkas\u0131ndan i\xE7eri girdin. \u0130\xE7eride
+    o garip yarat\u0131k senden birka\xE7 metre uzakta duruyordu. B\xFCy\xFCk az \u015Fi\u015Firilmi\u015F
+    bir balona benziyordu. \xC7epe\xE7evre dizilmi\u015F \xE7ok say\u0131da g\xF6z\xFC
+    ve a\u011Fz\u0131 vard\u0131. En az 7-8 aya\u011F\u0131 ve say\u0131s\u0131z uzant\u0131s\u0131
+    vard\u0131. Bunlar\u0131n a\u011Fa\xE7 dal\u0131na benzeyenleri kadar, anten  ve
+    paleti an\u0131msatanlar\u0131 da vard\u0131. \u015Ea\u015Fk\u0131nca ona bakarken,
+    yarat\u0131k uzant\u0131lar\u0131yla arac\u0131n \xE7e\u015Fitli d\xFC\u011Fme
+    ve kollar\u0131na dokundu. Sonra birka\xE7 g\xF6z\xFCn\xFC sana do\u011Fru \xE7evirdi
+    :\n+\"D\xFCnyal\u0131s\u0131n de\u011Fil mi?\" Sana en yak\u0131n a\u011Fz\u0131yla
+    konu\u015Ftu .\n-\"Evet \xF6yle.\"diye kekeledin.\"Ya siz kimsiniz?\"\n+\"Bana
+    Mopo diyebilirsin. Buradan ka\xE7mak i\xE7in bu son \u015Fans\u0131m ve gidebilece\u011Fim
+    tek yer var.\" S\xF6z\xFCn\xFC tamamlamadan kapak kapand\u0131 ve \xE7ok \u015Fiddetli
+    bir sars\u0131nt\u0131 hissettin. Sanki \u0131\u015F\u0131k h\u0131z\u0131na ula\u015Fm\u0131\u015Ft\u0131n\u0131z."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 6e4a4eb744ffe0b489692d56e9ec62c7, type: 2}
+  pathText: 1'e basarak devam et.

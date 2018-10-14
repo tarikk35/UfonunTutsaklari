@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page63
+  m_EditorClassIdentifier: 
+  storyText: "\tDeli rol\xFC yapmak o kadar kolay bir \u015Fey \rde\u011Fildi: Odada
+    sa\u011Fa sola ko\u015Fuyor, \"Ben \rNapolyon'um. .. Ben Napolyon'um\" diye ba\u011F\u0131\rr\u0131p
+    duruyordun. U-TY yoneticiler\u0131nde hi\xE7bir \rde\u011Fi\u015Fiklik g\xF6r\xFClm\xFCyordu
+    ama rol\xFCn\xFC s\xFCrd\xFCrmeliydin. \rSesin giderek bo\u011Fukla\u015Ft\u0131
+    ve ba\u015F\u0131nda bir \ra\u011Fr\u0131 ba\u015Flad\u0131. Birden kendini ger\xE7ekten
+    deliriyormu\u015Fsun gibi hissettin. Beynin \ruyu\u015Fmaya \u015Fakaklar\u0131n
+    zonklamaya ba\u015Flad\u0131 . \rK\xFC\xE7\xFCk bir odada uzanm\u0131\u015F yat\u0131yordun.
+    \r\n\tOlan biten her\u015Fey sana \xE7ok, \xE7ok eskilerde\r kalm\u0131\u015F
+    gibi geliyordu. Uzayda bir yerde \rolmal\u0131yd\u0131n, \xE7unk\xFC art\u0131k
+    a\u011F\u0131rl\u0131\u011F\u0131n yoktu. \rYumu\u015Fak bir ses beyninde m\u0131r\u0131ldan\u0131yordu.
+    \nGARIP DAVRANISLARINIZ VAR. SIZE \r\nVERDIGIMIZ YATISTIRICI ILE SAKINLESTINIZ.
+    TUHAF BIR INSANSINIZ. SIZI DAHA \rYAKINDAN INCELEMELIYIZ... U-TY'NIN \rLABORATUVARINDA...
+    \r"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

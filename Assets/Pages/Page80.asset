@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page80
+  m_EditorClassIdentifier: 
+  storyText: "\"Evet! NASA bizi farkederse bir uzay meki\u011Fi g\xF6ndererek bizi
+    ald\u0131rabilir.\" \nKim Li, seni \xFCst\xFCnde \xE7e\u015Fitli renklerde \u0131\u015F\u0131klar
+    yanan bir g\xF6sterge tablosunun \xF6n\xFCne g\xF6t\xFCrd\xFC. \xDC\xE7 boyutlu
+    g\xF6sterge d\xFC\u011Fmesine basarak: \n\"Burada insanlar\u0131n yapt\u0131\u011F\u0131,
+    atmosferde dola\u015Fan t\xFCm uzay ara\xE7lar\u0131n\u0131 ve uydular\u0131n\u0131
+    g\xF6rebilirsin.\"diye a\xE7\u0131klad\u0131. \n\"Peki, d\xFCnyal\u0131 bilimadamlar\u0131
+    da bizi g\xF6rebilirler mi?\"\n\"Evet. Onlar da bu bilinmeyen uzay gemisinin nereden
+    geldi\u011Fini anlamaya \xE7al\u0131\u015Facaklard\u0131r. \"\n\"O halde bizi
+    kurtarabilirler mi?\" \n\"Kim oldu\u011Fumuza onlar\u0131 inand\u0131rabilirsek
+    kurtuluruz; ama d\xFC\u015Fman oldu\u011Fumuzu d\xFC\u015F\xFCn\xFCrlerse bizi
+    yok edebilirler.\"\n\u015Eimdi beklemekten ba\u015Fka yapacak hi\xE7bir \u015Fey
+    yoktu. \u015Eans\u0131n\u0131za ana bilgisayar U-TY y\xF6neticileri olmad\u0131\u011F\u0131
+    halde \xE7al\u0131\u015Fmas\u0131n\u0131 s\xFCrd\xFCr\xFCyordu. \xDC\xE7 boyutlu
+    ekranda uzay\u0131n harikulade g\xF6r\xFCnt\xFCs\xFCn\xFC izliyordun. Kim Li kontrol
+    d\xFC\u011Fmeleriyle oynuyor, d\xFCnya ile ba\u011Flant\u0131 kurmaya \xE7al\u0131\u015F\u0131yordu.
+    Birden odada Ingilizce bir uyar\u0131 duyuldu. \n\"Sizi belirledik. Kendinizi
+    tan\u0131tana kadar size d\xFC\u015Fman g\xF6z\xFCyle bakaca\u011F\u0131z.\"\n
+    Kim Li hemen yan\u0131t verdi. \n\"Bizler UFO'da tutsak d\xFCnyal\u0131 insanlar\u0131z.
+    Arac\u0131 ele ge\xE7irdik ama onu kontrol edemiyoruz.\"\n Bir saniye ge\xE7ti.
+    Sonra yine ayn\u0131 ses duyuldu. \n\"Yan\u0131t\u0131n\u0131z inand\u0131r\u0131c\u0131
+    de\u011Fil. Do\u011Fru cevap verin yoksa lazerle yok edileceksiniz.\" Onlar\u0131
+    nas\u0131l inand\u0131racakt\u0131n\u0131z?"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: f22e5af56086bc040a26dce49d29a6a4, type: 2}
+  - {fileID: 11400000, guid: 9e692d3a25a5f7d4c8e761bba8993a8d, type: 2}
+  pathText: "E\u011Fer \"Ben Concord'dan kaybolan yolcuyum. Bizi kurtar\u0131n\" diyeceksen
+    1'e,\nE\u011Fer onlara \" Bize sald\u0131rmaya kalkarsan\u0131z t\xFCm d\xFCnyay\u0131
+    yok ederiz.\" diyeceksen 2'ye bas."

@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page19
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"Bize ne yapmay\u0131 d\xFC\u015F\xFCnd\xFCklerini biliyor musun
+    Kali?\"\nBirisinin duymas\u0131ndan korkar bir \u015Fekilde sana yan\u0131t verdi
+    :\n+\"Uzay gemisi y\xF6neticileri y\xFCzlerce y\u0131ld\u0131r d\xFCnyay\u0131
+    ara\u015Ft\u0131r\u0131yor. Uzay cenneti oldu\u011Funa inand\u0131klar\u0131 y\xFCce
+    gezegen Ultima'ya varmak i\xE7in d\xFCnyan\u0131n ilk ad\u0131m oldu\u011Funu
+    d\xFC\u015F\xFCn\xFCyorlar. Ancak art\u0131k onu ba\u015Fka bir yerde aramaya
+    ba\u015Flad\u0131lar. Birka\xE7 g\xFCne kadar Rakma bu g\xFCne\u015F sisteminden
+    ayr\u0131lacak. Sen,ben ve b\xFCt\xFCn tutsaklar, gidece\u011Fimiz merkez gezegen
+    Ra'da bulunan bir hayvanat bah\xE7esine konaca\u011F\u0131z.\"\n-\"Peki,buradan
+    ayr\u0131lmadan ka\xE7\u0131p d\xFCnyaya gidebilece\u011Fim bir yol biliyor musun?\"\nKali
+    bir an durdu. Sonra : +\"Sana g\xFCvence veremem ama yasak b\xF6lmeye giden yolu
+    g\xF6sterebilirim. Bu b\xF6l\xFCmde ne oldu\u011Funu tam olarak bilmiyorum ama
+    galiba zaman ile ilgili bir\u015Feyler var orada. Ben oraya gitmeye cesaret edemezdim.
+    Ama yine de, senin tek kurtulu\u015F \u015Fans\u0131n olabilir.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 67a123de370cff7429a6f1ff8db8d20f, type: 2}
+  - {fileID: 11400000, guid: e9d6799090dcb8b4d93a6e7550e03e92, type: 2}
+  pathText: "Yasak b\xF6lmeye gitmeye karar verdiysen 1'e,\nKa\xE7acak ba\u015Fka
+    bir yol bulmaya \xE7al\u0131\u015Facaksan 2'ye bas."

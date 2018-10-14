@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page97
+  m_EditorClassIdentifier: 
+  storyText: "Biz bu bilgisayarlarla bir\u015Feyler yapabilir-\r\nmiyiz?\" diye Angus\u2019a
+    sordun. U-TY\r\nkontrolden \xE7\u0131kt\u0131 galiba.\"\r\r\nAma sen konu\u015Fur
+    konu\u015Fmaz bilgisayarlar\r\nyan\u0131p s\xF6nmeye ba\u015Flad\u0131.Elektronik
+    beyinlerin\r i\xE7inde b\xFCy\xFCk bir g\xFC\xE7 m\xFCcadelesi s\xFCr\xFCyordu\r
+    herhalde. Bilgisayarlardan birinin birden b\xFCt\xFCn\r\n\u0131\u015F\u0131klar\u0131
+    s\xF6nd\xFC. Yaln\u0131z tek bir k\u0131rm\u0131z\u0131 lamba\r\na\xE7\u0131k
+    kald\u0131.\r\r\n\u201CNe oluyor?\". diye sordun.\r\r\n\u201CBilmiyorum.\" diye
+    yan\u0131tlad\u0131 Angus. \u201CNe\r\noldu\u011Funu...\"\r\nAma s\xF6zleri yar\u0131da
+    kald\u0131 ve U-TY\u2019nin\r\ni\xE7indeki t\xFCm canl\u0131larla birlikte siz
+    de a\xE7\u0131lan\r\nkap\u0131dan a\u015Fa\u011F\u0131ya, uzay\u0131n siyah bo\u015Flu\u011Funa\r\ndo\u011Fru
+    titrek bir \xE7\u0131\u011Fl\u0131k gibi kayd\u0131n\u0131z."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

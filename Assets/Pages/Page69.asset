@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page69
+  m_EditorClassIdentifier: 
+  storyText: "Bir kum tepesinden a\u015Fa\u011F\u0131 kayd\u0131n. Bru da \r\nsanki
+    bir oyunmu\u015F gibi seninle birlikte \r\nyuvarland\u0131 .\r\n\"Selam! Hey bay\u0131m!\u201D
+    diye seslendin. \r\nBal\u0131k\xE7\u0131 sana bakt\u0131. Bru'yu g\xF6r\xFCnce,
+    \u015Fa\u015Fk\u0131nl\u0131k \rve korkudan geri geri giderken neredeyse \rd\xFC\u015Fecekti.
+    \"Bize nerede oldu\u011Fumuzu s\xF6yleyebilir misiniz?\u201D \r\n\"Bu da nedir
+    Allah a\u015Fk\u0131na?\u201D diye \rbal\u0131k\xE7\u0131 Bru'yu g\xF6steriyordu.
+    \r\n\"Bu arkada\u015F\u0131m Bru! Ba\u015Fka bir gezegenden \rgeliyor. \" \r\nBal\u0131k\xE7\u0131
+    yakla\u015Ft\u0131. \n\"R\xFCya g\xF6r\xFCyorum herhalde. Hayat\u0131mda ya\u015Fad\u0131\u011F\u0131m
+    en ak\u0131l almaz olay \rbu.\u201D \r\n\"Neredeyiz biz?\" diye yineledin sorunu.
+    \r\n\"Nags Head, Kuzey Carolina. Benim \r\nad\u0131m Buck Coleman. \" \r\n\"Washington'a,
+    Beyaz Saray'a buradan \r\nnas\u0131l gidebiliriz?\u201D diye sordu Bru. \n\"Bu
+    t\xFCm d\xFCnyan\u0131n gelece\u011Fi i\xE7in \xE7ok \xF6nemli.\u201D \r\n\"Epey
+    uzakt\u0131r. Ama b\xF6yle \u015Feyler her zaman olmaz. Bana bir izin verin telefon
+    edip \rgeleyim. Yolun kar\u015F\u0131s\u0131nda iki tane telefon \rkul\xFCbesi
+    var. Siz burada bekleyin. Bir yere \rayr\u0131lmay\u0131n.\u201D \r\n\"Ben de
+    eve bir telefon etsem iyi olacak!\u201D \ndedin Bru'ya, \"Hemen d\xF6nerim.\u201D
+    \r\n\"Tamam\u201D diye yan\u0131tlad\u0131 Bru. \"Ben \u015Furadaki a\u011Fa\xE7lar\u0131n
+    \xFCst\xFCne saklan\u0131r\u0131m. Ba\u015Fkan'la \rg\xF6r\xFC\u015Fmeden kimse
+    beni g\xF6rmemeli.\" "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 3722dd5f07e94c3458773101a5ecb21e, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

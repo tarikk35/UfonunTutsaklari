@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page25
+  m_EditorClassIdentifier: 
+  storyText: "\"D\xFCnyaya giderek Ultima'ya nas\u0131l ula\u015Facaks\u0131n\u0131z?\"
+    diye sordun. Bu s\xF6zleri der demez birtak\u0131m k\xFC\xE7\xFCk cisimler \xF6fkeli
+    ar\u0131lar gibi v\u0131z\u0131lday\u0131p k\u0131v\u0131lc\u0131mlar sa\xE7arak
+    ba\u015F\u0131n\u0131n \xE7evresinde d\xF6nmeye ba\u015Flad\u0131. Bir yandan
+    da giderek yere do\u011Fru g\xF6m\xFCl\xFCyordun. Kendini korumak i\xE7in kollar\u0131nla
+    y\xFCz\xFCn\xFC kapatt\u0131n. K\u0131v\u0131lc\u0131mlar da seninle birlikte
+    odan\u0131n taban\u0131na g\xF6m\xFCl\xFCyordu ama art\u0131k s\xF6nmek \xFCzere
+    olan bir kor gibiydiler. Nihayet ayaklar\u0131n\u0131n yan\u0131na d\xFC\u015F\xFCp
+    kald\u0131lar. Bir iki dakika i\xE7inde de tamamen s\xF6n\xFCp \xF6nce gri sonra
+    siyah renk ald\u0131lar. \xC7ekinerek i\xE7lerinden birine dokundun. Sonra da
+    eline ald\u0131n. Kumsalda buldu\u011Fun k\xFC\xE7\xFCk ta\u015Flara benziyordu.
+    Ama bu k\xFC\xE7\xFCc\xFCk \u015Fey kur\u015Fundan bile a\u011F\u0131rd\u0131.\nBIZIMLE
+    ISBIRLIGI YAPACAKSINIZ!\n\tSes  yeniden beyninde g\xFCmb\xFCrdedi. Kendini toplay\u0131p
+    yan\u0131tlad\u0131n:\n-\"Ben insan\u0131m beni hayvan yerine koyamazs\u0131n\u0131z
+    !\"\nAniden \xE7ok parlak bir \u0131\u015F\u0131kla g\xF6zlerin kama\u015Ft\u0131.
+    Gemi \xF6yle h\u0131zl\u0131 gidiyordu ki yere yap\u0131\u015Ft\u0131n. \nU-TY'YE
+    UYUM SAGLAYAMADIN. SENI DUNYAYA GERI GONDERIYORUZ. BELLEGINDEKILERI SILECEGIZ.
+    BURADA OLDUGUNU HICBIR ZAMAN ANIMSAYAMAYACAKSIN."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 74bed59987c3de647b8752edfa73e8cd, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

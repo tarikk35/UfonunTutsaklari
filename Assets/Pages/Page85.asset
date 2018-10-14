@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page85
+  m_EditorClassIdentifier: 
+  storyText: "Ba\u015Fard\u0131n! Ka\xE7ma plan\u0131n\u0131 bir kerecik bile olsun
+    d\xFC\u015F\xFCnmedin! Daha sonra U-TY taraf\u0131ndan yeniden \xE7a\u011Fr\u0131ld\u0131n.
+    Seni bir uzay jipine bindirdiler ve inan\u0131lmaz bir h\u0131zla d\xFCnyaya do\u011Fru
+    yol almaya ba\u015Flad\u0131n. Saat 11.50 de Metropolitan Sanat Eserleri M\xFCzesinin
+    yan\u0131ndaki B\xFCy\xFCk Park'ta topra\u011Fa ayak bast\u0131n. Robotlar uzay
+    arac\u0131ndan u\xE7arak \xE7\u0131k\u0131p m\xFCzenin duvar\u0131na do\u011Fru
+    y\xF6neldiler. Antenlerini binan\u0131n d\u0131\u015F duvar\u0131na dokunur dokunmaz
+    koskoca duvar yok oluverdi. Onlar h\u0131zla i\xE7eri dalarken sen \u015Fa\u015Fk\u0131nl\u0131ktan
+    dona kalm\u0131\u015F olan biteni seyrediyordun. Ar\u0131lar\u0131n \xE7i\xE7eklerden
+    bal \xF6z\xFC almalar\u0131 gibi b\xFCy\xFCk bir h\u0131zla heykelleri ve di\u011Fer
+    sanat eserlerini topluyorlard\u0131. Birden alarm d\xFCd\xFCkleri \xE7almaya ba\u015Flad\u0131.
+    Iki bek\xE7i size do\u011Fru ko\u015Fuyordu. Biri ba\u011F\u0131rd\u0131: \n\"Teslim
+    ol, yoksa vururum!\" \nU-TY robotlar\u0131ndan biri sana do\u011Fru geldi ama
+    sen yeniden o uzay gemisine d\xF6nmek istemiyordun. Iki n\xF6bet\xE7inin bulundu\u011Fu
+    koridora dald\u0131n. Her yer siren sesleriyle \xE7\u0131nl\u0131yordu."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: f55c4fefc488d1349952037df7d35e80, type: 2}
+  pathText: Hemen 1'e bas.

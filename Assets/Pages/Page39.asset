@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page39
+  m_EditorClassIdentifier: 
+  storyText: "\tBirden sesler yank\u0131land\u0131.\nSENI IZLIYORDUK. BUNDAN SONRAKI
+    YASAMINDA YAPACAGIN VE SOYLEYECEGIN HER SEYI ONCEDEN BILEBILIRIZ.\nBu s\xF6zleri
+    duyunca \xF6fke ve korku hissettin. Onlar\u0131 \u015Fa\u015F\u0131rtacak bir
+    \u015Feyler bulmaya \xE7al\u0131\u015Ft\u0131n."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: c4016518a46bf674e98d70b8ab0209ec, type: 2}
+  - {fileID: 11400000, guid: 2f1e361c24326a24582b4a78600d6610, type: 2}
+  - {fileID: 11400000, guid: ac0728a5fcf4bda45ad41e174bea728e, type: 2}
+  pathText: "E\u011Fer beni d\xFCnyaya geri g\xF6t\xFCr\xFCn diye ba\u011F\u0131racaksan
+    1'e,\nBa\u015F\u0131n\u0131 geri at\u0131p g\xFCleceksen 2'ye,\nB\xFCt\xFCn yapacaklar\u0131n\u0131
+    bilemeyeceklerini g\xF6stermek i\xE7in bir \xE7ocuk \u015Fark\u0131s\u0131 s\xF6yleyeceksen
+    3'e bas."

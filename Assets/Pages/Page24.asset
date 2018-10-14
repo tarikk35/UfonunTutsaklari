@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page24
+  m_EditorClassIdentifier: 
+  storyText: "Kollar\u0131n\u0131 omuz hizas\u0131nda kavu\u015Fturmu\u015Flard\u0131.
+    Trans halinde gibiydiler. Ama onlara dikkatle bak\u0131nca k\u0131z g\xF6zlerini
+    a\xE7arak sana g\xFCl\xFCmsedi. Gelmeni \xE7oktand\u0131r bekliyor ve seni tan\u0131yor
+    gibi \"Ad\u0131m Kim-Li.\" diyerek kendini tan\u0131tt\u0131."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 15cc10613ffb93a41af067037582a547, type: 2}
+  - {fileID: 11400000, guid: 5a463092a3b91a440a80920c62d8349f, type: 2}
+  pathText: "Ya\u015Fl\u0131 adamla konu\u015Facaksan 1'e,\nKim Li ile konu\u015Facaksan
+    2'ye bas."

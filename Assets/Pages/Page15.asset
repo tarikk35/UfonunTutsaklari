@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page15
+  m_EditorClassIdentifier: 
+  storyText: "Heykeli Inku'dan al\u0131p t\xFCnelden a\u015Fa\u011F\u0131 do\u011Fru,
+    turuncu renkli \u0131\u015F\u0131\u011F\u0131 izleyerek inmeye ba\u015Flad\u0131n.
+    Elindeki heykel insan ba\u015F\u0131yd\u0131 ama garip bir \u015Fekilde uzundu.
+    Birden \xE7evren parlak bir \u0131\u015F\u0131kla ayd\u0131nland\u0131. Heykeli
+    daha iyi g\xF6rebiliyordun. Ansiklopedide buna benzer an\u0131tlara rastlad\u0131\u011F\u0131n\u0131
+    hat\u0131rlad\u0131n. Bu, G\xFCney Pasifikteki Easter adas\u0131nda \xE7ok eski
+    zamanlarda yap\u0131lm\u0131\u015F o gizemli ta\u015F heykellere benziyordu. Ama
+    daha fazla d\xFC\u015F\xFCnecek zaman\u0131n yoktu. U-TYnin sesi beyninin i\xE7inde
+    giderek g\xFC\xE7leniyordu.\nYERE UZAN VE UYU .\n\tKar\u015F\u0131 koymak istedin
+    ama \xFCst\xFCne engelleyemedi\u011Fin bir uyu\u015Fukluk \xE7\xF6kt\xFC. Yere
+    uzan\u0131p uyumaya ba\u015Flad\u0131n. D\xFC\u015F\xFCnceler beyninin i\xE7inde
+    d\xF6n\xFCp durdu. Bu heykelin yard\u0131m\u0131 olur muydu? G\xFCc\xFC var m\u0131yd\u0131?
+    Senin ve Inku'nun eve d\xF6nmesini sa\u011Flar m\u0131yd\u0131?"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 2ad90bf183ba8ad4ab9a9c64312f7d7d, type: 2}
+  pathText: "Bu sorular\u0131n\u0131n yan\u0131t\u0131n\u0131 almak i\xE7in 1'e bas."

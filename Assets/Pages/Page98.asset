@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page98
+  m_EditorClassIdentifier: 
+  storyText: "\u201CBen Concord u\xE7a\u011F\u0131ndan kaybolan yol-\r\ncuyum.\" dedin.
+    Uzun bir sessizlik oldu.\r\nSaatine bakt\u0131n. Yaln\u0131z birka\xE7 dakika\r\nge\xE7mi\u015Fti
+    ama sana saatler ge\xE7mi\u015F gibi\r\ngeliyordu. Acaba son anlar\u0131n\u0131
+    m\u0131 ya\u015F\u0131yordu\rn?\r\r\nBe\u015F dakika doldu. Hi\xE7bir cevap gelmiyor-\r\ndu.\r\r\nTam
+    umudunu kesmek \xFCzereydin ki\r\nbekledi\u011Fin yan\u0131t geldi:\r\r\n\u201CBuras\u0131
+    NASA, bizi duyuyor musunuz?\"\r\r\n\u201CEvet!\"\r\n\"Bilgisayar kay\u0131tlar\u0131ndan
+    kimli\u011Fin hakk\u0131n\nda bekledi\u011Fimiz bilgl hen\xFCz ula\u015Ft\u0131.
+    Bu bilgi,\r sizin Concord'dan kaybolan yolcu oldu\u011Funuzu onayl\u0131yor. .Kayboldu\u011Funuz
+    uzay arac\u0131na\r UFO5440 ad\u0131 verilmi\u015Fti. Yetmi\u015F iki saat\r i\xE7inde
+    sizi oradan alacak olan uzay meki\u011Fini\r g\xF6nderiyoruz. Bilgisayarla oynamay\u0131n.
+    D\xFCn\rya'n\u0131n b\xFCt\xFCn bilginleri bu i\u015Fle u\u011Fra\u015F\u0131yorlar.\r\nSizi
+    UFO5440'tan d\xFCnyaya getirece\u011Fiz.\"\r\nKim Li havada z\u0131plamaya ba\u015Flad\u0131.
+    A\u011Fz\u0131\r\nkulaklar\u0131na vararak. \n\"Beni \xC7in'de ziyaret\r etmeye
+    geleceksin de\u011Fil mi? \"diye sordu.\r\n\u201CTabii. tabii gelece\u011Fim!\"
+    dedin. \u201CAma sen\r\nde T\xFCrkiye'ye gelece\u011Fine s\xF6z ver.\u201C"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

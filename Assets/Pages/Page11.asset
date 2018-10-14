@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page11
+  m_EditorClassIdentifier: 
+  storyText: "\tB\xFCy\xFCk ac\u0131lara katlanarak ba\u015F\u0131ndan band\u0131
+    \xE7\u0131karmay\u0131 ba\u015Fard\u0131n. Ama o anda daha \xF6ncekinden daha
+    korkun\xE7 bir sanc\u0131 sapland\u0131. Hi\xE7bir \u015Fey g\xF6remiyordun. Band\u0131
+    odan\u0131n di\u011Fer ucuna f\u0131rlatt\u0131n. A\u011Fr\u0131 giderek hafifledi
+    ve yeniden g\xF6rmeye ba\u015Flad\u0131n. \n\tAh bir de ka\xE7\u0131\u015F yolu
+    bulabilseydin. Kula\u011F\u0131na anla\u015F\u0131lmas\u0131 zor bir m\xFCzik
+    sesi geldi\u011Fi anda odan\u0131n \xF6teki ucundaki duvar birden eriyip ince
+    bir sis tabakas\u0131 haline geliverdi. Bu sis perdesinin ard\u0131nda sonsuz
+    gibi g\xF6r\xFCnen bir koridor uzuyordu. Koridor boyunca ko\u015Fmaya ba\u015Flad\u0131n.
+    Birden \xF6n\xFCne \xE7\u0131kan h\u0131zla d\xF6nen gri bir yarat\u0131k b\xFCy\xFCk
+    bir s\xFCratle sa\u011Fa do\u011Fru giden t\xFCnele dald\u0131. Arkas\u0131ndan
+    var g\xFCc\xFCnle ko\u015Ftun.\n\tT\xFCnelin sonunda, g\xFCm\xFC\u015Fi par\u0131lt\u0131l\u0131
+    dev bir istiridyeye benzer bir ara\xE7 duruyordu. Bu bir uzay arac\u0131 olabilir
+    mi ?\nYarat\u0131\u011F\u0131n kapa\u011F\u0131 kald\u0131r\u0131p bu dev istiridyenin
+    i\xE7ine girdi\u011Fini g\xF6rd\xFCn."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 340aaf5b677d83447908c36cf906774a, type: 2}
+  pathText: 1'e basarak devam et.

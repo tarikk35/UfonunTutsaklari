@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page58
+  m_EditorClassIdentifier: 
+  storyText: "\tKaptan karar\u0131na uyarak telsizle K\u0131y\u0131 \r\nKorumay\u0131
+    aramaktan vazge\xE7ti. \r\u0130ki g\xFCn sonra, gemi Seattle Liman\u0131ndayd\u0131.
+    \r\nKaptanla birlikte Mopo'yla konu\u015Fuyordunuz: \r\n\"U-TY'lilerin beni tutsak
+    etmelerinden \r\nsonra \xFClkeniz hakk\u0131nda \xE7ok \u015Fey \xF6\u011Frendim.\u201D
+    \rdiye anlatmaya devam etti Mopo. \n\"Birle\u015Fik \rAmerika Ba\u015Fkan\u0131
+    ile derhal g\xF6r\xFC\u015Fmeliyim. \rYaln\u0131zca ona anlatabilece\u011Fim \xF6nemli
+    bilgilere \rsahibim. \r\nDi\u011Fer d\xFCnyalardaki canl\u0131lar \xFCzerinde
+    uz- \r\nman olan \xFCnl\xFC bilim adam\u0131 Dr. Hubert \r\nShomsky, umar\u0131m
+    Ba\u015Fkan\u0131 benim bir \u015Faka \rolmad\u0131\u011F\u0131ma inand\u0131r\u0131r.
+    Ba\u015Fkanla beni g\xF6r\xFC\u015Ft\xFCrebilecek tek ki\u015Fi o.\" "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 356db1163be5bfa468ce65aa813a102e, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

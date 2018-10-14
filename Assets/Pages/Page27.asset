@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page27
+  m_EditorClassIdentifier: 
+  storyText: "\tBilgisayar\u0131 kontol ettin. Geminin rotas\u0131 ger\xE7ekten Alara'ya
+    y\xF6nelmi\u015Fti. Bu inan\u0131lmaz bir\u015Feydi. Zavall\u0131 bir tutsakken
+    t\xFCm geminin y\xF6netimi senin eline ge\xE7mi\u015Fti. \nAlara'ya olan uzun
+    yolculuk s\u0131ras\u0131nda senden \xE7ok farkl\u0131 ve \xE7ok g\xFCzel yabanc\u0131
+    yarat\u0131klarla tan\u0131\u015Ft\u0131n. U-TY d\xFCnya ile ilgili milyonlarca
+    video \xE7ekmi\u015Fti. Bu videolar\u0131 bilgisayardan \xFC\xE7 boyutlu olarak
+    tekrar tekrar izledin. D\xFCnyada ge\xE7en t\xFCm sava\u015Flar\u0131, ser\xFCvenleri,
+    insanl\u0131\u011F\u0131n en \xF6nemli bulu\u015Flar\u0131n\u0131, tarihteki en
+    b\xFCy\xFCk olaylar\u0131, d\xFCnyadaki farkl\u0131 k\xFClt\xFCr ve dilleri \xF6\u011Frenerek
+    hi\xE7bir okulda \xF6\u011Frenemeyece\u011Fin bilgilere sahip oldun.\n\tYa\u015Fam\u0131ndan
+    tek bir y\u0131l bile olsa kaybetmek istemedi\u011Fin i\xE7in U-TY'den ya\u015F\u0131n\u0131
+    dondurmalar\u0131n\u0131 istemi\u015Ftin. O andan itibaren art\u0131k uzayda 1000
+    y\u0131l ge\xE7irsen de d\xFCnyaya gen\xE7 olarak gelece\u011Fini biliyordun.
+    Hem de ya\u015Fam\u0131\u015F hi\xE7bir insan\u0131n sahip olmad\u0131\u011F\u0131
+    bir bilgi ve deneyim birikimiyle ...\n"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page46
+  m_EditorClassIdentifier: 
+  storyText: "\tU-TY'ye Amerikaya inmesini s\xF6yledin. Birden gemi y\xF6r\xFCngeden
+    \xE7\u0131kt\u0131 ve korkun\xE7 bir h\u0131zla yol almaya ba\u015Fl\u0131yor.
+    Yava\u015Flama b\xF6l\xFCm\xFCn\xFCn duvar\u0131na yap\u0131\u015F\u0131p kal\u0131yorsun.
+    Sanki \xFCst\xFCnde tonlarca a\u011F\u0131rl\u0131k var. Bir yanl\u0131\u015Fl\u0131k
+    var, bir yanl\u0131\u015Fl\u0131k olmal\u0131 diye s\xF6yleniyorsun. -\"Alarmlar
+    neden \xE7al\u0131yor , ne oluyor?\" diye bilgisayara s\xF6yl\xFCyorsun.\n+\"PROGRAMDA
+    HATA VAR , TUTARSIZLIK SAPTANDI.\"\nG\xF6zlem yerinden bak\u0131nca d\xFCnyaya
+    h\u0131zla yakla\u015Ft\u0131\u011F\u0131n\u0131z\u0131 g\xF6r\xFCyorsun. y\xFCzeye
+    15 kilometreden az kalm\u0131\u015F. \xC7ok g\xFC\xE7l\xFC yer\xE7ekimi nedeniyle
+    konu\u015Fmakta zorlan\u0131yorsun.\n-\"Dur, y\xF6r\xFCngeye d\xF6n ! Tanr\u0131lar
+    adas\u0131na ineceksin.\"\n\u015Eimdi bilgisayar y\xF6r\xFCngeye girmeye \xE7al\u0131\u015F\u0131yor.
+    Gemi depreme tutulmu\u015F gibi titriyor , motorlar zorlan\u0131yor. H\u0131zdan
+    neredeyse bedenin par\xE7alanacak. Saniyede 100 kilometreyle gidiyorsun. Art\u0131k
+    vaktin kalmad\u0131 ..."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 134b5d0a1eceeab4a90223d35bc37457, type: 2}
+  pathText: 1'e basarak devam et.

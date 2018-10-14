@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page96
+  m_EditorClassIdentifier: 
+  storyText: "\u201C\u015Eimdi ne yapaca\u011F\u0131z?\" diye sordu Kim Li.\r\nAma
+    sen derin d\xFC\u015F\xFCncelere dalm\u0131\u015Ft\u0131n.\r\nSorusunu duymad\u0131n
+    bile. Tarlan\u0131n ucundaki\r\nyama\xE7tan sana do\u011Fru ko\u015Farak gelen
+    bir adam\r ve k\xF6pe\u011Fini g\xF6rd\xFCn. Ard\u0131ndan bir siren\r\nd\xFCd\xFC\u011F\xFC...
+    Bu polis olmal\u0131yd\u0131.\r\nU-TY y\xF6neticilerinin birdenbire ortadan\r\nnas\u0131l
+    yok olduklar\u0131n\u0131 d\xFC\u015F\xFCn\xFCyord\xFCn. Ve bu\r\ngemiyle nihayet
+    d\xFCnyaya indi\u011Finizi..."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 47c20118c3133434c9211b6b0755a648, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

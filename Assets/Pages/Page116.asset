@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page116
+  m_EditorClassIdentifier: 
+  storyText: "Kim Li ile birlikte a\xE7\u0131k kap\u0131da oturup sizi g\xF6rmeye
+    gelen insanlar\u0131n tarlada birikmesini izlediniz. Polisler alt\u0131n\u0131zdaki
+    alan\u0131 bo\u015Faltmak istiyordu, ama merakl\u0131 kalabal\u0131\u011F\u0131
+    da\u011F\u0131tmak kolay de\u011Fildi. Nihayet bir polis helikopteri geldi. Ard\u0131ndan
+    ordunun helikopterleri, birka\xE7 askeri kamyon, f\xFCze ta\u015F\u0131y\u0131c\u0131lar
+    ve tanklar s\xF6k\xFCnetti. \n\"Bize ate\u015F ederler mi?\" diye sordu Klm Li.\n
+    \"Yabanc\u0131 lardan korkuyorlar,\" diye yan\u0131tlad\u0131n. \"Ama bize ate\u015F
+    edeceklerini sanm\u0131yorum. Umar\u0131m bir merdiven getirip bizi a\u015Fa\u011F\u0131ya
+    indirirler. Herkes bizi TV'de izleyecek. Bilimadamlar\u0131 bizi sorguya \xE7ekip
+    gemi \xFCst\xFCnde ara\u015Ft\u0131rmalar yapacak. Belki de bunun gibi bir uzay
+    arac\u0131 yapmaya \xE7al\u0131\u015Facaklar.\" \nKim Li sizi ilgiyle dinliyordu.
+    \n\"D\xFCnyay\u0131 yeniden g\xF6rmeyi \xE7ok istiyorum. \xDClkemi \xF6zledim.
+    Ama bu gemiyi de \xF6zleyece\u011Fim, \xE7\xFCnk\xFC 475 y\u0131l\u0131m burada
+    ge\xE7ti .\" \n\"U-TY y\xF6neticilerini de \xF6zleyecek misin?\" Kim Li ba\u015F\u0131n\u0131
+    sallad\u0131. \n\"Hay\u0131r! U-TY ruh\xE7a ve beyince k\xFC\xE7\xFCc\xFCk gri
+    bir salyangozdan fazla farkl\u0131 de\u011Fildi bence.\" \n\"Ama bu inan\u0131lmaz
+    gemiyi yapm\u0131\u015Flar!\" dedin. \n\"Evet inan\u0131lmaz!\" diye yan\u0131tlad\u0131
+    Kim Li, \"T\u0131pk\u0131 k\xFC\xE7\xFCk gri bir salyangozun kumsalda b\u0131rakt\u0131\u011F\u0131
+    deniz kabu\u011Fu gibi.\""
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

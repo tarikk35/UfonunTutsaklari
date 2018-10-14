@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page79
+  m_EditorClassIdentifier: 
+  storyText: "Bir an d\xFC\u015F\xFCnd\xFCn ve akl\u0131na ilk gelen \u015Fark\u0131y\u0131
+    ba\u011F\u0131ra ba\u011F\u0131ra okumaya koyuldun: Ankara\u2019n\u0131n ba\u011Flar\u0131
+    da\r\nB\xFCkl\xFCm, b\xFCkl\xFCm yollar\u0131\r\nNe zaman sarho\u015F oldun da\r\nKald\u0131ram\u0131yon
+    kollar\u0131\n\nU-TY bir an yan\u0131p s\xF6nd\xFC.\nSENIN HAKKINDAKI HER \u015EEYI
+    BILIYORUZ. \r\nBir an bu buluta benzeyen enerji k\xFCmelerine do\u011Fru \xE7ekiliyormu\u015Fsun
+    gibi oldun. Ger\xE7ekten d\xFC\u015F\xFCncelerini okuyabiliyorlarsa sana her k\xF6t\xFCl\xFC\u011F\xFC
+    yapabilirlerdi. Sen tam bunlar\u0131 d\xFC\u015F\xFCn\xFCrken U-TY'ler birden
+    k\u0131v\u0131lc\u0131mlar sa\xE7maya ba\u015Flad\u0131lar. Bu arada \xE7ok y\xFCksek
+    bir \u0131s\u0131 da yay\u0131yorlard\u0131 .. Korunmak amac\u0131yla ba\u015F\u0131n\u0131
+    kollar\u0131nla kapatmaya \xE7al\u0131\u015Ft\u0131n. Aniden bir yere do\u011Fru
+    kuvvette s\xFCr\xFCklenmeye ba\u015Flad\u0131\u011F\u0131n\u0131 hissetti\u011Fin
+    anda yine beyninde o sesi duydun: \nBUNU SOYLEYECEGINI DE ANLADIK ONUN I\xC7IN
+    SANA BOL ZAMAN TANIDIK SOMO'YA GITTIGINDE UYUMAK I\xC7IN BIR MILYAR YILIN VAR
+    ARTIK "
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

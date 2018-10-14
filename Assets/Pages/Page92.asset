@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page92
+  m_EditorClassIdentifier: 
+  storyText: "\u201CE\u011Fer siz hakl\u0131ysan\u0131z.\" dedi Mopo\r\n\u201CRuslann
+    amac\u0131 ger\xE7ekten bir sava\u015F\u0131 ba\u015Flat\rmaksa, onlar\u0131n
+    yan\u0131nda oldu\u011Fum taktirde\r d\xFCnya bar\u0131\u015F\u0131na daha \xE7ok
+    katk\u0131da bulunabili\rrim. Amerikal\u0131lar bar\u0131\u015Fseverse benim onlar\u0131n\r
+    yan\u0131nda bulunmam\u0131n ne gibi bir yarar\u0131 olabilir\"\r\nMopo devam
+    etti. \u201CA\xE7\u0131k\xE7a g\xF6r\xFCl\xFCyor ki,\r\nbenim bar\u0131\u015Fsever
+    birisi olarak Ruslarla birlikte\r gitmem daha do\u011Fru olur. Kald\u0131 ki,
+    e\u011Fer sizinle\r gelirsem s\u0131rf beni merak ettikleri i\xE7in bir\r sava\u015F\u0131
+    ba\u015Flatabilirler. Ama onlarla birlikte\r olursam, belki onlar\u0131 bar\u0131\u015Fa
+    do\u011Fru y\xF6nlen\rdirebilirim.\"\r\nO s\u0131rada Rus denizalt\u0131s\u0131
+    bal\u0131k\xE7\u0131 gemisine\r\nyana\u015Fm\u0131\u015Ft\u0131 bile. Ne senin
+    \u0131srarlar\u0131n, ne de\r\nkaptan\u0131n s\xF6zleri Mopo'yu onlarla birlikte\r\ngitmekten
+    cayd\u0131ramad\u0131. Her \u015Fey g\xF6z a\xE7\u0131p\r\nkapayana kadar s\xFCrd\xFC.
+    Denizalt\u0131 sizi orada\r \xF6ylece b\u0131rakarak Mopo'yla birlikte uzakla\u015Ft\u0131.\r
+    Mopo'nun karar\u0131 seni \u015Fa\u015F\u0131rtm\u0131\u015Ft\u0131, ama\r d\xFC\u015F\xFCnd\xFCk\xE7e
+    d\xFC\u015F\xFCncelerinin do\u011Fru oldu\u011Funu\r kabul ediyordun. Mopo belki
+    de d\xFCnyal\u0131\rlar\u0131 senden daha iyi tan\u0131yordu."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

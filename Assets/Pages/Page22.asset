@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page22
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"Size Ultima'y\u0131 bulman\u0131z i\xE7in yard\u0131m edece\u011Fim.\"
+    diye karar\u0131n\u0131 bildirdin. \nBIZE YARDIM ETMEK ISTEMEN COK IYI . SIMDI
+    DUNYALILARIN BULUNDUGU BOLUME GIT .\nSanki g\xF6r\xFCnmeyen bir m\u0131knat\u0131s
+    taraf\u0131ndan \xE7ekiliyormu\u015Fsun gibi d\xF6nen bir t\xFCnelden ge\xE7erek
+    \xE7ok b\xFCy\xFCk bir odaya geldin. Burada yakla\u015F\u0131k on insan yer minderlerinin
+    \xFCst\xFCnde oturmaktayd\u0131. Aralar\u0131nda bir denizci, renk renk \xE7izgili
+    uzun bir elbise giymi\u015F bir kad\u0131n, samurai k\u0131yafetli bir adam ve
+    siyah sa\xE7lar\u0131 beline kadar uzanan \xE7ok g\xFCzel bir gen\xE7 k\u0131z
+    vard\u0131.\n\tSamurai kalk\u0131p sana do\u011Fru geldi. Kar\u015F\u0131nda e\u011Filerek
+    +\"D\xFCnyal\u0131lar b\xF6l\xFCm\xFCne ho\u015Fgeldin. Senin gibi biz de U-TY
+    y\xF6neticilerinin tutsa\u011F\u0131y\u0131z.\"dedi.\n-\"Ne kadar zamand\u0131r
+    buradas\u0131n\u0131z?\"\n+\"Alt\u0131 y\xFCz y\u0131ldan beri. Japon ba\u015Fkomutan\u0131
+    Shogun Yoshimitsu'nun zaman\u0131nda buraya getirildim. Ge\xE7en y\xFCzy\u0131llar
+    boyunca d\xFCnya hakk\u0131nda \xE7ok \u015Fey \xF6\u011Frendim , sizin dilinizi
+    de.\"\n-\"Peki burada ya\u015Flanm\u0131yor musun?\"\n+\"Hay\u0131r. Bizi tutsak
+    edildi\u011Fimiz ya\u015Fta tutuyorlar.\"\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: fec82098914d5c745b19f5b037e0e31c, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

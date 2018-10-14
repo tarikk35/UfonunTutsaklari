@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page52
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"Bu \u015Fans\u0131 kullanaca\u011F\u0131m.\nD\xFC\u015F\xFCncelerimi
+    denetleyebilirim.\u201D \r\n+\"\xD6yleyse sana iyi \u015Fanslar. Benl izle.\u201D
+    \r\nKali labirent gibi koridorlarda sana yol \r\ng\xF6sterdi. Dakikalarca gittiniz.
+    Sonunda \r\ng\xFC\xE7l\xFCkle g\xF6rebildi\u011Finiz alacakaranl\u0131k bir yere
+    \rula\u015Ft\u0131n\u0131z. Kali'nin kollar\u0131 omuzundayd\u0131. \rSizi y\xFCreklendirircesine
+    s\u0131rt\u0131na hafif\xE7e \rvurdu: \r\n+\"Bundan sonra yaln\u0131z devam edeceksin!\"
+    \ \r\nKali'ye yard\u0131mlar\u0131 i\xE7in te\u015Fekk\xFCr ettin ve el \ns\u0131k\u0131\u015F\u0131p
+    ayr\u0131ld\u0131n. Sonra t\xFCnel gibi koridorlardan y\xFCr\xFCy\xFCp eflatun
+    bir \u0131\u015F\u0131kla ayd\u0131nlat\u0131lm\u0131\u015F \rdairesel planl\u0131
+    bir b\xF6l\xFCme geldin. Odaya \rgirer gimez ba\u015F\u0131n\u0131n \xFCst\xFCnde
+    u\xE7u\u015Fan ve topu \rand\u0131ran eflatun \u0131\u015F\u0131k sa\xE7an \xFC\xE7
+    garip cisimle \rkar\u015F\u0131la\u015F\u0131nca hipnotize olmu\u015F gibi orada
+    kalakald\u0131n. O anda beyninin i\xE7inde sesleri \ryank\u0131land\u0131. \r\nYARIN
+    DUNYA YORUNGESINDEN \nEBEDIYEN AYRILIYORUZ. AYRILMADAN \nONCE METROPOLITAN SANAT
+    MUZES\u0130NDEKI \rHAZINELERI ALACAGIZ: EGER KACMAK \rISTEMEYIP DE BIZE YARDIM
+    EDERSEN \rUZAY CENNETI ULTIMA'YA VARABILIRSIN. \r\nARAMIZDA ONURLU BIR YERIN OLUR.
+    \r\nBir nefes al\u0131p :\n-\"Size yard\u0131m \redece\u011Fim. Ka\xE7mak istemiyorum.\u201D
+    \ "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 3e69e8f2dc2aa094c94a004bbdd1b81a, type: 2}
+  pathText: 1'e basarak devam et.

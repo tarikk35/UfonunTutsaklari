@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page117
+  m_EditorClassIdentifier: 
+  storyText: "Kim Li ile uzun uzun konu\u015Ftunuz. \u0130\xE7inden bir ses ikinizin
+    iyi arkada\u015F olaca\u011F\u0131n\u0131 s\xF6yl\xFCyordu. Onu daha iyi tan\u0131y\u0131p
+    g\xFCvenin art\u0131nca, \n\"Buradan ka\xE7ma \u015Fans\u0131m\u0131z var m\u0131?\"
+    diye sordun. Kim LI elini omzuna koydu. \n\"Bizler U-TY y\xF6neticileri taraf\u0131ndan
+    yakalanan a\u011Fa d\xFC\u015Fm\xFC\u015F kelebekler gibiyiz. \xC7ok yak\u0131nda
+    Rakma, kendi gezegeni olan ve buradan y\xFCzlerce \u0131\u015F\u0131k y\u0131l\u0131
+    uzakl\u0131kta bulunan Ra'ya gitmek \xFCzere D\xFCnya'dan ebediyen uzakla\u015Facak.
+    Ve bir daha D\xFCnya'y\u0131 g\xF6remeyece\u011Fiz.\"\n \"Buradan kurtulmal\u0131y\u0131m!\"
+    diye ba\u011F\u0131rd\u0131n. \n\"U-TY y\xF6neticileri ile g\xF6r\xFC\u015Fmek
+    istiyorum. Belki beni dinlerler.\" Kim Li omuz siikti. \n\"Sana U-TY ile nas\u0131l
+    y\xFCz y\xFCze gelindi\u011Fini g\xF6sterebilirlm. Ama seni uyarmal\u0131y\u0131m:
+    Bunu bir kez deneyen bir daha geri d\xF6nemez.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: da0583e4922f686499b7e44a1d057a1e, type: 2}
+  - {fileID: 11400000, guid: f3cd7bad2b2ad5c44b4aec0e360c451c, type: 2}
+  pathText: "U-TY ile g\xF6r\xFC\u015Fmeye karar verdiysen 1'e,\nKim Li'den ayr\u0131l\u0131p
+    geminin di\u011Fer b\xF6l\xFCmlerini ara\u015Ft\u0131racaksan 2'ye bas."

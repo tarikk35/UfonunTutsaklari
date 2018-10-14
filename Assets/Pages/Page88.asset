@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page88
+  m_EditorClassIdentifier: 
+  storyText: "\"Pekala, tamam!\" dedin Coleman'a. \"Ama onu nas\u0131l oyalayacaks\u0131n?\"
+    \nColeman ba\u015F\u0131n\u0131 sallad\u0131 ve g\xF6z k\u0131rpt\u0131. \n\"Sen
+    o i\u015Fi bana b\u0131rak.\" \nIkiniz birlikte Bru'nun yan\u0131na d\xF6nd\xFCn\xFCz.
+    Bru sizi g\xF6r\xFCnce sakland\u0131\u011F\u0131 a\u011Fa\xE7tan atlad\u0131.
+    \"Gidiyor muyuz?\" diye sordu. \n\"Bir on dakikaya ihtiyac\u0131m var!\" dedi
+    Coleman. \"Arabam\u0131n ak\xFCs\xFC bo\u015Falm\u0131\u015F. Ama yak\u0131nda
+    garaj \u0131 olan bir arkada\u015F\u0131m var. Ondan bir araba al\u0131p hemen
+    geliyorum.\" \nBru bir an durdu. Sonra birden bir top gibi havaland\u0131 ve Coleman'\u0131n
+    tepesinde b\xFCy\xFCk bir \xF6fkeyle d\xF6nmeye ba\u015Flad\u0131. \"D\xFC\u015F\xFCnceleriniz
+    s\xF6zlerinizden daha iyi duyuluyor bay\u0131m!\" dedi. Sonra bir an i\xE7in durdu
+    ve yere atlayarak yan\u0131na geldi. G\xF6zlerinin i\xE7ine bakarak: \n\"B\xFCy\xFCk
+    bir d\xFC\u015F k\u0131r\u0131kl\u0131\u011F\u0131na u\u011Frad\u0131m! Beni satabilece\u011Fini
+    hi\xE7 d\xFC\u015F\xFCnmemi\u015Ftim.\" \n\"Ama ben hi\xE7bir \u015Fey s\xF6ylemedim!\"
+    diyecek oldunuz.\n \"Bazen,\" dedi Bru \"hi\xE7bir \u015Fey s\xF6ylememek de yalan
+    s\xF6ylemektir.\"\n Bunu der demez, ipi elinden ka\xE7an bir u\xE7an balon gibi
+    havaland\u0131 ve birka\xE7 dakika i\xE7inde g\xF6ky\xFCz\xFCnde k\xFC\xE7\xFCc\xFCk
+    bir nokta haline geldi. Sonra tamamen g\xF6zden kayboldu. Bru gitmi\u015Fti."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: d68312dc7d2cbf44bb955c1677c556a6, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

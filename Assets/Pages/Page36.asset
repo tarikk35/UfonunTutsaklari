@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page36
+  m_EditorClassIdentifier: 
+  storyText: "-\"Kali, buradan ba\u015Fka bir ka\xE7\u0131\u015F yolu olmad\u0131\u011F\u0131na
+    emin misin?\"\n+\"Yaln\u0131zca d\xFCnyal\u0131lar i\xE7in bir yol var. Ama d\xFC\u015F\xFCncelerine
+    hakim olabilirsen... Belki bu \u015Fans\u0131n\u0131 kullanabilirsin.\"\n-\"Ne
+    demek istiyorsun?\"\n+\"Senin gezegeninden ayr\u0131lmadan \xF6nce, U-TY y\xF6neticileri,
+    d\xFCnyan\u0131n en b\xFCy\xFCk m\xFCzelerinden olan New York Metropolitan Sanat
+    M\xFCzesindeki hazineleri almay\u0131 planlad\u0131. Polis gelse bile U-TY'ye
+    bir iki dakika yeterli.\"\n-\"Polis U-TY'ye ate\u015F ederse ne olur?\"\n+\"Onlar
+    maddelerin i\xE7inden ge\xE7mek \xFCzere kendini geli\u015Ftirdiler. Bir U-TY'nin
+    alt\u0131nda ate\u015F yaksan bile yer de\u011Fi\u015Ftirir ve yanmak yerine o
+    ate\u015Ften enerji sa\u011Flar. Onlar i\xE7in tehlike s\xF6z konusu de\u011Fil.
+    Ama seni bek\xE7ileri atlatmak i\xE7in bir tuzak olarak kullanmay\u0131 d\xFC\u015F\xFCn\xFCyorlar.
+    Onlara yard\u0131m etmeyi d\xFC\u015F\xFCn\xFCrsen seni oraya g\xF6t\xFCrecekler.
+    Bir kez d\xFCnyaya inince ka\xE7ma \u015Fans\u0131n var. Ama bunu ba\u015Farabilir
+    misin bilmiyorum. \xC7\xFCnk\xFC onlarla konu\u015Furken ka\xE7ma iste\u011Fini
+    akl\u0131ndan ge\xE7irirsen beynini okuduklar\u0131 i\xE7in seni Somo'ya milyarlarca
+    y\u0131l uyumak \xFCzere g\xF6nderebilirler.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 8081c760a2e7efc47892f45bd88448fe, type: 2}
+  - {fileID: 11400000, guid: 7efb2ac7011f16741ad6fe3106187655, type: 2}
+  pathText: "U-TY'ye yard\u0131m teklif ederken d\xFC\u015F\xFCncelerine hakim olabilece\u011Fini
+    d\xFC\u015F\xFCn\xFCyorsan 1'e,\nKa\xE7mak i\xE7in ba\u015Fka bir yol arayacaksan
+    2'ye bas."

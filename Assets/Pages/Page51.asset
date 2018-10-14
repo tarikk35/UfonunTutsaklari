@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page51
+  m_EditorClassIdentifier: 
+  storyText: "\tGeri d\xF6n\xFC\u015F b\xF6l\xFCm\xFCnde ya\u015Fam g\xFCzeldi. \rYapacak
+    ve \xF6\u011Frenecek \xE7ok \u015Fey vard\u0131. Oyunlar\u0131 \rvideo ekranlar\u0131,
+    bilgisayarlar... Ama \rbakt\u0131\u011F\u0131nda onun her g\xFCn daha da k\xFC\xE7\xFCld\xFC\u011F\xFCn\xFC
+    g\xF6r\xFCyordun. D\xF6rt ayl\u0131k olunca art\u0131k \rkonu\u015Famaz oldu.
+    \xC7\xFCnk\xFC a\u011Fz\u0131 ve ses telleri \rkonu\u015Fmak i\xE7in gerekli yap\u0131y\u0131
+    kaybetmi\u015Fti. \rBir sore sonra zavall\u0131 bir halde k\u0131m\u0131ldamadan
+    \ryatmaya ba\u015Flad\u0131. Ve yeni do\u011Fmu\u015F bir \rbebek haline geldi.
+    \r\n\tBir g\xFCn bir U-TY robotu gelip bebe\u011Fi cam \rbir kutuya koydu. Kutu
+    bir k\xFCv\xF6ze benziyordu. \rDikkatle bak\u0131nca bebe\u011Fin hen\xFCz do\u011Fmam\u0131\u015F
+    \roldu\u011Funu farkettin. \u015Eimdi onun anne \rrahmindeki gibi \xF6zel olarak
+    korunmas\u0131 gerekiyordu. \rDokuz ay sonra giderek k\xFC\xE7\xFCld\xFC... \rk\xFC\xE7\xFCld\xFC.
+    Bir g\xFCn robot geldi ve bo\u015F k\xFCv\xF6z\xFC \ral\u0131p gitti.\n\t   Ona
+    ne olmu\u015Ftu? Ba\u015Fka bir evrende \ryeniden ml d\xFCnyaya gelecekti? E\u011Fer
+    \xF6yleyse \rayn\u0131 insan m\u0131 olacakt\u0131, yoksa ba\u015Fka biri mi?
+    \r\u015Eimdi art\u0131k tamamen yaln\u0131z kalm\u0131\u015Ft\u0131n. \rHer g\xFCn
+    daha da k\xFC\xE7\xFCld\xFC\u011F\xFCn\xFC farkediyordun. Hen\xFCz do\u011Fmam\u0131\u015F
+    oldu\u011Fun g\xFCn \rgelince art\u0131k sen de var olmayacakt\u0131n. \rYaln\u0131zca
+    bir umudun kalm\u0131\u015Ft\u0131. Belki \rge\xE7mi\u015Fte bir kez daha \xF6l\xFCp
+    yeniden ya\u015Famaya \rba\u015Flayabilirdin. "
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

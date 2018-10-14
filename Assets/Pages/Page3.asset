@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page3
+  m_EditorClassIdentifier: 
+  storyText: "\tArt\u0131k durumunu kavram\u0131\u015Ft\u0131n. O garip bi\xE7imli
+    u\xE7an ara\xE7ta bir tutsakt\u0131n ve t\u0131pk\u0131 vah\u015Fi bir hayvan
+    gibi bir kafese kapat\u0131lmaya g\xF6t\xFCr\xFCl\xFCyordun.\nBulundu\u011Fun
+    odada hi\xE7 kimse olmad\u0131\u011F\u0131 halde var g\xFCc\xFCnle hayk\u0131rd\u0131n
+    :\"Geri g\xF6nderin beni ... geri g\xF6nderin ! Beni burada tutamazs\u0131n\u0131z
+    !\"\n\nHERKES U-TY'NIN KOMUTLARINA UYMAK ZORUNDADIR ! \n\tYine o ses ! Beyninin
+    i\xE7inde yank\u0131lan\u0131yor sanki. Birden \xF6n\xFCndeki duvar eriyor ve
+    havada u\xE7uyorsun. Kar\u015F\u0131 konulmaz bir g\xFC\xE7 seni \xE7ekiyor. Bu
+    arada, hafif sar\u0131 \u0131\u015F\u0131kta insana benzer birka\xE7 \u015Fekil
+    se\xE7ebildin. Ba\u015Fka bir b\xF6l\xFCmdeydin art\u0131k. \xD6n\xFCndeki yer
+    minderlerinin \xFCst\xFCnde uzun siyah sa\xE7l\u0131 bir k\u0131z ve zay\u0131f
+    bir \xE7ocuk oturmakta. Ba\u011Fda\u015F kurup ellerini \xF6nlerinde kavu\u015Fturmu\u015Flar.
+    \n\tBu garip uzay arac\u0131nda ba\u015Fka insanlara rastlamak \xE7ok g\xFCzeldi.
+    Acaba di\u011Fer b\xF6l\xFCmlerde neler vard\u0131? Ara\u015Ft\u0131rmaya de\u011Ferdi.
+    Ama birdenbire kendini \xE7ok yorgun hissettin. Biraz uyursam olanlar\u0131 daha
+    iyi de\u011Ferlendirebilirim diye d\xFC\u015F\xFCnd\xFCn. \xD6te yandan, odadakilerle
+    konu\u015Fman , pek \xE7ok soruna yan\u0131t bulmana yard\u0131mc\u0131 olabilirdi."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 271a7e0dd8411134a9e9c9d928505f32, type: 2}
+  - {fileID: 11400000, guid: 305d777274061194da10eaa4dfca3c25, type: 2}
+  - {fileID: 11400000, guid: f3cd7bad2b2ad5c44b4aec0e360c451c, type: 2}
+  pathText: "Hemen yat\u0131p uyuyacaksan 1'e,\nOdadakilerle konu\u015Facaksan 2'ye,\nDi\u011Fer
+    b\xF6l\xFCmleri ara\u015Ft\u0131racaksan 3'e bas."

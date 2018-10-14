@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page76
+  m_EditorClassIdentifier: 
+  storyText: "Kahkahan odan\u0131n i\xE7inde yank\u0131lan\u0131rken U-TY'ler sanki
+    daha da geni\u015Flemi\u015F ve hareketlenmeye ba\u015Flam\u0131\u015Ft\u0131.
+    Koro halinde bir ses oday\u0131 doldurdu.\n BIZLER, U-TY OLARAK HER SEYI BILIRIZ
+    HER \u015EEYE HUKMEDERIZ. DUNYANIZI SESSIZCE UZUN SURE IZLEDIK. HER SEYI GORDUK.
+    HER SEYI OGRENDIK. BILMEDIGIMIZ TEK SEY VAR. O DA INSANLARIN NASIL VE NEDEN GULDUGUDUR.
+    Bunu duyunca kendini tutamay\u0131p yine g\xFCld\xFCn. Bir saniye \xF6nce U-TY'nin
+    ola\u011Fand\u0131\u015F\u0131 g\xF6r\xFCn\xFC\u015F\xFC seni korkutmu\u015Ftu.
+    Ama \u015Fimdi bu \xE7ok g\xFC\xE7l\xFC yarat\u0131klar sana \xE7ok basit bir
+    soru i\xE7in yalvar\u0131yorlard\u0131. Kim Li \xF6ne do\u011Fru bir ad\u0131m
+    atarak, \n\"\u015Eimdi eski bir \xC7inli d\xFC\u015F\xFCn\xFCr olan Sung Chi'nin
+    bir s\xF6z\xFC akl\u0131ma geldi. \"E\u011Fer g\xFClemezsek a\u011Flamay\u0131
+    ; a\u011Flayamazsak ya\u015Famay\u0131 g\xF6ze alamay\u0131z.\" \"I\u015Fte bu
+    \xE7ok do\u011Fru. Duydunuz mu U-TY?\" diyerek y\xFCksek sesle Kim Li'nin s\xF6ylediklerini
+    yineledin. Hi\xE7bir de\u011Fi\u015Fiklik olmad\u0131. Hepsi \xF6ylece sessiz
+    sedas\u0131z duruyordu. Tam konu\u015Fmaya ba\u015Flarken Kim Li koluna dokundu,
+    \n\"Bekle!\" diye f\u0131s\u0131ldad\u0131. \r"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 337710f2c85b0bf48b74e4f69112efdc, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

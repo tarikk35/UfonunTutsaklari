@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page14
+  m_EditorClassIdentifier: 
+  storyText: "Bu band\u0131 takmak harikayd\u0131. Kendini her zamankinden daha iyi
+    hissediyordun. Sanki pembe bulutlar \xFCzerinde u\xE7uyordun. Bir an akl\u0131na
+    yanl\u0131\u015F bir karar vermi\u015F olabilece\u011Fin geldi. \xC7ok k\u0131sa
+    bir an. Ama bunu d\xFC\u015F\xFCnmeye de\u011Fmezdi \xE7\xFCnk\xFC mutluydun.
+    \xD6n\xFCnde k\u0131z\u0131l bir g\xFCne\u015F, pembe bulutlar aras\u0131ndan
+    a\u015Fa\u011F\u0131 do\u011Fru a\u011F\u0131r a\u011F\u0131r s\xFCz\xFCld\xFC.
+    Ard\u0131ndan ak\u015Fam karanl\u0131\u011F\u0131 sard\u0131 \xE7evreyi. Ve uykuya
+    teslim oldun. R\xFCyanda kendini bir zaman t\xFCnelinde giderken g\xF6rd\xFCn.
+    \xD6nce \xE7ok h\u0131zl\u0131 gittin , sonra yava\u015Flad\u0131n. \u015Eimdi
+    biraz daha h\u0131zl\u0131 ... Zaman i\xE7inde s\xFCrekli a\u015Fa\u011F\u0131
+    do\u011Fru kay\u0131yordun. Bir an, zaman t\xFCnelinin metal duvarlar\u0131nda
+    kendini g\xF6r\xFCr gibi oldun. Sa\xE7lar\u0131 beyazlam\u0131\u015F, y\xFCz\xFC
+    k\u0131r\u0131\u015F k\u0131r\u0131\u015F, beli b\xFCk\xFCk ihtiyar bir adamd\u0131n.
+    Ayakta durmak, hatta soluk almak g\xFC\xE7 geliyordu. Giderek g\xF6rd\xFC\u011F\xFCn
+    d\xFC\u015F iyice yava\u015Flad\u0131. Yava\u015Flad\u0131 ve durdu . R\xFCya
+    da , sen de yoktun art\u0131k ."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

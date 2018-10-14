@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page118
+  m_EditorClassIdentifier: 
+  storyText: "Havada d\xF6n\xFCp duran ve \u0131\u015F\u0131k sa\xE7an yuvarlak cisimler
+    sana do\u011Fru iyice yakla\u015Ft\u0131lar. Sana dokunmalar\u0131yla tepeden
+    t\u0131rna\u011Fa elektri\u011Fe tutulmu\u015F gibi titredin. Yo, hay\u0131r!
+    Ger\xE7ekten elektrik sa\xE7\u0131yordu bu cisimler. \nMANTIGIN DOGRU. DOGRU KARAR!
+    SOMO'YA VEYA HAYVANAT BAHCESINE GONDERILMEYECEKSINIZ. \nBeyninin derinliklerinde
+    yank\u0131lanan bu s\xF6zlerden sonra \u015Fekiller s\xF6nerek ince birer \u0131\u015F\u0131k
+    demeti haline geldiler. Kendini \xE7ok yorgun hissediyordun. Ama uyuyaca\u011F\u0131n
+    yerde birden g\xF6zlerin a\xE7\u0131ld\u0131. Ve nas\u0131l oldu\u011Funu bilmeden
+    kendini odanda bu kitab\u0131 okurken buldun!"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page21
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"Sana iyi davranacaklar\u0131na s\xF6z veremem. Ne yaz\u0131k ki
+    d\xFCnyal\u0131lar aras\u0131nda k\xF6t\xFC olanlar da var. Bunlar sana zarar
+    verebilir.\"dedin Mopo'ya.\nTam bu s\u0131rada gemiden at\u0131lan ipi yakalamak
+    i\xE7in uzand\u0131n. Mopo'nun +\"Ama sen benim dostumsun.\" dedi\u011Fini duydun.
+    Cevap vermek i\xE7in d\xF6nd\xFC\u011F\xFCnde Mopo sular\u0131n i\xE7inde kaybolmu\u015Ftu.\n\t\u0130ki
+    bal\u0131k\xE7\u0131 seni g\xFCverteye \xE7ekti. \xD6tekilerse k\xFCpe\u015Ften
+    e\u011Filmi\u015F yarat\u0131\u011F\u0131 ar\u0131yordu. Kendi aralar\u0131nda
+    \u015Fa\u015Fk\u0131nl\u0131kla konu\u015Fuyorlard\u0131. Onlara g\xF6rd\xFC\u011F\xFC
+    yarat\u0131\u011F\u0131n ba\u015Fka bir gezegenden oldu\u011Funu s\xF6yleyince
+    hi\xE7biri sana inanmad\u0131.\n\tBirka\xE7 g\xFCn sonra evinde, ailenin ve arkada\u015Flar\u0131n\u0131n
+    yan\u0131ndayd\u0131n. Hepsi size yeniden kavu\u015Ftuklar\u0131 i\xE7in \xE7ok
+    mutluydu. Maceran\u0131z\u0131 ilgi ve merakla dinlediler ama anlatt\u0131klar\u0131n\u0131za
+    kesinlikle inanmad\u0131lar. Daha sonraki y\u0131llarda gazeteler, baz\u0131 bal\u0131k\xE7\u0131lar\u0131n
+    \xE7ok say\u0131da g\xF6z\xFC ve a\u011Fz\u0131 olan tuhaf bir yarat\u0131\u011Fa
+    rastlad\u0131\u011F\u0131n\u0131 yazd\u0131. Baz\u0131lar\u0131 onun tarih\xF6ncesi
+    bir yarat\u0131k oldu\u011Funu \xF6ne s\xFCrd\xFC. Onun insan dostu oldu\u011Funu
+    savunanlar da oldu. Ama sen Mopo'nun ya\u015Fad\u0131\u011F\u0131n\u0131 duymaktan
+    \xE7ok memnun olmu\u015Ftun. Belki bir g\xFCn onunla yine kar\u015F\u0131la\u015Facakt\u0131n.
+    Onu yeniden g\xF6rmek ve okyanus ser\xFCvenlerini dinlemek ne g\xFCzel olurdu
+    !"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

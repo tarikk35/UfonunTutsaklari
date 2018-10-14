@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page43
+  m_EditorClassIdentifier: 
+  storyText: "\tHer g\xFCn g\xF6r\xFCnt\xFC ekran\u0131nda gittik\xE7e b\xFCy\xFCyen
+    d\xFCnyay\u0131 seyretmekten b\xFCy\xFCk bir sevin\xE7 duyuyordun. Ama Inku akl\u0131na
+    gelince ne\u015Fen ka\xE7\u0131yordu. Sanki g\xFCne\u015Fli bir havada geceden
+    kalm\u0131\u015F k\xFC\xE7\xFCk bir sis par\xE7as\u0131 gibi...\n\tBir g\xFCn
+    d\xFCnyay\u0131 ve onu \xE7evreleyen bulutlar\u0131 izlerken yava\u015Flama lambas\u0131
+    yan\u0131p s\xF6nmeye ba\u015Flad\u0131. Bilgisayar \xE7\u0131k\u0131\u015F istasyonlar\u0131na
+    gitmeniz gerekti\u011Fini s\xF6yledi. D\xFCnya atmosferine sekiz dakika kalm\u0131\u015Ft\u0131.
+    D\xFCnyan\u0131n neresine inmesi gerekti\u011Fini U-TY'ye s\xF6ylemeliydin.\n\tG\xFCc\xFCn\xFCn
+    kayna\u011F\u0131 heykeli elinde tutup kald\u0131rd\u0131n ve seslendin:\n-\"Amerika'ya
+    ineceksin ve Amerikan Hava Kuvvetlerinin ini\u015F uyar\u0131lar\u0131na uyacaks\u0131n.\"
+    Bilgisayar hemen yan\u0131tlad\u0131 :\n+\"Son s\xF6zlerinizde bir hata var. Tanr\u0131lar
+    adas\u0131na inmeniz gerek.\"\nNe oluyor? Bilgisayar neden senin emirlerine uymuyor?
+    Bilgisayarla olan anla\u015Fmazl\u0131\u011Fa ald\u0131rmay\u0131p Amerika'ya
+    inmeye \u0131srar m\u0131 etmelisin yoksa Tanr\u0131lar adas\u0131 d\xFCnyan\u0131n
+    neresinde olursa olsun nas\u0131lsa oradan evime d\xF6necek bir yol bulurum deyip,
+    uzay gemisinin buraya inmesine izin mi vereceksin?"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 5819c63606be0dd458621479ae131bf3, type: 2}
+  - {fileID: 11400000, guid: 027cc237a417e5d4ea6db511810c3d75, type: 2}
+  pathText: "Geminin Tanr\u0131lar adas\u0131na inmesine izin verirsen 1'e,\nAmerika'ya
+    inmekte \u0131srar ediceksen 2'ye bas."

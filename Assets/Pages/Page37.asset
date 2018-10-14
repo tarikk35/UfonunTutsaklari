@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page37
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"\xD6z\xFCr dilerim. U-TY y\xF6neticileri hakk\u0131nda bana biraz
+    bilgi verir misin? Kimdir bunlar? Bizden ne istiyorlar?\"\nYa\u015Fl\u0131 adam
+    bir an heyecandan bilincini yitirir gibi oldu. Sonra g\xF6zlerinizin i\xE7ine
+    bakarak titreyen elini omzuna koydu.\n+\"Bilgi almak i\xE7in tam adam\u0131na
+    geldin. Ad\u0131m Angus. Tutsak edilen ilk insan\u0131m. U-TY d\xFCnyadan \xE7ok
+    ileride. \xDCstelik bedenleri bizden farkl\u0131 olarak maddeden de\u011Fil, enerjiden
+    meydana gelmi\u015Ftir. Bundan 1200 y\u0131l kadar \xF6nceydi. O s\u0131ralar
+    Vikingler b\xFCt\xFCn \u0130sko\xE7ya'y\u0131 i\u015Fgal etmi\u015Fti. Nas\u0131l
+    oldu\u011Funu anlayamadan kendimi burada buldum. O g\xFCnden beri buraday\u0131m.
+    Sana ne \xF6\u011Frenmek istersen s\xF6ylerim ama bilgi her zaman mutluluk geitrmez.
+    \u0130stersen bana soru sormadan \xF6nce biraz bekle. Nas\u0131l olsa \xE7ok zaman\u0131m\u0131z
+    var.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 1529ae4b118bb774eabb5a18b72b70ed, type: 2}
+  - {fileID: 11400000, guid: de6d2de6e7601294b8018b9cc4215931, type: 2}
+  pathText: "Beklemeye karar verirsen 1'e,\nYa\u015Fl\u0131 adama merak etti\u011Fin
+    her \u015Feyi sorup hemen bilgi edinmeye karar verirsen 2'ye bas."

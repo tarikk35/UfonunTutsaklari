@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page47
+  m_EditorClassIdentifier: 
+  storyText: "\tK\u0131rk dakika sonra, Amerika haber b\xFCltenlerinde spiker \u015Fu
+    haberi okuyor: \n\"Bat\u0131 Nebraska eyaletinin bat\u0131s\u0131na meteor d\xFC\u015Ft\xFC\u011F\xFCn\xFC
+    haber alm\u0131\u015F bulunuyoruz. Meteor d\xFC\u015Ft\xFC\u011F\xFC yerde y\xFCz
+    metre derinli\u011Finde bir \xE7ukur a\xE7m\u0131\u015F bulunuyor.\nPatlama otuz
+    kilometre uzaktan bile duyulmu\u015F ve yerle\u015Fim merkezindeki camlar\u0131n
+    k\u0131r\u0131lmas\u0131na neden olmu\u015Ftur. B\xFCy\xFCk \u015Fans eseri yaralanan
+    veya \xF6len kimse olmam\u0131\u015Ft\u0131r.\""
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

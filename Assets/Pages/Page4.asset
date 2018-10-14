@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page4
+  m_EditorClassIdentifier: 
+  storyText: "\t\"Bana biraz daha kendinizden bahsedin. Neden d\xFCnya ile ilgileniyorsunuz?\"\ndiye
+    sordun. Yine ayn\u0131 ses beyninin i\xE7inde yank\u0131land\u0131.\n\nBIZ DUNYALILARI
+    BILIM ADAMLARINIZIN BAKTERILERI MIKROSKOPTA INCELEDIGI GIBI INCELIYORUZ : DUNYAYA
+    UZAY CENNETI ULTIMA'YI BULMAYA GELDIK."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 6dfc32583f50c364cafd933afed335fd, type: 2}
+  - {fileID: 11400000, guid: 64aaf91cd4c1b6047b589dfc890d97bb, type: 2}
+  pathText: "U-TY y\xF6neticilerinin Ultima'y\u0131 bulmalar\u0131na yard\u0131m edeceksen
+    1'e,\nU-TY y\xF6neticilerinin Ultima'ya nas\u0131l ula\u015Facaklar\u0131n\u0131
+    sormak istiyorsan 2'ye bas."

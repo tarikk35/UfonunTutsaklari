@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page53
+  m_EditorClassIdentifier: 
+  storyText: "\t\xC7OK IYI . YARIN AKSAM NEW YORK'TAKI METROPOLITAN MUZESININ YANINA
+    INIYORUZ, ONCE KENDIMIZE BIR GIRIS ACACAGIZ. ROBOTLARIMIZ SANAT HAZINELERINI ALIRKEN
+    NOBET\xC7\u0130LER GORDUKLERINE INANAMAYACAKLAR. CUNKU BUNUN \r\nMUMKUN OLMADIGINI
+    DUSUNECEKLER. \r\nISIMIZ BITINCE ROBOTLARIMIZ SENI \nONLARIN ELINDEN KURTARACAK.
+    \r\nU-TY'ler havada biraz al\xE7al\u0131p sana do\u011Fru \r\nyakla\u015Ft\u0131lar.
+    Bir an korkudan donup kald\u0131n.\r\nSonra yaln\u0131zca dokunmak istediklerini
+    anlay\u0131p \rellerini uzatt\u0131n. Parlayan cisimler cildine \ryumu\u015Fak
+    t\xFCyl\xFC bir kuma\u015F gibi s\xFCr\xFCn\xFCnce \rg\u0131d\u0131klan\u0131p
+    g\xFCld\xFCn. \rU-TY y\xF6neticileri bu kutlamadan sonra bir \rg\xF6lge gibi gittiler.
+    \r"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 82dac768db4405c41b71e7fd6417441a, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

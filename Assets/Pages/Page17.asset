@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page17
+  m_EditorClassIdentifier: 
+  storyText: "-\"Geminin di\u011Fer b\xF6l\xFCmlerini gezebilir miyim?\"\n+\"Bazen
+    dola\u015Fabiliriz ama bunun ne zaman olaca\u011F\u0131n\u0131 biz bilemeyiz.
+    Burada, d\xFCnyada fizik g\xFCc\xFCnle yapt\u0131\u011F\u0131n \u015Feyleri sadece
+    d\xFC\u015F\xFCnerek yapabilirsin. E\u011Fer d\xFC\u015F\xFCncelerini yo\u011Funla\u015Ft\u0131r\u0131rsan,
+    \u015Fu duvar\u0131n \xF6n\xFCnde durup b\xFCt\xFCn g\xFCc\xFCnle ge\xE7meyi d\xFC\u015F\xFCn\xFCrsen
+    yandaki b\xF6l\xFCme ge\xE7ebilirsin. Ama bu arada sana ne olaca\u011F\u0131n\u0131
+    bilemem. Ben kendi hesab\u0131ma bu \u015Fans\u0131 kullanmay\u0131 hi\xE7 d\xFC\u015F\xFCnmedim.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: e99dad0652c9016499ab9367eb73cab1, type: 2}
+  - {fileID: 11400000, guid: 1c0f45f138792e04684d8cdf5ff81967, type: 2}
+  pathText: "Yandaki b\xF6l\xFCmde ne var acaba? Ge\xE7mek mi istiyorsun? \xD6yleyse
+    1'e bas.\nHala uyumakta olan k\u0131z\u0131 uyand\u0131r\u0131p onunla konu\u015Fmay\u0131
+    istiyorsan 2'ye bas."

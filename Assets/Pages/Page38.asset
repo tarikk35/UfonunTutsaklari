@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page38
+  m_EditorClassIdentifier: 
+  storyText: "+\"Arkamdan gel. U-TY'leri bulaca\u011F\u0131z. Ama unutma  yanl\u0131\u015F
+    bir s\xF6z s\xF6ylersek bizi sonsuza kadar depoda saklarlar.\"\nYeni arkada\u015F\u0131n
+    seni bir\xE7ok uzun ve d\xF6neme\xE7li koridorun bulundu\u011Fu bir yere g\xF6t\xFCrd\xFC.
+    Kim bazen bir duvara dokunuyor ve duvar o an eriyordu. Ancak sen ge\xE7ince yeniden
+    olu\u015Fuyordu. Birden arkanda U-TY y\xF6neticileri belirdi. \xDC\xE7 tane, basket
+    topundan b\xFCy\xFCk olmayan yuvarlak cisim ! Havada d\xF6n\xFCp duruyorlard\u0131.
+    Son derece g\xF6z al\u0131c\u0131yd\u0131lar. Renkleri, g\xFCne\u015Fin batarken
+    ald\u0131\u011F\u0131 pembe eflatun aras\u0131 \u0131\u015F\u0131kl\u0131 bir
+    tondayd\u0131. \n\t\u015Eimdi ne yapacaklar? Ne soracaklar? \u0130lk ba\u015Fta
+    bir \u015Fey olmad\u0131. Konu\u015Fmaya cesaret edemiyordun. Bir kor halde bulunan
+    ve nab\u0131z gibi atan bu \u0131\u015F\u0131kl\u0131 cisimler kar\u015F\u0131s\u0131nda
+    hipnotize mi oldun? Bir an ya\u015Fay\u0131p ya\u015Famad\u0131\u011F\u0131n\u0131
+    d\xFC\u015F\xFCnd\xFCn. Yoksa ba\u015Fka bir evrende ba\u015Fka bir hayata m\u0131
+    ge\xE7tin?.."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: d5348b8b44365a141baf3a4b01d86ec6, type: 2}
+  pathText: 1'e basarak devam et.

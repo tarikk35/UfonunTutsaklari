@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page91
+  m_EditorClassIdentifier: 
+  storyText: "Mopo, \n\"\xDCz\xFClme!\" diyerek, seni yat\u0131\u015Ft\u0131rmaya
+    \xE7al\u0131\u015Ft\u0131. \n\"Ben ne yapaca\u011F\u0131m\u0131 biliyorum. Ruslarla
+    birlikte gidece\u011Fim.\" \n\"Oh hay\u0131r! Ruslarla gidemezsin!\" \n\"Ama neden?
+    Bana insanlara g\xFCvenebi le-ce\u011Fi mi sen s\xF6ylememi\u015F miydin?\" \n\"Fakat
+    bunlar Rus! Ve seni h\xFCr d\xFCnyaya kar\u015F\u0131 kullanmak isteyebilirler
+    \" diye araya girdi kaptan. \n\"Evet ama, e\u011Fer Amerika'da olursam bu kez
+    Ruslar sizin beni kendilerine kar\u015F\u0131 kullanaca\u011F\u0131n\u0131z\u0131
+    d\xFC\u015F\xFCnmeyecekler mi? \n\"Ama biz senden yaln\u0131zca bar\u0131\u015F
+    i\xE7in \xE7aba harcaman\u0131 istiyoruz.\" dediniz. \n\"Belki onlar\u0131n istedi\u011Fi
+    de bu!\" dedi Mopo. \n\"Ama bana s\xF6yleyin, ger\xE7ekten bar\u0131\u015Fa yararl\u0131
+    olabilir miyim?\" \n\"Olabilirsin!\" dedin. Kaptan da sizi onaylayarak ba\u015F\u0131n\u0131
+    sallad\u0131. \r"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: bc2595dfe6b3cf94a91da6aeae6c52af, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

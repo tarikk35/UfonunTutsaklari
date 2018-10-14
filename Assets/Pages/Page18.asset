@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page18
+  m_EditorClassIdentifier: 
+  storyText: "\tInku ve heykelini orada b\u0131rak\u0131p turuncu renkli \u0131\u015F\u0131\u011F\u0131
+    izleyerek uzun, t\xFCpe benzeyen bir t\xFCnelden ge\xE7tin. A\xE7\u0131k eflatun
+    renkli bu t\xFCnel bir salyangoz kabu\u011Funu and\u0131ran k\u0131vr\u0131mlar
+    \xE7iziyordu. Sonunda yuvarlak bir odaya ula\u015Ft\u0131n. Burada k\xFC\xE7\xFCk
+    bir ay\u0131 b\xFCy\xFCkl\xFC\u011F\xFCnde ve havada u\xE7an ba\u015Fka bir yarat\u0131kla
+    kar\u015F\u0131la\u015Ft\u0131n. Oval bi\xE7imli ba\u015F\u0131 sanki dev bir
+    yumurtaya benziyordu. Bedeni ise yaln\u0131zca d\xF6rt kolun ve incecik bacaklar\u0131n
+    birbirine bir noktada yap\u0131\u015Fmas\u0131ndan olu\u015Fmu\u015Ftu. \xC7ok
+    b\xFCy\xFCk ye\u015Fil g\xF6zleri, sert ve parlak y\xFCz\xFCn\xFC neredeyse ba\u015Ftan
+    ba\u015Fa kaplayan uzun bir a\u011Fz\u0131 vard\u0131. \n\tSen geri d\xF6n\xFCp
+    ka\xE7maya \xE7al\u0131\u015F\u0131nca yarat\u0131k g\xFCld\xFC.\n+\"Ben de senden
+    farkl\u0131 bir durumda de\u011Filim. Benim ad\u0131m Kali.\"diyerek kollar\u0131ndan
+    birini sana uzatt\u0131. Elini, yarat\u0131\u011F\u0131n \u0131l\u0131k ve lasti\u011Fe
+    benzeyen elinin i\xE7ine \xE7ekinerek b\u0131rakt\u0131n.\n-\"Sen hangi gezegenden
+    buraya geldin Kali?\"\n+\"Senin gezegenine otuz sekiz y\u0131\u015F\u0131k y\u0131l\u0131
+    uzaktaki Akbar y\u0131ld\u0131z k\xFCmesinden Karim adl\u0131 gezegenden.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 5cc476477aa55a146807ca0135bd0dfe, type: 2}
+  pathText: "Kali bakal\u0131m sana ba\u015Fka neler s\xF6yleyecek? Devam etmek i\xE7in
+    1'e bas."

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page113
+  m_EditorClassIdentifier: 
+  storyText: "Kendine geldi\u011Finde daha hala sersem gibiydin. \n\"D\xFCnya'day\u0131z\"
+    diye ba\u011F\u0131rd\u0131 Bru. A\xE7\u0131lan kap\u0131dan bak\u0131nca arac\u0131n
+    deniz k\u0131y\u0131s\u0131ndaki bir kumsala inmi\u015F oldu\u011Funu g\xF6rd\xFCn.
+    Hava \u0131l\u0131k, g\xF6ky\xFCz\xFC masmaviydi. Denizin tuzlu kokusu geliyordu
+    burnuna. \n\"D\xFCnya, g\xFCzelim d\xFCnya!\" diye ba\u011F\u0131rd\u0131n sevin\xE7le.
+    Bru, \xFC\xE7 parmakl\u0131 ayaklar\u0131n\u0131 uzatarak kumu kontrol etti.\n
+    \"Yer\xE7ekiminde rahat hareket edebiliyor musun?\" diye sordun. Bru, sorunu yan\u0131tlamad\u0131
+    ama bir k\u0131rlang\u0131\xE7 gibi f\u0131rlayarak d\u0131\u015Far\u0131 \xE7\u0131kt\u0131.
+    Sen de onu izledin ama d\xFCnyaya ayak basman\u0131n heyecan\u0131yla hala titriyordun.
+    \n\"\u015Eurada bir d\xFCnyal\u0131 var!\" diye Bru ilerde duran ve denizi seyreden
+    birini g\xF6sterdi. Adam sandal\u0131n\u0131 k\u0131y\u0131ya \xE7ekmi\u015Fti.\n
+    \"Ona nerede oldu\u011Fumuzu soraca\u011F\u0131m,\" dedin. Bru,\n \"Ben de seninle
+    geleyim mi?\" diye sordu. "
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: fe379651217ec7144bb3faadb5166126, type: 2}
+  - {fileID: 11400000, guid: 4352608de9178824eac5f92cf0ad8c25, type: 2}
+  pathText: "Bru'yu da yan\u0131na alacaksan 1'e,\nOna seni beklemesini s\xF6yleyeceksen
+    2'ye bas."

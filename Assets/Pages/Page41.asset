@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page41
+  m_EditorClassIdentifier: 
+  storyText: "\tAtt\u0131\u011F\u0131n cisim \xE7\xF6p sepetinin i\xE7ine d\xFC\u015Fmeyince
+    gidip duvara \xE7arpt\u0131. Yan\u0131na gidip onu yerden almaya kalkt\u0131n
+    ama o bir anda elinden kayd\u0131 ve ba\u015F\u0131n\u0131z\u0131n \xE7evresinde
+    k\u0131zg\u0131n bir ar\u0131 gibi v\u0131z\u0131ldayarak d\xF6nmeye ba\u015Flad\u0131.
+    Sen dili tutulmu\u015F halde orada \xF6ylece dururken cisim cam\u0131 delip pencereden
+    d\u0131\u015Far\u0131 \xE7\u0131kt\u0131.\n\tCamdaki deli\u011Fe dokundun. Bardak
+    kenar\u0131 kadar d\xFCzg\xFCnd\xFC. Birden ba\u015F\u0131n\u0131n \xE7evresinde
+    d\xF6n\xFCp duran k\u0131v\u0131lc\u0131mlar\u0131 an\u0131msad\u0131n. Evet sen
+    bir UFO'da tutsak kalm\u0131\u015Ft\u0131n. Kar\u015F\u0131na ilk \xE7\u0131kana
+    ba\u015F\u0131ndan ge\xE7enleri anlatmak i\xE7in yerinden f\u0131rlad\u0131n ama
+    bir an durup d\xFC\u015F\xFCnd\xFCn. B\xF6yle bir ser\xFCvene inanacak birisi
+    \xE7\u0131kar m\u0131yd\u0131? Belki de seni deli sanacaklard\u0131."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

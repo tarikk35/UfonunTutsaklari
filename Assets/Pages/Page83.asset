@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page83
+  m_EditorClassIdentifier: 
+  storyText: "\"Hay\u0131r, bu \xE7ok b\xFCy\xFCk bir tehlikeyi g\xF6ze almak olur.
+    En az\u0131ndan geminin kontrol\xFCn\xFC elimize ge\xE7irinceye kadar g\xF6r\xFCnmez
+    olarak kalal\u0131m \"dedin. \n\"Evet!\" dedi Kim Li. \"Ben geminin temel kullanma
+    prensiplerini biliyorum ama, b\xFCt\xFCn ayr\u0131nt\u0131lar\u0131 bildi\u011Fimi
+    s\xF6yleyemem.\" Ikiniz birlikte d\xFCzinelerce garip aleti yoklad\u0131n\u0131z.
+    \n\"Bu gemi otomatik olarak \xE7al\u0131\u015F\u0131yor!\" diye a\xE7\u0131klad\u0131
+    Kim Li. \"Yaln\u0131zca bilgisayara ne istedi\u011Fini bildireceksin. \xD6rne\u011Fin
+    bu panel yer\xE7ekimine duyarl\u0131. G\xFC\xE7l\xFC bir yer\xE7ekimi olan herhangi
+    bir cisme bizi yakla\u015Ft\u0131rabi lir.\"  \n\"D\xFCnya'n\u0131n \xE7ok g\xFC\xE7l\xFC
+    bir yer\xE7ekimi vard\u0131r. Bu yolla inebiliriz \xF6yleyse.\" \nIlk kez eve
+    d\xF6nmekten bu kadar g\xFCvenle s\xF6z ediyordun. Kim Li panelin \xFCst\xFCndeki
+    i\u015Faretlere dokundu. Birden geminin y\xF6n de\u011Fi\u015Ftirdi\u011Fini hissettin.
+    UFO korkun\xE7 bir g\xFC\xE7le ileri at\u0131lm\u0131\u015Ft\u0131. Bir ka\u011F\u0131t
+    gibi duvara yap\u0131\u015Fm\u0131\u015F k\u0131p\u0131rdayam\u0131yordun. Bas\u0131n\xE7
+    giderek art\u0131yordu. Buna dayanman m\xFCmk\xFCn de\u011Fildi. Kendini kaybettin!"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: e6ad10cbf6aadc24d9298a3687043dd1, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

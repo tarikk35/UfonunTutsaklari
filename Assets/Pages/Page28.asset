@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page28
+  m_EditorClassIdentifier: 
+  storyText: "\tElindeki heykeli uzatarak U-TY'ye emir verdin. \"Bu gemiyi do\u011Fruca
+    d\xFCnyaya g\xF6t\xFCr\xFCn!\"\n\tEMRINIZ ON UC GUN ICINDE YERINE GETIRILECEKTIR.\nInku'ya
+    d\xF6nerek -\"Kusura bakma, seni evine g\xF6t\xFCremiyorum ama d\xFCnyada \xE7ok
+    iyi kar\u015F\u0131lanaca\u011F\u0131na emin olabilirsin.\"\n+\"Belki, ama benim
+    bedenim sizin gezegeninizdeki kuvvetli r\xFCzgarlara dayanamaz. Ben orada da\u011F\u0131l\u0131p
+    yok olabilirim.\"\n-\"Uzay cenneti Ultima'ya gitmemiz ger\xE7ekten m\xFCmk\xFCn
+    de\u011Fil mi?\"\n+\"Senin se\xE7iminle gidemeyiz.\"\n-\"\xD6yleyse U-TY'ye, beni
+    d\xFCnyaya b\u0131rak\u0131r b\u0131rakmaz seni Alara'ya g\xF6t\xFCrmelerini emrederim.
+    Herhalde onlar i\xE7in \xE7ok zor olmaz, de\u011Fil mi?\"\n+\"Bu m\xFCmk\xFCn
+    olmayabilir. Sen bu gemiden iner inmez U-TY beni yeniden tutuklar ve Merkez gezegen
+    Ra'daki hayvanat bah\xE7esine g\xF6t\xFCr\xFCr.\"\n-\"Buna \xFCz\xFCld\xFCm.\"
+    B\xFCy\xFCk pencereye do\u011Fru d\xF6nd\xFCn ve y\u0131ld\u0131zlar\u0131n parlad\u0131\u011F\u0131
+    uzay bo\u015Flu\u011Funu seyretmeye koyuldun."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 47c3d35ffbefa80439fc20aafac23a8d, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

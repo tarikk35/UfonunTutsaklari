@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page59
+  m_EditorClassIdentifier: 
+  storyText: "\tKaptan hemen telsiz-tetefonla Dr. Shomsky'yi arad\u0131. Shomsky,
+    Mopo'yu Ba\u015Fkanla bulu\u015Fturaca\u011F\u0131na s\xF6z verdi. Ger\xE7ekten,
+    bir-iki \rsaat sonra kaptan ve Mopo ile birlikte \xE7ok s\u0131k\u0131 \rg\xFCvenlik
+    \xF6nlemleri alt\u0131nda ve askeri bir helikopterle McChord Hava Kuvvetleri \xDCss\xFCne
+    do\u011Fru gidiyordunuz. Orada sizi bekleyen \r\xF6zel bir u\xE7akla Washington
+    D.C.'ye g\xF6t\xFCr\xFCld\xFCn\xFCz. Be\u015F saat kadar sonra da Ba\u015Fkan'\u0131n
+    \rkar\u015F\u0131s\u0131ndayd\u0131n\u0131z. Dr. Shomsky'den ba\u015Fka \rbir\xE7ok
+    bilim adam\u0131 da sizi bekliyordu. Arka \rarkaya yap\u0131lan bir dizi g\xF6r\xFC\u015Fmeden
+    sonra \xFClke \r\xE7ap\u0131nda bir haber program\u0131nda Ba\u015Fkan, UFO5440
+    ve Mopo'nun ka\xE7\u0131\u015F\u0131 \xFCst\xFCne kamuoyuna \r\nayr\u0131nt\u0131l\u0131
+    bir a\xE7\u0131klama yapt\u0131. Bu konu\u015Fma \r\ns\u0131ras\u0131nda Mopo'dan
+    \xF6vg\xFCyle s\xF6z ederek, \r\nd\xFCnyay\u0131 ziyaret eden bu yabanc\u0131
+    konuktan \xE7ok \r\u015Feyler \xF6\u011Frendi\u011Fini belirtti. Bir sene sonra,
+    \rMopo Ba\u015Fkan\u0131n dan\u0131\u015Fmanl\u0131\u011F\u0131n\u0131 \xFCstlendi
+    ve \ronun \xE7abalar\u0131 sonucunda t\xFCm d\xFCnya bir \roldu. \u0130nsanl\u0131k
+    senin bu ba\u015Far\u0131daki pay\u0131n\u0131 hi\xE7 \r\nunutmad\u0131."
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON

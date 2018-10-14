@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page8
+  m_EditorClassIdentifier: 
+  storyText: "\tMa\u011Faraya benzeyen bir ge\xE7itte el yordam\u0131yla y\xFCr\xFCmeye
+    \xE7al\u0131\u015F\u0131yorsun. Geminin \xF6n b\xF6l\xFCmlerine \xE7\u0131kan
+    bir kap\u0131 veya koridor aramaktas\u0131n. Bu U-TY y\xF6neticileri senden ne
+    istiyor? D\xFCnyadaki milyarlarca insan aras\u0131ndan neden seni se\xE7ti?\nDUNYALILAR
+    BOLUMUNDEN AYRILMAYIN GERI DONUN ! GERI DONUN !\n\tYine o ses! Asl\u0131nda bu
+    bir ses de\u011Fil,beynine giren bir d\xFC\u015F\xFCnceydi.\n\"Solundaki duvar\u0131
+    it.\" Bu sefer ba\u015Fka bir ses duydun. Ama bu sesi kulaklar\u0131nla duydun.
+    \xC7ekinerek duvara dokundun ve duvar yok oldu. Orada, insan \u015Feklinde ve
+    havada d\xF6n\xFCp duran, hayalet gibi bir yarat\u0131k g\xF6rd\xFCn. Sanki \xE7ok
+    kal\u0131n bir sis perdesi alt\u0131ndaym\u0131\u015F gibi belirsiz ve bu\u011Fulu
+    bir g\xF6r\xFCn\xFC\u015F\xFC vard\u0131.\n+\"Sen bana yard\u0131m edebilirsin\"\nYarat\u0131\u011F\u0131n
+    sis i\xE7indeki y\xFCz\xFCnden, a\u011Fz\u0131n\u0131n olmas\u0131 gereken yerden
+    geliyordu ses. +\"Ad\u0131m Inku, Alara'dan buraya getirildim.\"\n-\"Benim dilimi
+    nas\u0131l konu\u015Fuyorsun?\"diye sordun.\n+\"800 d\xFCnya y\u0131l\u0131nda
+    ne kadar \xE7ok \u015Fey \xF6\u011Frenilebilece\u011Fini bir d\xFC\u015F\xFCnsene...
+    O kadar s\xFCredir bu gemide tutukluyum.\"\n-\"Sana nas\u0131l yard\u0131mc\u0131
+    olabilirim?\"diye sordun . -\"Benim fazla bir g\xFCc\xFCm yok.\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 8aaa492bfecae4a4fbf104440daedb8b, type: 2}
+  pathText: "Bu garip yarat\u0131k hakk\u0131nda daha fazla bilgi almak i\xE7in 1'e
+    bas."

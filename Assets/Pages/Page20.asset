@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page20
+  m_EditorClassIdentifier: 
+  storyText: "\tMopo'ya endi\u015Felenmemesini, insanlara g\xFCvenebilece\u011Fini
+    s\xF6ylediniz. \n+\"\xD6yleyse sudan \xE7\u0131kal\u0131m!\"diye ba\u011F\u0131rd\u0131
+    sevin\xE7le. Bal\u0131k\xE7\u0131lar size bir ip at\u0131p yukar\u0131 \xE7ekti.
+    Mopo hemen sizin arkan\u0131zdan sudan \xE7\u0131kt\u0131 ve g\xFCverteye oturdu.\n\tKaptan
+    ilk kez g\xF6rd\xFC\u011F\xFC bu garip yarat\u0131k kar\u015F\u0131s\u0131nda
+    hayret ve \u015Fa\u015Fk\u0131nl\u0131kla Mopo'ya bakarak : \"Denizlerde \xE7ok
+    acayip yarat\u0131klara rastlad\u0131m ama senin gibisini hi\xE7 g\xF6rmedim !
+    Kal\u0131b\u0131m\u0131 basar\u0131m sen bu d\xFCnyadan de\u011Filsin. Ama bize
+    zarar verece\u011Fe de pek benzemiyorsun.\"\nKaptan seni kamaraya soktu. Mopo
+    yengecin kumsalda y\xFCr\xFCmesi gibi yalpalayarak arkandan geldi. Bal\u0131k\xE7\u0131lar
+    hayretle onu izliyordu. Kaptan size bir bardak s\u0131cak \xE7ikolata doldurdu
+    ama yan\u0131n\u0131zda duran yarat\u0131\u011Fa g\xF6z\xFC ili\u015Ftik\xE7e
+    hala inanam\u0131yordu. Mopo'ya bir \u015Feyler yemek ister mi diye sordu. Mopo
+    hay\u0131r , ben birka\xE7 ay \xF6nce yemi\u015Ftim dedi. Kaptan g\xFCl\xFCmsedi
+    ve size d\xF6nd\xFC : \"Seattle'a gidiyoruz. Gemi orkinos y\xFCkl\xFC. Oraya k\u0131rk
+    sekiz saate varmay\u0131 umuyoruz. Sahil g\xFCvenli\u011Fe bu olay\u0131 haber
+    vereyim mi? Bana inanmayacaklar ama...\""
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 5cc7126debed6384faa2f4cb93b4126b, type: 2}
+  - {fileID: 11400000, guid: cb309260908e5574a962f767a28ead15, type: 2}
+  pathText: "Sahil g\xFCvenli\u011Fe haber vermesini s\xF6ylersen 1'e,\nSeattle'a
+    gidene kadar kimseye ondan bahsetmemesini istersen 2'ye bas."

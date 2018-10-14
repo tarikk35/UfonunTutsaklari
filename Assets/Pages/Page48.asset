@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page48
+  m_EditorClassIdentifier: 
+  storyText: "\t-\"Tamam, ben de seninle geliyorum.\"\n+\"\xD6yleyse kaybedecek zaman\u0131m\u0131z
+    yok, beni izle.\"\nBru \xF6n\xFCnde oldu\u011Fu halde, bir\xE7ok silindirik dar
+    koridordan ge\xE7tiniz. \xD6tekilerden farks\u0131z bir duvar\u0131n \xF6n\xFCnde
+    durdu ve:\n+\"Bu duvar\u0131n arkas\u0131nda uzay jipi var. Asl\u0131nda bu duvardan
+    sadece U-TY y\xF6neticileri ge\xE7ebilir ama san\u0131r\u0131m \u015Fimdi ben
+    de yapabilirim.\"\n-\"Neden \u015Fimdi?\"\n+\"\xC7\xFCnk\xFC enerji d\xFCzeyini
+    d\xFC\u015F\xFCrd\xFCler. G\xFCne\u015F sisteminden bir daha d\xF6nmemek \xFCzere
+    ayr\u0131lmadan \xF6nce robotlar\u0131n\u0131 gidece\u011Fi d\xFCnyaya g\xF6re
+    haz\u0131rl\u0131yor.\"\nBru duvara u\xE7tu. Duvar eriyip kaybolmaya ba\u015Flad\u0131.
+    Bir dakika sonra ikiniz de duvardan ge\xE7mi\u015F ayd\u0131nl\u0131k bir b\xF6l\xFCme
+    girmi\u015Ftiniz. P\u0131r\u0131l p\u0131r\u0131l parlayan uzay jipi kar\u015F\u0131n\u0131zdayd\u0131.\n+\"Bu
+    arac\u0131 d\xFCnyadan \xF6rnek toplamak i\xE7in kullan\u0131rlar.\"\nO konu\u015Furken
+    arkan\u0131zdaki duvar yeniden \u015Fekilleniyordu. Bru bir kap\u0131 kolunu a\u015Fa\u011F\u0131ya
+    \xE7ekip uzay jipinin i\xE7ine s\xFCz\xFCld\xFC. Tabi sen de arkas\u0131ndan.
+    Bir saniye sonra Bru'nun y\xF6netimindeki uzay jipi b\xFCy\xFCk bir g\xFCr\xFClt\xFCyle
+    ileri f\u0131rlad\u0131. \xDCzerinizde korkun\xE7 bir bas\u0131n\xE7 vard\u0131.
+    Ba\u015F\u0131n a\u011Fr\u0131yor, b\xFCt\xFCn v\xFCcudunu ter bas\u0131yordu.
+    \xDCzerindeki bas\u0131n\xE7 dayan\u0131lmaz boyutlara ula\u015Ft\u0131 ve bir
+    anda kendini kaybettin."
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 245f3b635ff7e374ba8d6eb02cf24caa, type: 2}
+  pathText: "Devam etmek i\xE7in 1'e bas."

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page114
+  m_EditorClassIdentifier: 
+  storyText: "Oteldeki odanda oturuyordun ama kendini \xE7ok tuhaf hissediyordun.
+    Neler olmu\u015Ftu? Concord'la Amerika'ya u\xE7arken yan\u0131ndaki beyaz sa\xE7l\u0131
+    adama d\xF6nm\xFC\u015Ft\xFCn ve... Birden cebine elini soktun ve eline karpuz
+    \xE7ekirde\u011Fi b\xFCy\xFCkl\xFC\u011F\xFCnde bir cisim geldi. Ama neden bu
+    kadar a\u011F\u0131rd\u0131? Onu elinde evirip \xE7evirdin. Ama hi\xE7bir \u015Fey
+    hat\u0131rlayam\u0131yordun. Sonra onu \xE7\xF6p sepetine do\u011Fru f\u0131rlatt\u0131n.
+    \u015Eimdi b\xFCt\xFCn mesele bu cismin \xE7\xF6p sepetinin i\xE7ine girip girmemesinde.
+    Bu konudaki \u015Fans\u0131n yar\u0131 yar\u0131ya. \r\n"
+  nextPaths: {fileID: 0}
+  nextStates:
+  - {fileID: 11400000, guid: 9d9b0c5f0dec35649a9e38fb7a57d721, type: 2}
+  - {fileID: 11400000, guid: f97b107950cf35e4592e72e92efed1ea, type: 2}
+  pathText: 'Sepete girdi mi , girmedi mi?
+
+    1''e veya 2''ye bas.'

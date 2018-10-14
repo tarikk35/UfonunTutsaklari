@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page104
+  m_EditorClassIdentifier: 
+  storyText: "Elinka elini tuttu ve: \n\"Ama, e\u011Fer bir yerden hi\xE7bir zaman
+    geri d\xF6n\xFClemiyorsa oras\u0131 cennet olamaz. Yani \xF6zledi\u011Finiz zaman
+    evinize d\xF6nebilirsiniz. Yaln\u0131zca isteyin yeter. Bir saniye sonra kendinizi
+    gezegeninizde bulacaks\u0131n\u0131z.\"\n \"Te\u015Fekk\xFCr ederim, \xE7ok te\u015Fekk\xFCr
+    ederim!\" diyerek duygular\u0131n\u0131 belirttin. \"B\xF6yle bir yer g\xF6rebilece\u011Fimi,
+    hatta b\xF6yle bir yerin bulunabilece\u011Fini hayal bile edemezdim do\u011Frusu.\"
+    \n\"G\xF6rd\xFC\u011F\xFCn\xFCz gibi buras\u0131 uzay\u0131n en g\xFCzel gezegeni\"
+    dedi Arkam. \"Fakat \xE7ok az d\xFCnyal\u0131 buraya ula\u015Fabiliyor.\" \n\"Hi\xE7
+    kimse Ultima'da ya\u015Famay\u0131 se\xE7erek, ya da uyar\u0131lar\u0131 yerine
+    getirerek buraya eri\u015Femez\" dedi Elinka. \"Gelmeniz tamamen bir mucize. Ama
+    bu da \xE7ok do\u011Fal, \xE7\xFCnk\xFC Ultima'n\u0131n kendisi bir mucizedir.\"
+    \r\n"
+  nextPaths: {fileID: 0}
+  nextStates: []
+  pathText: SON
