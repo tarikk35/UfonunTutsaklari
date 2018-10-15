@@ -8,38 +8,74 @@ public class AdventureGame : MonoBehaviour {
     [SerializeField] Text textComponent;
     [SerializeField] State startingState;
     [SerializeField] Text pathText;
-
+    enum gameStates
+    {
+        NotStarted,
+        Started,
+        Ended
+    };
+    gameStates gameState=gameStates.NotStarted;
     State currentState;
+
 	// Use this for initialization
 	void Start () {
+        StartGame();
+	}
+
+	void StartGame()
+    {
+        gameState = gameStates.NotStarted;
         currentState = startingState;
         textComponent.text = currentState.GetStoryState();
         pathText.text = currentState.GetPath();
-	}
-	
+    }
+
 	// Update is called once per frame
 	void Update () {
-        ManageState();
+
+         if(Input.anyKeyDown)
+            ManageState();
 	}
 
     void ManageState()
     {
         State[] nextStates = currentState.GetNextStates();
-        if(Input.GetKeyDown(KeyCode.Alpha1)&& nextStates.Length>=1)
+
+        if (gameState == gameStates.Started)
         {
-            currentState = nextStates[0];
-            textComponent.text = currentState.GetStoryState();
+            if (Input.GetKeyDown(KeyCode.Alpha1) && nextStates.Length >= 1)
+            {
+                FillTextboxes(nextStates, 1);
+            }
+            else if (Input.GetKeyDown(KeyCode.Alpha2) && nextStates.Length >= 2)
+            {
+                FillTextboxes(nextStates, 2);
+            }
+            else if (Input.GetKeyDown(KeyCode.Alpha3) && nextStates.Length == 3)
+            {
+                FillTextboxes(nextStates, 3);
+            }
+            if (currentState.GetPath() == "SON")
+                gameState = gameStates.Ended;
         }
-        else if(Input.GetKeyDown(KeyCode.Alpha2)&& nextStates.Length>=2)
+
+        else if(gameState==gameStates.Ended&&Input.GetKeyDown(KeyCode.R))
         {
-            currentState = nextStates[1];
-            textComponent.text = currentState.GetStoryState();
+            StartGame();
         }
-        else if(Input.GetKeyDown(KeyCode.Alpha3) && nextStates.Length==3)
+
+        else if (gameState == gameStates.NotStarted && Input.GetKeyDown(KeyCode.Return))
         {
-            currentState = nextStates[2];
-            textComponent.text = currentState.GetStoryState();
-        }
+            gameState = gameStates.Started;
+            FillTextboxes(nextStates, 1);
+            gameState = gameStates.Started;
+        }        
+    }
+
+    void FillTextboxes(State[] nextStates,int choice)
+    {
+        currentState = nextStates[choice-1];
+        textComponent.text = currentState.GetStoryState();
         pathText.text = currentState.GetPath();
     }
 }

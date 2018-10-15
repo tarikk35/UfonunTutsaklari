@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,17 +11,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page75
   m_EditorClassIdentifier: 
-  storyText: "\"Beni d\xFCnyaya geri g\xF6nderin!\" \nBu s\xF6zleri s\xF6yler s\xF6ylemez
+  storyText: "\t\"Beni d\xFCnyaya geri g\xF6nderin!\" \nBu s\xF6zleri s\xF6yler s\xF6ylemez
     kendini kaybettin. Ay\u0131ld\u0131\u011F\u0131nda g\xF6zlerine inanamad\u0131n.
     Art\u0131k UFO'da de\u011Fildin. \xD6zel \xFCniformas\u0131yla zarif bir bayan
-    yan\u0131na gelip g\xFCl\xFCmseyerek elini omzuna koydu. \"Inmeye haz\u0131rlan\u0131yoruz,
+    yan\u0131na gelip g\xFCl\xFCmseyerek elini omzuna koydu. \n\"Inmeye haz\u0131rlan\u0131yoruz,
     kemerinizi ba\u011Flay\u0131n l\xFCtfen!\" \nBu kad\u0131n\u0131n hostesiniz oldu\u011Funu
     an\u0131msad\u0131n. Tekrar Concord'a geri d\xF6nm\xFC\u015Ft\xFCn! Her \u015Fey
     yine eskisi gibiydi. Yoksa b\xFCt\xFCn o ya\u015Fad\u0131klar\u0131n bir d\xFC\u015F
     m\xFCyd\xFC? Hostes \xF6teki yolcular\u0131n kemerlerini de kontrol etmek \xFCzere
     ileriye do\u011Fru y\xFCr\xFCd\xFC. U\xE7aktan UFO'ya \u0131\u015F\u0131nland\u0131\u011F\u0131nda
     yan\u0131nda oturan beyaz sa\xE7l\u0131 adama bakt\u0131n. O da sana d\xF6nd\xFC
-    ve \u015Fa\u015F\u0131rd\u0131. \"Ah, nihayet d\xF6nd\xFCn\xFCz demek. Bu kadar
+    ve \u015Fa\u015F\u0131rd\u0131. \n\"Ah, nihayet d\xF6nd\xFCn\xFCz demek. Bu kadar
     zamand\u0131r neredeydiniz?\""
   nextPaths: {fileID: 0}
   nextStates: []

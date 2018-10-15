@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,20 +11,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page71
   m_EditorClassIdentifier: 
-  storyText: "Bir an ne kulaklar\u0131na ne de g\xF6zlerine \r\ninanamad\u0131n. Bu
+  storyText: "\tBir an ne kulaklar\u0131na ne de g\xF6zlerine \rinanamad\u0131n. Bu
     bir r\xFCya olabilir miydi? Ama \ri\u015Fte sana do\u011Fru gelen Jip ve ard\u0131ndan
     \rhavlayarak ko\u015Fan k\xF6pek ger\xE7ekti. Tepenin \ryamac\u0131nda tembel
     otlayan inekler bir \rd\xFC\u015F olamayacak kadar g\xFCzeldi. \rJipi durana kadar
     g\xF6zlerinle izledin. \r\u015Eof\xF6r. sizi g\xF6rd\xFC\u011F\xFC anda motoru
     yeniden \r\xE7al\u0131\u015Ft\u0131rd\u0131 ve arkas\u0131nda bir toz bulutu b\u0131rakarak
-    \rh\u0131zla uzakla\u015Ft\u0131.\nK\xF6pek, kuyru\u011Funu arka ayaklar\u0131n\u0131n
+    \rh\u0131zla uzakla\u015Ft\u0131.\n\tK\xF6pek, kuyru\u011Funu arka ayaklar\u0131n\u0131n
     aras\u0131na \rs\u0131k\u0131\u015Ft\u0131rm\u0131\u015F \u015Feytan g\xF6rm\xFC\u015F
     gibi ka\xE7\u0131yordu. \rTarladaki \xE7ift\xE7i yere diz \xE7\xF6k\xFCp dua etmeye
     \rba\u015Flad\u0131. Topraklar\u0131na inen bu korkun\xE7 uzay \rarac\u0131ndan
     \xE7ok korkmu\u015F olmal\u0131yd\u0131 . \r\nEMIRLERINIZl BEKLIYORUZ! \r\nUzay
-    gemisinden d\u0131\u015Far\u0131ya \xE7\u0131k\u0131p U-TY \r\ny\xF6neticilerine
-    seslendin. \r\n\"Kendi gezegeninize d\xF6n\xFCn. Yaln\u0131zca \r\noradan Ultima'ya
-    ula\u015Fabilirsiniz!\" \r\nO anda koca silindir bir balon gibi havaland\u0131.
+    gemisinden d\u0131\u015Far\u0131ya \xE7\u0131k\u0131p U-TY \ry\xF6neticilerine
+    seslendin. \r\n\"Kendi gezegeninize d\xF6n\xFCn. Yaln\u0131zca \roradan Ultima'ya
+    ula\u015Fabilirsiniz!\" \r\n\tO anda koca silindir bir balon gibi havaland\u0131.
     Onu bulutlar aras\u0131nda kaybolana \rdek izledin. \rD\xFCnyaya geri d\xF6nmekten
     \xE7ok mutluydun. Hele UFO'yla olan yolculu\u011Fun ne \rkadar da heyecanl\u0131
     ge\xE7mi\u015Fti. \xDCz\xFCld\xFC\u011F\xFCn \rtek \u015Fey Inku'ya kar\u015F\u0131

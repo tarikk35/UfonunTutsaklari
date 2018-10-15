@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,24 +11,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page94
   m_EditorClassIdentifier: 
-  storyText: "Derin bir uykudan kalkar gibi yava\u015F\xE7a\r\nuyand\u0131n. Y\xF6r\xFCnge
+  storyText: "\tDerin bir uykudan kalkar gibi yava\u015F\xE7a\r uyand\u0131n. Y\xF6r\xFCnge
     de\u011Fi\u015Ftirirken ortaya \xE7\u0131kan\r korkun\xE7 bas\u0131n\xE7 yok olmu\u015Ftu.
     Rahatlat\u0131c\u0131 bir\r \u0131\u015F\u0131kla ayd\u0131nlanan oday\u0131 taze
     \xE7imen kokusu\r sarm\u0131\u015Ft\u0131. Odan\u0131n \xF6te ucundaki pencereden\r
     giren g\xFCn\u0131\u015F\u0131g\u0131yd\u0131 i\xE7eriyi ayd\u0131nlatan. Kim
     Li durmu\u015F d\u0131\u015Far\u0131ya bak\u0131yordu. Aya\u011Fa f\u0131rlad\u0131n
-    ama yer\xE7ekimi y\xFCz\xFCnden t\xF6kezledin.\r\r\n\xC7\u0131k\u0131\u015F kap\u0131s\u0131ndan
-    a\u015Fa\u011F\u0131ya bak\u0131nca hemen\r\nalt\u0131n\u0131zdaki m\u0131s\u0131r
-    tarlas\u0131n\u0131 g\xF6rd\xFCn\xFCz. Uzak bir\r gezegenden gelen bu inan\u0131lmaz
-    makine,\r emirlerinize itaat etmi\u015F ve sizi uzun bir\r yolculuktan sonra d\xFCnyaya
-    indirmi\u015Fti. \u015Eimdi\r yerden dokuz metre kadar yukarda havada\r durmu\u015F
-    \xF6ylece bekliyordu. Bilgisayar her \u015Feyi\r biliyordu ama, sizin bu y\xFCkseklikten
-    inemiye\rce\u011Finizi hesap edememi\u015Fti her halde.\r\r\n\u201CBak!\" dedi
-    Kim Li, tarlan\u0131n \xF6te ucunu\r\ng\xF6stererek. \xC7ay\u0131rda otlayan bir
-    inek s\xFCr\xFCs\xFC\r vard\u0131. Bir \xE7ocuk ile bir adam ko\u015Farak size\r
-    do\u011Fru geliyordu. Sizden biraz uzakta durdu\rlar, yak\u0131na gelmeye cesaret
-    edememi\u015Flerdi.\r\nDaha sonra k\xFC\xE7\xFCk bir kamyonet belirdi.\r\nI\xE7inden
-    bir adam ve bir kad\u0131n indi."
+    ama yer\xE7ekimi y\xFCz\xFCnden t\xF6kezledin.\r\r\n\t\xC7\u0131k\u0131\u015F
+    kap\u0131s\u0131ndan a\u015Fa\u011F\u0131ya bak\u0131nca hemen\r alt\u0131n\u0131zdaki
+    m\u0131s\u0131r tarlas\u0131n\u0131 g\xF6rd\xFCn\xFCz. Uzak bir\r gezegenden gelen
+    bu inan\u0131lmaz makine,\r emirlerinize itaat etmi\u015F ve sizi uzun bir\r yolculuktan
+    sonra d\xFCnyaya indirmi\u015Fti. \u015Eimdi\r yerden dokuz metre kadar yukarda
+    havada\r durmu\u015F \xF6ylece bekliyordu. Bilgisayar her \u015Feyi\r biliyordu
+    ama, sizin bu y\xFCkseklikten inemiye\rce\u011Finizi hesap edememi\u015Fti her
+    halde.\r\r\n\u201CBak!\" dedi Kim Li, tarlan\u0131n \xF6te ucunu\r g\xF6stererek.
+    \xC7ay\u0131rda otlayan bir inek s\xFCr\xFCs\xFC\r vard\u0131. Bir \xE7ocuk ile
+    bir adam ko\u015Farak size\r do\u011Fru geliyordu. Sizden biraz uzakta durdu\rlar,
+    yak\u0131na gelmeye cesaret edememi\u015Flerdi.\r Daha sonra k\xFC\xE7\xFCk bir
+    kamyonet belirdi.\r I\xE7inden bir adam ve bir kad\u0131n indi."
   nextPaths: {fileID: 0}
   nextStates:
   - {fileID: 11400000, guid: 82253d7549245324bae8598eba50b2d9, type: 2}

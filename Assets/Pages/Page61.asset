@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -14,16 +14,16 @@ MonoBehaviour:
   storyText: "\t\"Hakl\u0131s\u0131n\u0131z! Daha \xE7ok zaman var \xF6n\xFCm\xFCzde.
     Beklerim!\" D\xF6n\xFCp odadaki di\u011Fer insanlara \rbakt\u0131n ve goz\xFCne
     senine ayn\u0131 ya\u015Flarda \rolan bir o\u011Flan \xE7ocu\u011Fu ili\u015Fti.
-    O da sana do\u011Fru \rgeliyordu. \r\n+\"Selam! Bu duvar\u0131 gor\xFCyor musun?\nBunun
-    arkas\u0131nda bir kap\u0131 bulundu\u011Funu \r\nDenebola y\u0131ld\u0131z\u0131ndan
+    O da sana do\u011Fru \rgeliyordu. \r\n+\"Selam! Bu duvar\u0131 gor\xFCyor musun?
+    Bunun arkas\u0131nda bir kap\u0131 bulundu\u011Funu \rDenebola y\u0131ld\u0131z\u0131ndan
     al\u0131nanlar\u0131n bu b\xF6l\xFCmde \rtutuldu\u011Funu duydum. Buraya nas\u0131l
     ge\xE7ildi\u011Fini \xF6\u011Frenebilirsen belki onlar sana ka\xE7manda \ryard\u0131mc\u0131
     olurlar!\" \r\nDuvara vurdun, yumruklad\u0131n hi\xE7bir \r\u015Fey olmad\u0131.
-    Sinirlenip b\xFCt\xFCn g\xFCc\xFCnle \r\ntekme att\u0131n koca duvar birden g\xF6zlerinin
+    Sinirlenip b\xFCt\xFCn g\xFCc\xFCnle \rtekme att\u0131n koca duvar birden g\xF6zlerinin
     \r\n\xF6n\xFCnde yok oldu. \xD6n\xFCnde uzun ve d\xF6neme\xE7li bir t\xFCnel uzan\u0131yordu.Yan\u0131ndaki
-    \r\n\xE7ocuk sab\u0131rs\u0131zl\u0131kla bu t\xFCnele do\u011Fru at\u0131ld\u0131.
-    \r\nSen de onun pe\u015Finden gittin. Arkana \r\nbak\u0131nca duvar\u0131n yeniden
-    \u015Fekillendi\u011Fini g\xF6r \rd\xFCn. T\xFCnelde y\xFCr\xFCmeye devam ettin.
+    \r\xE7ocuk sab\u0131rs\u0131zl\u0131kla bu t\xFCnele do\u011Fru at\u0131ld\u0131.
+    \r\nSen de onun pe\u015Finden gittin. Arkana \rbak\u0131nca duvar\u0131n yeniden
+    \u015Fekillendi\u011Fini g\xF6r\rd\xFCn. T\xFCnelde y\xFCr\xFCmeye devam ettin.
     I\u015F\u0131k \r\ngiderek fazlala\u015F\u0131yordu. \u015Eimdi art\u0131k her
     \u015Feyi \rnet olarak g\xF6rebiliyordun. Oda, b\xFCy\xFCk \rsiyah \xF6r\xFCmceklere
     benzeyen koskocaman, \rt\xFCyl\xFC yarat\u0131klarla doluydu. \r\n\"Yard\u0131m

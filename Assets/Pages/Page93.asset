@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,14 +11,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page93
   m_EditorClassIdentifier: 
-  storyText: "Eve d\xF6nmek istedigini s\xF6yledikten\r\nhemen sonra beyninde \u015Fu
-    s\xF6zleri duydun:\r\nBIZDEN NAZIK\xC7E RICA ETTINIZ. AMA\r\nNEZAKETIN U-TY I\xC7IN
-    HICBIR DEGERI\r\nYOKTUR.\r\nU-TY'nun cevab\u0131 \xFCst\xFCne so\u011Fuk terler\r\nd\xF6kmeye
-    ba\u015Flad\u0131n. Ama d\xFC\u015F\xFCnecek \xE7ok az\r zaman\u0131n vard\u0131.
-    U-TY sar\u0131 bir sis arkas\u0131nda\r kaybolurken yava\u015F\xE7a karanl\u0131\u011Fa
-    g\xF6m\xFCld\xFCn\r. Art\u0131k ne duyabilecek, ne dokunabilecek.\r\nne de koklayabilecektin.
-    Karanl\u0131k giderek\r\nkoyula\u015Ft\u0131 ve bir milyar y\u0131l sonra yeniden\r\nuyanmay\u0131
-    \xFCmit ederek derin bir uykuya\r\ndald\u0131n."
+  storyText: "Eve d\xF6nmek istedigini s\xF6yledikten\r hemen sonra beyninde \u015Fu
+    s\xF6zleri duydun:\r\nBIZDEN NAZIK\xC7E RICA ETTINIZ. AMA\r NEZAKETIN U-TY I\xC7IN
+    HICBIR DEGERI\rYOKTUR.\r\nU-TY'nun cevab\u0131 \xFCst\xFCne so\u011Fuk terler\r
+    d\xF6kmeye ba\u015Flad\u0131n. Ama d\xFC\u015F\xFCnecek \xE7ok az\r zaman\u0131n
+    vard\u0131. U-TY sar\u0131 bir sis arkas\u0131nda\r kaybolurken yava\u015F\xE7a
+    karanl\u0131\u011Fa g\xF6m\xFCld\xFCn\r. Art\u0131k ne duyabilecek, ne dokunabilecek,
+    ne de koklayabilecektin. Karanl\u0131k giderek\r\nkoyula\u015Ft\u0131 ve bir milyar
+    y\u0131l sonra yeniden\r uyanmay\u0131 \xFCmit ederek derin bir uykuya\r dald\u0131n."
   nextPaths: {fileID: 0}
   nextStates: []
   pathText: SON

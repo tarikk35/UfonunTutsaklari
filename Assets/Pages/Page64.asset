@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -16,22 +16,21 @@ MonoBehaviour:
     \r\n\"UT-Y bize d\xFC\u015F\xFCnce dalgalar\u0131yla nas\u0131l konu\u015Fulaca\u011F\u0131n\u0131
     \xF6\u011Fretti. Ama onlar\u0131n bildi\u011Fi \u015Feyle\rrin ancak y\xFCzde
     onunu anlayabiliyoruz. D\xFCnya \r\xFCzerlnde bin y\u0131ldan fazla bir s\xFCredir
-    ara\u015Ft\u0131rma \r\nyap\u0131yorlar. Uzay Cenneti Ultima'ya, d\xFCnyadan \rge\xE7en
+    ara\u015Ft\u0131rma \ryap\u0131yorlar. Uzay Cenneti Ultima'ya, d\xFCnyadan \rge\xE7en
     bir yolla gidilece\u011Fine inan\u0131yorlard\u0131. \rAma art\u0131k bu d\xFC\u015F\xFCnceden
     vazge\xE7tiler.\" \r\n\"Ger\xE7ekten bir Uzay Cenneti var m\u0131?\u201D diye
     \rsordun. \r\n\"Evet b\xF6yle bir gezegen var,\u201D diye Angus yan\u0131tlad\u0131
-    \"Oraya se\xE7im yap\u0131larak veya \r\nuyar\u0131lar\u0131 yerine getirerek
+    \n\"Oraya se\xE7im yap\u0131larak veya \ruyar\u0131lar\u0131 yerine getirerek
     var\u0131lamayaca\u011F\u0131 i\xE7in \rU-TY hen\xFCz bulamad\u0131 onu. \" \r\n\"Peki
     h\xE2l\xE2 eve d\xF6nme \u015Fans\u0131m var m\u0131?\" \r\n\"Ke\u015Fke bunu
-    bilebilseydim. Yaln\u0131z \u015Funu \r\nakl\u0131na koy. U-TYye yalvararak kurtulamazs\u0131n.
+    bilebilseydim. Yaln\u0131z \u015Funu \rakl\u0131na koy. U-TYye yalvararak kurtulamazs\u0131n.
     K\xFC\xE7\xFCk bir olas\u0131l\u0131kla, deli numaras\u0131 \ryaparsan belki senin
     Ra'daki hayvanat \rbah\xE7eleri i\xE7in uygun olmad\u0131\u011F\u0131n\u0131 d\xFC\u015F\xFCn\xFCp
-    geri \rg\xF6nderebilirler. Ama \u015Funu hi\xE7 unutma, \rU-TYyi aldatmak imkans\u0131zd\u0131
-    r.\" \r\nDeli numaras\u0131 yapmal\u0131 m\u0131yd\u0131n? Belki \r\nonlar\u0131
-    inand\u0131rabilirdin. \xD6te yandan bu yabanc\u0131lar d\xFC\u015F\xFCnce yoluyla
-    ileti\u015Fim kurabilen \xE7ok \rgeli\u015Fmi\u015F varl\u0131klard\u0131. Senin
-    numara yapt\u0131\u011F\u0131n\u0131 \ranlay\u0131nca ne yaparlard\u0131 acaba?
-    \r"
+    geri \rg\xF6nderebilirler. Ama \u015Funu hi\xE7 unutma, \rU-TYyi aldatmak imkans\u0131zd\u0131r.\"
+    \r\nDeli numaras\u0131 yapmal\u0131 m\u0131yd\u0131n? Belki \ronlar\u0131 inand\u0131rabilirdin.
+    \xD6te yandan bu yabanc\u0131lar d\xFC\u015F\xFCnce yoluyla ileti\u015Fim kurabilen
+    \xE7ok \rgeli\u015Fmi\u015F varl\u0131klard\u0131. Senin numara yapt\u0131\u011F\u0131n\u0131
+    \ranlay\u0131nca ne yaparlard\u0131 acaba? \r"
   nextPaths: {fileID: 0}
   nextStates:
   - {fileID: 11400000, guid: 4fa7416734301504a97a9b6cf3b70d90, type: 2}

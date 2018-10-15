@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page66
   m_EditorClassIdentifier: 
-  storyText: "SIZI IZLEDIK. COK GUCLU BIR KARAKTERINIZ VAR. TEHLIKELI OLABILECEK \rKADAR
-    GUCLUSUNUZ. BU YASADIR: U-TY'NIN EMIRLERINE UYANLAR RA GEZEGENINDEKI HAYVANAT
-    BAHCESINE KAPATILIR. U-TY'YE KARSI DIRENENLER ISE\r\nSOMO'YA BIR MILYAR YIL BOYUNCA
-    \r\nUYUMAK UZERE GONDERILIR. HANGISINI \r\nSECIYORSUNUZ? \r\nSeni hayvanat bah\xE7esine
-    veya Soma'ya \r\ngitmekten kurtaracak bir \u015Feyler s\xF6ylemeyi \r\nd\xFC\u015F\xFCnmeye
+  storyText: "\tSIZI IZLEDIK. COK GUCLU BIR KARAKTERINIZ VAR. TEHLIKELI OLABILECEK
+    \rKADAR GUCLUSUNUZ. BU YASADIR: U-TY'NIN EMIRLERINE UYANLAR RA GEZEGENINDEKI HAYVANAT
+    BAHCESINE KAPATILIR. U-TY'YE KARSI DIRENENLER ISE\r SOMO'YA BIR MILYAR YIL BOYUNCA
+    \rUYUMAK UZERE GONDERILIR. HANGISINI \rSECIYORSUNUZ? \r\n\nSeni hayvanat bah\xE7esine
+    veya Soma'ya \rgitmekten kurtaracak bir \u015Feyler s\xF6ylemeyi \rd\xFC\u015F\xFCnmeye
     \xE7al\u0131\u015F\u0131yorsun. \r\n"
   nextPaths: {fileID: 0}
   nextStates:

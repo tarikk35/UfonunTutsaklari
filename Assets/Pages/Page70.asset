@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,20 +11,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page70
   m_EditorClassIdentifier: 
-  storyText: "Aileni arad\u0131n ama evde kimse yoktu. \r\nBelki de onlar senin sa\u011Fsalim
-    Amerika'ya \r\nvarm\u0131\u015F oldu\u011Funu san\u0131yorlard\u0131. \rColeman
+  storyText: "\tAileni arad\u0131n ama evde kimse yoktu. \rBelki de onlar senin sa\u011Fsalim
+    Amerika'ya \rvarm\u0131\u015F oldu\u011Funu san\u0131yorlard\u0131. \rColeman
     telefonda konu\u015Furken bekledin. Ahizeyi yerine asarken y\xFCz\xFCnde g\xF6rd\xFC\u011F\xFCn
     garip g\xFCl\xFCmseme dikkatini \xE7ekti. \r\n\"Benim yerel TV \u015Firketi sahibi
-    bir \r\ntan\u0131d\u0131\u011F\u0131m var. Ona haber verdim!\u201D dedi sana \rd\xF6nerek.
+    bir \rtan\u0131d\u0131\u011F\u0131m var. Ona haber verdim!\u201D dedi sana \rd\xF6nerek.
     \n\"Yapaca\u011F\u0131m\u0131z tek \u015Fey yarat\u0131\u011F\u0131 \royalamak.
     Bu sayede 20.000 dolar kazanaca\u011F\u0131z.\u201D Eliyle s\u0131rt\u0131na bir
     \u015Faplak att\u0131. \n\"Yar\u0131\r yar\u0131ya k\u0131r\u0131\u015F\u0131r\u0131z
     de\u011Fil mi ufakl\u0131k?\u201D \r\n\"Ama siz de duydunuz. Bru, Ba\u015Fkan'la
-    \r\nkonu\u015Fana dek hi\xE7 kimseye g\xF6z\xFCkmek \r\nistemiyor.\u201D \r\n\"Yok
-    can\u0131m, bunun ona bir zarar\u0131 yok ki... \nYak\u0131nda nas\u0131lsa \xE7ok
-    \xFCnl\xFC olacak. Hem \r\nAmerika'da i\u015Fler nas\u0131l y\xFCr\xFCr \xF6\u011Frensin
+    \rkonu\u015Fana dek hi\xE7 kimseye g\xF6z\xFCkmek \ristemiyor.\u201D \r\n\"Yok
+    can\u0131m, bunun ona bir zarar\u0131 yok ki... Yak\u0131nda nas\u0131lsa \xE7ok
+    \xFCnl\xFC olacak. Hem \rAmerika'da i\u015Fler nas\u0131l y\xFCr\xFCr \xF6\u011Frensin
     biraz. \rBak! B\xFCt\xFCn yapaca\u011F\u0131m\u0131z i\u015F onu yanl\u0131zca
-    on \rbe\u015F dakika oyalamak o kadar. Ve 10.000 dolar \rcebinde!\" \r\nBru'nun
+    on \rbe\u015F dakika oyalamak o kadar. Ve 10.000 dolar \rcebinde!\" \r\n\tBru'nun
     istedi\u011Fini yerine getirmek isterdin; ama ona bu konuda herhangi bir s\xF6z
     falan \rda vermemi\u015Ftin. \xD6te yandan 10.000 dolar da \rfena para de\u011Fildi
     do\u011Frusu !"

@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,23 +11,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page73
   m_EditorClassIdentifier: 
-  storyText: "Yar\u0131m saat sonra Polis Merkezindeydin. \r\nG\xFC\xE7l\xFC bir lamban\u0131n
+  storyText: "\tYar\u0131m saat sonra Polis Merkezindeydin. \rG\xFC\xE7l\xFC bir lamban\u0131n
     ayd\u0131nlatt\u0131\u011F\u0131 pis bir odada, \rtahta bir masan\u0131n ba\u015F\u0131nda
     oturuyordun. \u0130ki \rpolis memuru ba\u015F\u0131na dikilmi\u015F duruyordu.
     \rBiri iri yap\u0131l\u0131, esmer ve siyah k\u0131v\u0131rc\u0131k sa\xE7l\u0131yd\u0131.
-    \r\n\xD6teki polis ise, k\u0131sa boylu k\u0131rm\u0131z\u0131 y\xFCzl\xFC bir\r\nadamd\u0131.
-    Yakalar\u0131ndaki rozetlerden iri olan\u0131n \rad\u0131n\u0131n Te\u011Fmen
-    Robert Fitch, \xF6tekininse, Y\xFCzba\u015F\u0131 Mackin oldu\u011Fu okunuyordu.
-    \r\n\"Pekala anlat bakal\u0131m neler oldu?\" dedi \r\nFitch. \r\n\"Biliyorum
-    buna inanman\u0131z zor ama,\u201D diye \nanlatmaya ba\u015Flad\u0131n \"Benim
-    bu i\u015Fle bir ilgim \ryok. Ben uzayl\u0131 baz\u0131 yarat\u0131klar taraf\u0131ndan
+    \r\xD6teki polis ise, k\u0131sa boylu k\u0131rm\u0131z\u0131 y\xFCzl\xFC bir\r
+    adamd\u0131. Yakalar\u0131ndaki rozetlerden iri olan\u0131n \rad\u0131n\u0131n
+    Te\u011Fmen Robert Fitch, \xF6tekininse, Y\xFCzba\u015F\u0131 Mackin oldu\u011Fu
+    okunuyordu. \r\n\"Pekala anlat bakal\u0131m neler oldu?\" dedi \rFitch. \r\n\"Biliyorum
+    buna inanman\u0131z zor ama,\u201D diye anlatmaya ba\u015Flad\u0131n \"Benim bu
+    i\u015Fle bir ilgim \ryok. Ben uzayl\u0131 baz\u0131 yarat\u0131klar taraf\u0131ndan
     esir \ral\u0131nd\u0131m. G\xFCnlerdir bir UFO'da tutsakt\u0131m. \rOrada sanat
     hazinelerini almak isteyen.. \" \r\n\"B\u0131rak \u015Fimdi bu palavralar\u0131
-    da do\u011Fruyu \r\nanlat!\" diye Mackin s\xF6z\xFCn\xFC kesti. \"On \r\ndakika
-    i\xE7inde otuz milyon dolarl\u0131k sanat \r\nyap\u0131t\u0131n\u0131 \xE7alan
-    bir ekipte olacaks\u0131n ve ne olup \rbitti\u011Finden haberin olmayacak, \xF6yle
+    da do\u011Fruyu \ranlat!\" diye Mackin s\xF6z\xFCn\xFC kesti. \n\"On \rdakika
+    i\xE7inde otuz milyon dolarl\u0131k sanat \ryap\u0131t\u0131n\u0131 \xE7alan bir
+    ekipte olacaks\u0131n ve ne olup \rbitti\u011Finden haberin olmayacak, \xF6yle
     mi?\" \r\nFitch a\u011F\u0131r elini omuzuna koydu. \r\n\"Bana bak ufakl\u0131k!
-    Seni hapishaneye \r\ng\xF6ndermeye niyetimiz yok ama \xE7al\u0131nan sanat \rkoleksiyonunu
+    Seni hapishaneye \rg\xF6ndermeye niyetimiz yok ama \xE7al\u0131nan sanat \rkoleksiyonunu
     istiyoruz. Do\u011Fruyu s\xF6ylersen \ryakan\u0131 kurtarabilirsin, ama bize masallar
     \ranlatmaya kalk\u0131\u015F\u0131rsan o zaman halin \xE7ok \rk\xF6t\xFC olur.\u201D
     \r\n\"Hem de nas\u0131l!\" diye ekledi Mackin. "

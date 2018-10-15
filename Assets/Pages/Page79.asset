@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Page79
   m_EditorClassIdentifier: 
   storyText: "Bir an d\xFC\u015F\xFCnd\xFCn ve akl\u0131na ilk gelen \u015Fark\u0131y\u0131
-    ba\u011F\u0131ra ba\u011F\u0131ra okumaya koyuldun: Ankara\u2019n\u0131n ba\u011Flar\u0131
+    ba\u011F\u0131ra ba\u011F\u0131ra okumaya koyuldun: \nAnkara\u2019n\u0131n ba\u011Flar\u0131
     da\r\nB\xFCkl\xFCm, b\xFCkl\xFCm yollar\u0131\r\nNe zaman sarho\u015F oldun da\r\nKald\u0131ram\u0131yon
     kollar\u0131\n\nU-TY bir an yan\u0131p s\xF6nd\xFC.\nSENIN HAKKINDAKI HER \u015EEYI
     BILIYORUZ. \r\nBir an bu buluta benzeyen enerji k\xFCmelerine do\u011Fru \xE7ekiliyormu\u015Fsun

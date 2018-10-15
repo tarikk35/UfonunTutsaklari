@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -14,18 +14,18 @@ MonoBehaviour:
   storyText: "\tUyand\u0131\u011F\u0131nda kendini ba\u015Fka bir odada \rbuldun.
     Havada \xFC\xE7 tane, kor halinde bir \ry\xFCrek gibi atan k\xFCre u\xE7uyordu.
     T\xFCylerin diken diken oldu. Yine beyninde o \rd\xFC\u015F\xFCnceleri duydun.
-    \r\nU-TY'NIN EMIRLERINE KAR\u015EI GELDINIZ! \r\nBIR MILYAR YIL UYUMAK UZERE SOMO'YA
+    \r\nU-TY'NIN EMIRLERINE KAR\u015EI GELDINIZ! \rBIR MILYAR YIL UYUMAK UZERE SOMO'YA
     \rG\xD6NDERILECEKSINIZ. \r\n\u0130\u015Fte, beynindeki d\xFC\u015F\xFCnceleri
     bile denetleyebilen ola\u011Fan\xFCst\xFC yarat\u0131klarla kar\u015F\u0131 kar\u015F\u0131yayd\u0131n:
     U-TY y\xF6neticileriyle! \r\nHeykeli kald\u0131r\u0131p onlara do\u011Fru tuttun.
-    \r\nBirden \xFC\xE7\xFC de yere do\u011Fru kayd\u0131. I\u015F\u0131klar\u0131
-    \r\ns\xF6nd\xFC. Beyninin i\xE7ini sayg\u0131l\u0131 f\u0131s\u0131lt\u0131lar
-    doldurdu. \r\nONDERIMIZ SENSIN. BIZI ANCAK SEN \r\nULTIMA'YA GOTUREBILIRSIN. EMRET
-    SENI IZLEYELIM. \r\nBu s\xF6zc\xFCkler beyninin i\xE7inde d\xF6nerken \r\nheykelin
-    ger\xE7ekten b\xFCy\xFCk bir g\xFCce sahip \r\noldu\u011Funu anlam\u0131\u015Ft\u0131n.
-    U-TY, senin onlar\u0131 \r\nUltima'ya, uzay cennetine g\xF6t\xFCrece\u011Fini
-    \r\numuyordu. Tam onlara d\xFCnyaya d\xF6nmelerini \rs\xF6yleyecektin ki birden
-    evine g\xF6t\xFCrmek \r\xFCzere Inku'ya verdi\u011Fin s\xF6z akl\u0131na geldi."
+    \rBirden \xFC\xE7\xFC de yere do\u011Fru kayd\u0131. I\u015F\u0131klar\u0131 \rs\xF6nd\xFC.
+    Beyninin i\xE7ini sayg\u0131l\u0131 f\u0131s\u0131lt\u0131lar doldurdu. \r\nONDERIMIZ
+    SENSIN. BIZI ANCAK SEN \rULTIMA'YA GOTUREBILIRSIN. EMRET SENI IZLEYELIM. \r\nBu
+    s\xF6zc\xFCkler beyninin i\xE7inde d\xF6nerken \rheykelin ger\xE7ekten b\xFCy\xFCk
+    bir g\xFCce sahip \roldu\u011Funu anlam\u0131\u015Ft\u0131n. U-TY, senin onlar\u0131
+    \r\nUltima'ya, uzay cennetine g\xF6t\xFCrece\u011Fini \rumuyordu. Tam onlara d\xFCnyaya
+    d\xF6nmelerini \rs\xF6yleyecektin ki birden evine g\xF6t\xFCrmek \r\xFCzere Inku'ya
+    verdi\u011Fin s\xF6z akl\u0131na geldi."
   nextPaths: {fileID: 0}
   nextStates:
   - {fileID: 11400000, guid: fd22ac2d5b80c374db64c35214095e75, type: 2}

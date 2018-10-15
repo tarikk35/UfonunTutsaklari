@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,27 +11,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page111
   m_EditorClassIdentifier: 
-  storyText: "Derin bir uykudan yava\u015F yava\u015F uyand\u0131n. Batan vOcudunuz
-    a\u011Fr\u0131yordu. 1-il9 uzay arac\u0131ndayd\u0131n\u0131z ama, sanki bir sandaldaym\u0131\u015F-s\u0131n\u0131z
-    gibi sallah\u0131p duruyordunuz. Pencereye ko\u015Farak d\u0131\u015Far\u0131ya
-    bakt\u0131n\u0131z. Su... Her yer g\xF6z alabildi\u011Fine suydu. Herhalde bir
-    okyanusa, I nmi\u015Fti n iz. Belki de dOnyadayd\u0131n\u0131z. Mopo'da yan\u0131n\u0131zdayd\u0131.
-    \"D\u0131\u015Far\u0131 \xE7\u0131kmal\u0131y\u0131z\" dedi. \"Bat\u0131yoruz.\"
-    Kap\u0131y\u0131 a\xE7ar a\xE7maz i\xE7eriye sular dolmaya ba\u015Flad\u0131.
-    \xC7evreyi g\xF6zierii\u0131iiie dikkatle tarad\u0131n\u0131z. Yak\u0131n\u0131n\u0131zda
-    a\u011F atm\u0131\u015F gri renkli bal\u0131k\xE7\u0131 gemisini farkettinlz.
-    Gemi yar\u0131m kilometre kadar uzaktayd\u0131. Ama uzay arac\u0131 h\u0131zla
-    bat\u0131yordu. Kaybedecek zaman yoktu. Derin bir nefes al\u0131p so\u011Fuk ve
-    derin sulara \xE7lald\u0131n\u0131z. \xC7\u0131rp\u0131nt\u0131l\u0131 denizde
-    dalgalar ard arda yOzOnOze \xE7arp\u0131yordu. Yoksa, bal\u0131k\xE7\u0131 gemisine
-    ula\u015Famadan bo\u011Fulup gidecek miydiniz? Neyse ki Mopo, sizi dalgalardan
-    korumak i\xE7in s\u0131rt\u0131na ald\u0131. El sallayarak gernidek\u0131lerin
-    dikkatini \xE7ekmeye \xE7al\u0131\u015Ft\u0131n\u0131z. Sonunda bunu ba\u015Fard\u0131n\u0131z.
-    Bal\u0131k\xE7\u0131 gemisi size do\u011Fru gelmeye ba\u015Flad\u0131. \"DOnyal
-    \u0131 lar\u0131n beni \xF6ldOrmelerinden korku-yorum\" dedi Mopo. \"Okyanusta
-    saklan\u0131rsam beni g\xF6remezler.\" \n\"Sak\u0131n gitme, benimle gel!\" dedin
-    ona. Mopo gOvensizlikle sordu: \n\"Peki. d\xFCnyal\u0131lara g\xFCvenebilir miyim?\"
-    \r"
+  storyText: "Derin bir uykudan yava\u015F yava\u015F uyand\u0131n. B\xFCt\xFCn v\xFCcudun
+    a\u011Fr\u0131yordu. 1-il9 uzay arac\u0131ndayd\u0131n ama, sanki bir sandaldaym\u0131\u015Fs\u0131n
+    gibi sallan\u0131p duruyordun. Pencereye ko\u015Farak d\u0131\u015Far\u0131ya
+    bakt\u0131n. Su... Her yer g\xF6z alabildi\u011Fine suydu. Herhalde bir okyanusa
+    inmi\u015Ftin. Belki de d\xFCnyadayd\u0131n. Mopo da yan\u0131ndayd\u0131. \n\"D\u0131\u015Far\u0131
+    \xE7\u0131kmal\u0131y\u0131z\" dedi. \"Bat\u0131yoruz.\" \nKap\u0131y\u0131 a\xE7ar
+    a\xE7maz i\xE7eriye sular dolmaya ba\u015Flad\u0131. \xC7evreyi g\xF6zierinle
+    dikkatle tarad\u0131n. Yak\u0131n\u0131n\u0131zda a\u011F atm\u0131\u015F gri
+    renkli bal\u0131k\xE7\u0131 gemisini fark ettin. Gemi yar\u0131m kilometre kadar
+    uzaktayd\u0131. Ama uzay arac\u0131 h\u0131zla bat\u0131yordu. Kaybedecek zaman
+    yoktu. Derin bir nefes al\u0131p so\u011Fuk ve derin sulara dald\u0131n. \xC7\u0131rp\u0131nt\u0131l\u0131
+    denizde dalgalar ard arda y\xFCz\xFCne \xE7arp\u0131yordu. Yoksa, bal\u0131k\xE7\u0131
+    gemisine ula\u015Famadan bo\u011Fulup gidecek miydin? Neyse ki Mopo, seni dalgalardan
+    korumak i\xE7in s\u0131rt\u0131na ald\u0131. El sallayarak gemidek\u0131lerin
+    dikkatini \xE7ekmeye \xE7al\u0131\u015Ft\u0131n. Sonunda bunu ba\u015Fard\u0131n.
+    Bal\u0131k\xE7\u0131 gemisi size do\u011Fru gelmeye ba\u015Flad\u0131. \n\"D\xFCnyal\u0131lar\u0131n
+    beni \xF6ld\xFCrmelerinden korkuyorum\" dedi Mopo. \"Okyanusta saklan\u0131rsam
+    beni g\xF6remezler.\" \n\"Sak\u0131n gitme, benimle gel!\" dedin ona. Mopo g\xFCvensizlikle
+    sordu: \n\"Peki. d\xFCnyal\u0131lara g\xFCvenebilir miyim?\" \r"
   nextPaths: {fileID: 0}
   nextStates:
   - {fileID: 11400000, guid: 285a8bf882d6e1e42bc26ad41ec183cf, type: 2}

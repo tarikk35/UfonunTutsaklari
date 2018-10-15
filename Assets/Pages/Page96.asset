@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,11 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page96
   m_EditorClassIdentifier: 
-  storyText: "\u201C\u015Eimdi ne yapaca\u011F\u0131z?\" diye sordu Kim Li.\r\nAma
+  storyText: "\u201C\u015Eimdi ne yapaca\u011F\u0131z?\" diye sordu Kim Li.\r Ama
     sen derin d\xFC\u015F\xFCncelere dalm\u0131\u015Ft\u0131n.\r\nSorusunu duymad\u0131n
-    bile. Tarlan\u0131n ucundaki\r\nyama\xE7tan sana do\u011Fru ko\u015Farak gelen
-    bir adam\r ve k\xF6pe\u011Fini g\xF6rd\xFCn. Ard\u0131ndan bir siren\r\nd\xFCd\xFC\u011F\xFC...
-    Bu polis olmal\u0131yd\u0131.\r\nU-TY y\xF6neticilerinin birdenbire ortadan\r\nnas\u0131l
+    bile. Tarlan\u0131n ucundaki\r yama\xE7tan sana do\u011Fru ko\u015Farak gelen
+    bir adam\r ve k\xF6pe\u011Fini g\xF6rd\xFCn. Ard\u0131ndan bir siren\r d\xFCd\xFC\u011F\xFC...
+    Bu polis olmal\u0131yd\u0131.\r U-TY y\xF6neticilerinin birdenbire ortadan\r nas\u0131l
     yok olduklar\u0131n\u0131 d\xFC\u015F\xFCn\xFCyord\xFCn. Ve bu\r\ngemiyle nihayet
     d\xFCnyaya indi\u011Finizi..."
   nextPaths: {fileID: 0}

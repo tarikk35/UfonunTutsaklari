@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -20,13 +20,13 @@ MonoBehaviour:
     \rkar\u015F\u0131s\u0131ndayd\u0131n\u0131z. Dr. Shomsky'den ba\u015Fka \rbir\xE7ok
     bilim adam\u0131 da sizi bekliyordu. Arka \rarkaya yap\u0131lan bir dizi g\xF6r\xFC\u015Fmeden
     sonra \xFClke \r\xE7ap\u0131nda bir haber program\u0131nda Ba\u015Fkan, UFO5440
-    ve Mopo'nun ka\xE7\u0131\u015F\u0131 \xFCst\xFCne kamuoyuna \r\nayr\u0131nt\u0131l\u0131
-    bir a\xE7\u0131klama yapt\u0131. Bu konu\u015Fma \r\ns\u0131ras\u0131nda Mopo'dan
-    \xF6vg\xFCyle s\xF6z ederek, \r\nd\xFCnyay\u0131 ziyaret eden bu yabanc\u0131
-    konuktan \xE7ok \r\u015Feyler \xF6\u011Frendi\u011Fini belirtti. Bir sene sonra,
-    \rMopo Ba\u015Fkan\u0131n dan\u0131\u015Fmanl\u0131\u011F\u0131n\u0131 \xFCstlendi
-    ve \ronun \xE7abalar\u0131 sonucunda t\xFCm d\xFCnya bir \roldu. \u0130nsanl\u0131k
-    senin bu ba\u015Far\u0131daki pay\u0131n\u0131 hi\xE7 \r\nunutmad\u0131."
+    ve Mopo'nun ka\xE7\u0131\u015F\u0131 \xFCst\xFCne kamuoyuna \rayr\u0131nt\u0131l\u0131
+    bir a\xE7\u0131klama yapt\u0131. Bu konu\u015Fma \rs\u0131ras\u0131nda Mopo'dan
+    \xF6vg\xFCyle s\xF6z ederek, \rd\xFCnyay\u0131 ziyaret eden bu yabanc\u0131 konuktan
+    \xE7ok \r\u015Feyler \xF6\u011Frendi\u011Fini belirtti. Bir sene sonra, \rMopo
+    Ba\u015Fkan\u0131n dan\u0131\u015Fmanl\u0131\u011F\u0131n\u0131 \xFCstlendi ve
+    \ronun \xE7abalar\u0131 sonucunda t\xFCm d\xFCnya bir \roldu. \u0130nsanl\u0131k
+    senin bu ba\u015Far\u0131daki pay\u0131n\u0131 hi\xE7 \runutmad\u0131."
   nextPaths: {fileID: 0}
   nextStates: []
   pathText: SON

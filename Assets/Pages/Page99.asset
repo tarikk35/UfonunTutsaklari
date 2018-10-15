@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -12,20 +12,20 @@ MonoBehaviour:
   m_Name: Page99
   m_EditorClassIdentifier: 
   storyText: "U-TY'ye d\xF6n\xFCp, \n\u201CRotay\u0131 de\u011Fi\u015Ftiriyorum:\rHedef
-    d\xFCnya!\" komutunu verdin. Uyar\u0131\r \u0131\u015F\u0131klar\u0131, bilgisayarlardan
-    baz\u0131lar\u0131n\u0131n a\u015F\u0131r\u0131 \u0131s\u0131n-\r\nd\u0131\u011F\u0131n\u0131
+    d\xFCnya!\" komutunu verdin. \nUyar\u0131\r \u0131\u015F\u0131klar\u0131, bilgisayarlardan
+    baz\u0131lar\u0131n\u0131n a\u015F\u0131r\u0131 \u0131s\u0131nd\u0131\u011F\u0131n\u0131
     haber veriyordu. Bu \xE7at\u0131\u015Fma demekti.\r Derken bir ses duyuldu: \n\u201CHata
     yapt\u0131n\u0131z. Siz\r y\xF6neticisiniz. Y\xF6neticiler yanl\u0131\u015F yapmaz.\rTutars\u0131zl\u0131k
     var. .. Tutars\u0131zl\u0131k var.\"\r\n\rAna bilgisayar titremeye, sallanmaya
     ba\u015Flad\u0131. Odan\u0131n bir yerinden \xF6nce yava\u015F yava\u015F\r ba\u015Flayan
     ama sonra kulaklar\u0131 sag\u0131r eden\r d\xFCzensiz g\xFCr\xFClt\xFCler geliyordu.\r\n\u201CSon
-    komutumu iptal et!\" diye ba\u011F\u0131rd\u0131n\r\nb\xFCt\xFCn g\xFCc\xFCnle.
+    komutumu iptal et!\" diye ba\u011F\u0131rd\u0131n\r b\xFCt\xFCn g\xFCc\xFCnle.
     \u201CAlara'ya y\xF6nel.\u201D\r\nTutars\u0131zl\u0131k. .. Tutars\u0131zl\u0131k\"
-    diye homurdan-\r\nd\u0131 bilgisayar, \u201C\xC7ifte tutars\u0131zl\u0131k...\"
-    Ani\r\npatlaman\u0131n ard\u0131ndan k\u0131v\u0131lc\u0131mlar bir anda\r\noday\u0131
-    kaplad\u0131. G\xF6zlerini kapamak i\xE7in\r\nkollar\u0131n\u0131 ba\u015F\u0131na
-    g\xF6t\xFCrd\xFCn. Ama senin ve\r\ngemideki di\u011Fer yarat\u0131klar\u0131n
-    kristal gibi\r\nparlayan binlerce \u0131\u015F\u0131k k\xFCmesine d\xF6n\xFC\u015Fmesi\r
+    diye homurdan\rd\u0131 bilgisayar, \u201C\xC7ifte tutars\u0131zl\u0131k...\" Ani\r
+    patlaman\u0131n ard\u0131ndan k\u0131v\u0131lc\u0131mlar bir anda\r oday\u0131
+    kaplad\u0131. G\xF6zlerini kapamak i\xE7in\r kollar\u0131n\u0131 ba\u015F\u0131na
+    g\xF6t\xFCrd\xFCn. Ama senin ve\r gemideki di\u011Fer yarat\u0131klar\u0131n kristal
+    gibi\r parlayan binlerce \u0131\u015F\u0131k k\xFCmesine d\xF6n\xFC\u015Fmesi\r
     i\xE7in yaln\u0131zca bir sanlye kalm\u0131\u015Ft\u0131."
   nextPaths: {fileID: 0}
   nextStates: []

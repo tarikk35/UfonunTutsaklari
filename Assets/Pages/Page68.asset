@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -21,7 +21,7 @@ MonoBehaviour:
     \riki adam oldu\u011Fu halde h\u0131zla sana do\u011Fru \rgeliyordu. Birden nereden
     ate\u015F edildi\u011Fini \ranlad\u0131n. Jipteki adamlardan biri t\xFCfe\u011Fini
     do\u011Frultmu\u015F Bru'yu vurmaya \xE7al\u0131\u015F\u0131yordu. \r\n\"Durun!\u201D
-    diye ba\u011F\u0131rd\u0131n. Ama Bru ate\u015F \r\nmenzilinin d\u0131\u015F\u0131na
+    diye ba\u011F\u0131rd\u0131n. \n\tAma Bru ate\u015F \rmenzilinin d\u0131\u015F\u0131na
     \xE7\u0131km\u0131\u015Ft\u0131 bile. Denize do\u011Fru \ru\xE7arak h\u0131zla
     oradan uzakla\u015Ft\u0131 ve g\xF6zden \rkayboldu. Jipten inen iri yap\u0131l\u0131
     adam \rokyanusu g\xF6stererek: \"Hey! \u015Eu y\xF6ne do\u011Fru \ru\xE7an balon
@@ -29,8 +29,8 @@ MonoBehaviour:
     t\xFCrl\xFC g\xF6zlerime \rinanam\u0131yorum!\" diye s\xF6yleniyordu. \rOnlara
     \xF6yk\xFCn\xFC k\u0131saca anlatt\u0131n. Bal\u0131k\xE7\u0131 \rseninle jip
     aras\u0131nda durdu\u011Fu i\xE7in Bru'yu \rg\xF6rememi\u015Fti.\n\"Bu yarat\u0131\u011F\u0131n
-    ne oldu\u011Funu \r\nbilemiyorum ama ke\u015Fke onu yakalayabilseydim\" dedi inanmaz
-    bir halde. \r\nBru'nun ka\xE7mas\u0131na sevinmi\u015Ftin. Ama \r\n\u015Fimdi
+    ne oldu\u011Funu \rbilemiyorum ama ke\u015Fke onu yakalayabilseydim\" dedi inanmaz
+    bir halde. \r\n\tBru'nun ka\xE7mas\u0131na sevinmi\u015Ftin. Ama \r\u015Fimdi
     ne olacakt\u0131? Ba\u015F\u0131ndan ge\xE7enlere ve bir \rdeli olmad\u0131\u011F\u0131na
     herkesi nas\u0131l inand\u0131racakt\u0131n? Her \u015Fey bir yana, Bru'nun birka\xE7
     k\xF6t\xFCn\xFCn \rd\u0131\u015F\u0131ndaki milyonlarca insan\u0131n iyi oldu\u011Funu

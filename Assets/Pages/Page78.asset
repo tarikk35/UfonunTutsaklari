@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -11,8 +11,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
   m_Name: Page78
   m_EditorClassIdentifier: 
-  storyText: "U-TY'NIN A\u011ELAMAYA IHTIYACI YOKTUR. U-TY'NIN G\xDCLMEYE IHTIYACI
-    YOKTUR. \"\xD6yleyse siz ya\u015Fam\u0131yorsunuz!\" diye d\xFC\u015F\xFCnmeden
+  storyText: "\tU-TY'NIN A\u011ELAMAYA IHTIYACI YOKTUR. U-TY'NIN G\xDCLMEYE IHTIYACI
+    YOKTUR. \n\"\xD6yleyse siz ya\u015Fam\u0131yorsunuz!\" diye d\xFC\u015F\xFCnmeden
     ba\u011F\u0131rd\u0131n.\n \"Ya\u015Fam\u0131yorsunuz!\" diye yineledi Kim Li.
     U-TY'ler koskocaman birer fosforlu deniz anas\u0131 gibi titrediler. \xD6nce \u015Fim\u015Fek
     gibi parlay\u0131p ard\u0131ndan tamamen s\xF6nd\xFCler. \xC7evrenizdeki duvarlar
@@ -21,9 +21,9 @@ MonoBehaviour:
     Sonra, U-TY'ler gibi o da sustu. Kim Li ve sen alacakaranl\u0131kta birbirinize
     bakt\u0131n\u0131z. \n\"Onca bilgi ve becerilerine, s\u0131n\u0131rs\u0131z g\xFC\xE7lerine
     ra\u011Fmen onlar cans\u0131z birer ara\xE7tan ba\u015Fka bir \u015Fey de\u011Fildi
-    \" dedi Kim Li. \"Ger\xE7ek-ten ya\u015Famad\u0131klar\u0131n\u0131n fark\u0131na
+    \" dedi Kim Li. \n\"Ger\xE7ekten ya\u015Famad\u0131klar\u0131n\u0131n fark\u0131na
     var\u0131nca t\xFCm enerjilerini yitirdiler. Bu da onlar\u0131n sonu. oldu.\"
-    \n\"Peki \u015Fimdi biz ne olaca\u011F\u0131z?\" diye sordun. \"\xD6nce UFO'nun
+    \n\"Peki \u015Fimdi biz ne olaca\u011F\u0131z?\" diye sordun. \n\"\xD6nce UFO'nun
     y\xF6netimini \xF6\u011Frenmeliyiz. Nas\u0131l g\xF6r\xFCnmez hale geldiklerini
     biliyorum. \u0130stersen D\xFCnya'ya kendimizi g\xF6stermek i\xE7in \xF6nce g\xF6r\xFCn\xFCr
     hale gelelim. Bu bizim tek kurtulu\u015F \u015Fans\u0131m\u0131z.\" \r"

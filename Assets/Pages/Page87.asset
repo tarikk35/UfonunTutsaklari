@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -14,7 +14,7 @@ MonoBehaviour:
   storyText: "Ka\xE7ma plan\u0131n\u0131 d\xFC\u015F\xFCnmemenin m\xFCmk\xFCn olmad\u0131\u011F\u0131n\u0131
     kendi kendine kabul ettin. U-TY y\xF6neticileri d\xFC\u015F\xFCncelerini okuyabilirdi.
     Robotlar seni al\u0131p karanl\u0131k bir yerde b\u0131rakt\u0131. \u015Eimdi
-    orada yapayaln\u0131zd\u0131n\u0131 ve kaderinin ne olaca\u011F\u0131n\u0131 bekliyordun.
+    orada yapayaln\u0131zd\u0131n\u0131 ve kaderinin ne olaca\u011F\u0131n\u0131 bekliyordun.\n
     SOMO'YA GIDIYORSUNUZ. \nU-TY ger\xE7ekten senin akl\u0131ndan ge\xE7enleri okumu\u015Ftu.
     Ka\xE7mak istedi\u011Fini anlam\u0131\u015Ft\u0131. I\u015Fte bu y\xFCzden kaderin
     belli olmu\u015Ftu. Az sonra manyetik bir g\xFC\xE7 taraf\u0131ndan \xE7ekildi\u011Fini

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee6103e817a02b4397d26b9861f49bb, type: 3}
+  m_Name: Page0
+  m_EditorClassIdentifier: 
+  storyText: "Macerasever dostum! Bu hikayeyi okurken heyecanl\u0131 bir ser\xFCven
+    ya\u015Fayacaks\u0131n. Onu al\u0131\u015F\u0131k oldu\u011Fun di\u011Fer hikayeler
+    gibi okumayacak, sonlar aras\u0131nda diledi\u011Fince gezineceksin. Ve bu hikayenin
+    ba\u015Fkahraman\u0131 sen olacaks\u0131n! Ultima'ya varmal\u0131, o Uzay Cenneti'ni
+    bulmal\u0131s\u0131n. D\xFC\u011F\xFCm\xFC \xE7\xF6zecek b\xFCt\xFCn ipu\xE7lar\u0131n\u0131n
+    bu kay\u0131p vadide oldu\u011Funu seziyorsun. Ama yolda \xE7e\u015Fitli maceralar
+    bekliyor seni. Olaylar geli\u015Ftik\xE7e, yer yer senden birtak\u0131m kararlar
+    vermeni, se\xE7imler yapman\u0131 isteyece\u011Fim. Yapt\u0131\u011F\u0131n se\xE7ime
+    g\xF6re hangi tu\u015Fa basman gerekti\u011Fini de belirtece\u011Fim. Hikayenin
+    ak\u0131\u015F\u0131 senin kararlar\u0131na g\xF6re de\u011Fi\u015Fecek. Tabii
+    bu arada ba\u015F\u0131na geleceklerden de sen sorumlu olacaks\u0131n; \xE7\xFCnk\xFC
+    ya\u015Fayacaklar\u0131n senin se\xE7imin olacak. Belki ilk deneyinde ba\u015F\u0131na
+    umulmad\u0131k \u015Feyler geldi. Ba\u015Far\u0131s\u0131zl\u0131\u011Fa u\u011Frad\u0131n.
+    Dlilersen kazand\u0131\u011F\u0131n tecr\xFCbeyle \u015Fans\u0131n\u0131 bir daha,
+    bir daha deneyebilirsin. Ta ki, talihsizliklerden y\u0131lmayan cesur biri olarak
+    amac\u0131na uta\u015Fana dek. Herhangi bir davran\u0131\u015Fta bulunmadan \xF6nce
+    iyice d\xFC\u015F\xFCn. E\u011Fer \u015Fans\u0131n yaver gider de Ultima'ya ula\u015Fabilirsen,
+    yaln\u0131z g\xF6revini ba\u015Farmakla kalmaz, oradaki gizli Uzay Cennetine de
+    ula\u015Fabilirsin. Ancak ataca\u011F\u0131n herhangi bir yanl\u0131\u015F ad\u0131mda,
+    arad\u0131\u011F\u0131n Uzay Cenneti gibi sen de kaybolup gidersin. \u0130yi \u015Fanslar.
+    \ \r\n"
+  nextStates:
+  - {fileID: 11400000, guid: aae58c2a4fd3d3041b9df387d75dbe81, type: 2}
+  pathText: "Oyunun sonuna geldi\u011Finde tekrar ilk sayfaya gelmek ve yeniden denemek
+    i\xE7in klavyenden R tu\u015Funa bas. \nOyuna ba\u015Flamak i\xE7inse ENTER tu\u015Funa
+    bas."

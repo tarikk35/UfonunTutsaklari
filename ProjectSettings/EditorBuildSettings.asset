@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/UFO.unity
+    guid: 98ead985809b4d8439797c61dbcf380f
+  m_configObjects: {}

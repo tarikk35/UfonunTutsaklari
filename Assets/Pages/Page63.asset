@@ -3,7 +3,7 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -21,7 +21,7 @@ MonoBehaviour:
     \r\n\tOlan biten her\u015Fey sana \xE7ok, \xE7ok eskilerde\r kalm\u0131\u015F
     gibi geliyordu. Uzayda bir yerde \rolmal\u0131yd\u0131n, \xE7unk\xFC art\u0131k
     a\u011F\u0131rl\u0131\u011F\u0131n yoktu. \rYumu\u015Fak bir ses beyninde m\u0131r\u0131ldan\u0131yordu.
-    \nGARIP DAVRANISLARINIZ VAR. SIZE \r\nVERDIGIMIZ YATISTIRICI ILE SAKINLESTINIZ.
+    \nGARIP DAVRANISLARINIZ VAR. SIZE \rVERDIGIMIZ YATISTIRICI ILE SAKINLESTINIZ.
     TUHAF BIR INSANSINIZ. SIZI DAHA \rYAKINDAN INCELEMELIYIZ... U-TY'NIN \rLABORATUVARINDA...
     \r"
   nextPaths: {fileID: 0}
